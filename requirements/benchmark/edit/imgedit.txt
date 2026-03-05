@@ -1,0 +1,5 @@
+transformers>=4.57.0
+qwen-vl-utils==0.0.14
+# flash-attn
+openai
+tenacity

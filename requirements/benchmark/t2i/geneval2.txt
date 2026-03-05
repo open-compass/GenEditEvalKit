@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers==4.57.0
+pillow
+tqdm
+scipy
+accelerate

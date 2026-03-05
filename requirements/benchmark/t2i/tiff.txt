@@ -1,0 +1,4 @@
+vllm
+
+paddlepaddle-gpu
+paddleocr

@@ -1,0 +1,7 @@
+META: # Final SFT Data
+  # Text-to-Image Data --> refer to assets/t2i_sample.json
+  - path: 'your/t2i/data.json' 
+  # Understanding Data --> refer to assets/mmu_sample.json
+  - path: 'your/mmu/data.json'
+  # Image-to-Image
+  - path: 'your/i2i/data.json'

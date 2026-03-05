@@ -1,0 +1,25 @@
+# pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu118
+
+# 使用conda安装需要编译的包
+# conda install pyarrow sentencepiece -c conda-forge
+
+# 后续还需要安装的包
+# pip install prettytable py-cpuinfo ruamel.yaml
+# pip install click
+
+transformers
+datasets
+scipy
+# sentencepiece
+gdown
+tqdm
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
+open-clip-torch
+opencv-python
+opencv-python-headless
+openai
+einops
+pandas
+# salesforce-lavis
