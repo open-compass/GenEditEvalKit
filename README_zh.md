@@ -51,8 +51,8 @@
    - 后续我们将持续补充新 benchmark，也欢迎社区贡献（PR）
 
 ### 当前支持的 benchmark
-- **T2I（11）**：`dpgbench`、`genai`、`geneval`、`geneval2`、`hpsv2`、`longtext`、`oneig`、`t2ireasonbench`、`tiff`、`unigenbench`、`wise`
-- **Editing（1）**：`imgedit`
+- **T2I（12）**：`dpgbench`、`genai`、`geneval`、`geneval2`、`genexam`、`hpsv2`、`longtext`、`oneig`、`t2ireasonbench`、`tiff`、`unigenbench`、`wise`
+- **Editing（2）**：`imgedit`, `risebench`
 
 ---
  

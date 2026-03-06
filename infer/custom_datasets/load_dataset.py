@@ -12,6 +12,9 @@ def load_dataset(dataset_name):
     elif dataset_name == 'geneval2':
         from .dataset_cls.t2i.geneval2 import GenEval2
         return GenEval2()
+    elif dataset_name == 'genexam':
+        from .dataset_cls.t2i.genexam import GenExam
+        return GenExam()
     elif dataset_name == 'hpsv2':
         from .dataset_cls.t2i.hpsv2 import HPSv2
         return HPSv2()
@@ -39,6 +42,9 @@ def load_dataset(dataset_name):
     elif dataset_name == 'imgedit':
         from .dataset_cls.edit.imgedit import ImgEdit
         return ImgEdit()
+    elif dataset_name == 'rise':
+        from .dataset_cls.edit.rise import RISE
+        return RISE()
     
     else:
         raise ValueError(f"Benchmark {dataset_name} is not supported.")
