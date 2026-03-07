@@ -54,7 +54,7 @@ To address this issue, we developed **GenEditEvalKit**—a general-purpose evalu
 - Supports fast lookup of inference outputs and evaluation metrics by "model × benchmark", facilitating comparison, visualization, and debugging.
 
 ### 🎭 5. Integrated Generation and Editing Benchmarks
-- The toolkit currently integrates **12 generation benchmarks** and **4 editing benchmark**, ready to use after cloning the repository.
+- The toolkit currently integrates **12 generation benchmarks** and **4 editing benchmarks**, ready to use after cloning the repository.
 - Editing benchmarks commonly include input images and thus can be large in size. To control repository size, only a smaller benchmark, **imgedit**, is retained as a reference implementation. Users may deploy other editing benchmarks based on this example.
 - We will continue to add new benchmarks, and community contributions (PRs) are welcome 🎉
 
@@ -447,6 +447,14 @@ After downloading all required artifacts, set `HOME`, `HF_HOME`, and `TRANSFORME
 If you use GenEditEvalKit in your research or wish to refer to published OpenSource evaluation results, please use the following BibTeX entry and the BibTex entry corresponding to the specific model / benchmark you used.
 ```bibtex
 ```
+
+In addition, we will continue to expand model and benchmark support and improve the toolkit. Community contributions are highly welcome 🎉
+
+> **We welcome pull requests for:**
+> - adding support for **new models** and **new benchmarks**,
+> - fixing **bugs** and improving **documentation**,
+> - improving **runtime efficiency**, **robustness**, and **resource utilization**,
+> - and enhancing the toolkit’s **modularity**, **extensibility**, and overall **ease of use**.
 
 ## 👥 Contributors
 
