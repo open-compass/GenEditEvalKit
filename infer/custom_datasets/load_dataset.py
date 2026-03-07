@@ -42,9 +42,15 @@ def load_dataset(dataset_name):
     elif dataset_name == 'imgedit':
         from .dataset_cls.edit.imgedit import ImgEdit
         return ImgEdit()
+    elif dataset_name == 'krisbench':
+        from .dataset_cls.edit.krisbench import KRISBench
+        return KRISBench()
     elif dataset_name == 'rise':
         from .dataset_cls.edit.rise import RISE
         return RISE()
+    elif dataset_name == 'wiseedit':
+        from .dataset_cls.edit.wiseedit import WiseEdit
+        return WiseEdit()
     
     else:
         raise ValueError(f"Benchmark {dataset_name} is not supported.")

@@ -8,7 +8,7 @@
  
  ---
  
- ## 目录
+# 目录
 
 - [功能特性](#功能特性)
 - [快速开始](#快速开始)
@@ -26,7 +26,7 @@
 
 ---
  
- # 功能特性
+# 功能特性
 
 1. **多模型 × 多 benchmark 统一评测**  
    - 相比传统脚本通常只能评测「单模型 × 单 benchmark」的组合，GenEditEvalKit 支持在一次运行中同时评测多个模型在多个 benchmark 上的表现；  
@@ -46,34 +46,69 @@
    - 支持按「模型 × benchmark」快速定位推理输出与评测指标，方便后续对比分析、可视化和问题排查。
 
 5. **已集成多个生成和编辑的 Benchmark**
-   - 目前已集成 **11 个生成 benchmark** 和 **1 个编辑 benchmark**，下载仓库后可直接使用
+   - 目前已集成 **12 个生成 benchmark** 和 **4 个编辑 benchmark**，下载仓库后可直接使用
    - 编辑 benchmark 通常包含输入图片，导致体积较大。为控制仓库大小，仅保留体积较小的 imgedit 作为参考实现。用户可基于此自行部署其他编辑 benchmark
    - 后续我们将持续补充新 benchmark，也欢迎社区贡献（PR）
 
-### 当前支持的 benchmark
-- **T2I（12）**：`dpgbench`、`genai`、`geneval`、`geneval2`、`genexam`、`hpsv2`、`longtext`、`oneig`、`t2ireasonbench`、`tiff`、`unigenbench`、`wise`
-- **Editing（2）**：`imgedit`, `risebench`
+## 当前支持的 benchmark
+<table>
+  <thead>
+    <tr>
+      <th align="left">T2I Benchmark</th>
+      <th align="left">Original Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><code>dpgbench</code></td><td><a href="https://github.com/TencentQQGYLab/ELLA">TencentQQGYLab/ELLA</a></td></tr>
+    <tr><td><code>genai</code></td><td><a href="https://huggingface.co/datasets/BaiqiL/GenAI-Bench">BaiqiL/GenAI-Bench</a></td></tr>
+    <tr><td><code>geneval</code></td><td><a href="https://github.com/djghosh13/geneval">djghosh13/geneval</a></td></tr>
+    <tr><td><code>geneval2</code></td><td><a href="https://github.com/facebookresearch/GenEval2">facebookresearch/GenEval2</a></td></tr>
+    <tr><td><code>genexam</code></td><td><a href="https://github.com/OpenGVLab/GenExam">OpenGVLab/GenExam</a></td></tr>
+    <tr><td><code>hpsv2</code></td><td><a href="https://github.com/tgxs002/HPSv2">tgxs002/HPSv2</a></td></tr>
+    <tr><td><code>longtext</code></td><td><a href="https://github.com/X-Omni-Team/X-Omni">X-Omni-Team/X-Omni</a></td></tr>
+    <tr><td><code>oneig</code></td><td><a href="https://github.com/OneIG-Bench/OneIG-Benchmark">OneIG-Bench/OneIG-Benchmark</a></td></tr>
+    <tr><td><code>t2ireasonbench</code></td><td><a href="https://github.com/KaiyueSun98/T2I-ReasonBench">KaiyueSun98/T2I-ReasonBench</a></td></tr>
+    <tr><td><code>tiff</code></td><td><a href="https://github.com/A113N-W3I/TIIF-Bench">A113N-W3I/TIIF-Bench</a></td></tr>
+    <tr><td><code>unigenbench</code></td><td><a href="https://github.com/CodeGoat24/UniGenBench">CodeGoat24/UniGenBench</a></td></tr>
+    <tr><td><code>wise</code></td><td><a href="https://github.com/PKU-YuanGroup/WISE">PKU-YuanGroup/WISE</a></td></tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Editing Benchmark</th>
+      <th align="left">Original Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><code>imgedit</code></td><td><a href="https://github.com/PKU-YuanGroup/ImgEdit">PKU-YuanGroup/ImgEdit</a></td></tr>
+    <tr><td><code>krisbench</code></td><td><a href="https://github.com/mercurystraw/Kris_Bench">mercurystraw/Kris_Bench</a></td></tr>
+    <tr><td><code>risebench</code></td><td><a href="https://github.com/PhoenixZ810/RISEBench">PhoenixZ810/RISEBench</a></td></tr>
+    <tr><td><code>wiseedit</code></td><td><a href="https://github.com/beepkh/WiseEdit">beepkh/WiseEdit</a></td></tr>
+  </tbody>
+</table>
 
 ---
  
- # 快速开始
+# 快速开始
 
 下面给出一个**可直接运行**的示例：通过 **OpenAI API 兼容接口**直接评测 `GPT-Image-1.5` 在 `Imgedit` 上的表现
 
-### 运行前提
+## 运行前提
 在执行命令前，请确保在 `config.sh` 中完成以下配置：
 1. **API 配置**：填写 `API_KEY`（如使用自定义网关，还需填写 `BASE_URL`）。
 2. **路径配置**：填写 `CONDA_BASE` 为你的 conda 安装路径。
 3. **环境映射**：在 `INFER_ENV_MAP` 中为 `gpt-image-1.5` 指定环境（需安装 `openai` 库和 `Pillow`库），在 `EVAL_ENV_MAP` 中为 `imgedit` 指定环境（需通过 `pip install -r requirements/benchmark/edit/imgedit.txt` 配置）。
 
-### 执行命令
+## 执行命令
 ```bash
 bash eval.sh --model_names "gpt-image-1.5" --ds_names "imgedit" --use_api true --num_workers 4 --infer true --eval true
 ```
 
 ---
  
- # 使用指南
+# 使用指南
 
 ## 环境配置
 

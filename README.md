@@ -54,13 +54,48 @@ To address this issue, we developed **GenEditEvalKit**—a general-purpose evalu
 - Supports fast lookup of inference outputs and evaluation metrics by "model × benchmark", facilitating comparison, visualization, and debugging.
 
 ### 🎭 5. Integrated Generation and Editing Benchmarks
-- The toolkit currently integrates **11 generation benchmarks** and **1 editing benchmark**, ready to use after cloning the repository.
+- The toolkit currently integrates **12 generation benchmarks** and **4 editing benchmark**, ready to use after cloning the repository.
 - Editing benchmarks commonly include input images and thus can be large in size. To control repository size, only a smaller benchmark, **imgedit**, is retained as a reference implementation. Users may deploy other editing benchmarks based on this example.
 - We will continue to add new benchmarks, and community contributions (PRs) are welcome 🎉
 
-#### Currently Supported Benchmarks
-- **T2I (12):** `dpgbench`, `genai`, `geneval`, `geneval2`, `genexam`, `hpsv2`, `longtext`, `oneig`, `t2ireasonbench`, `tiff`, `unigenbench`, `wise`
-- **Editing (2):** `imgedit`, `risebench`
+### Currently Supported Benchmarks
+<table>
+  <thead>
+    <tr>
+      <th align="left">T2I Benchmark</th>
+      <th align="left">Original Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><code>dpgbench</code></td><td><a href="https://github.com/TencentQQGYLab/ELLA">TencentQQGYLab/ELLA</a></td></tr>
+    <tr><td><code>genai</code></td><td><a href="https://huggingface.co/datasets/BaiqiL/GenAI-Bench">BaiqiL/GenAI-Bench</a></td></tr>
+    <tr><td><code>geneval</code></td><td><a href="https://github.com/djghosh13/geneval">djghosh13/geneval</a></td></tr>
+    <tr><td><code>geneval2</code></td><td><a href="https://github.com/facebookresearch/GenEval2">facebookresearch/GenEval2</a></td></tr>
+    <tr><td><code>genexam</code></td><td><a href="https://github.com/OpenGVLab/GenExam">OpenGVLab/GenExam</a></td></tr>
+    <tr><td><code>hpsv2</code></td><td><a href="https://github.com/tgxs002/HPSv2">tgxs002/HPSv2</a></td></tr>
+    <tr><td><code>longtext</code></td><td><a href="https://github.com/X-Omni-Team/X-Omni">X-Omni-Team/X-Omni</a></td></tr>
+    <tr><td><code>oneig</code></td><td><a href="https://github.com/OneIG-Bench/OneIG-Benchmark">OneIG-Bench/OneIG-Benchmark</a></td></tr>
+    <tr><td><code>t2ireasonbench</code></td><td><a href="https://github.com/KaiyueSun98/T2I-ReasonBench">KaiyueSun98/T2I-ReasonBench</a></td></tr>
+    <tr><td><code>tiff</code></td><td><a href="https://github.com/A113N-W3I/TIIF-Bench">A113N-W3I/TIIF-Bench</a></td></tr>
+    <tr><td><code>unigenbench</code></td><td><a href="https://github.com/CodeGoat24/UniGenBench">CodeGoat24/UniGenBench</a></td></tr>
+    <tr><td><code>wise</code></td><td><a href="https://github.com/PKU-YuanGroup/WISE">PKU-YuanGroup/WISE</a></td></tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Editing Benchmark</th>
+      <th align="left">Original Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><code>imgedit</code></td><td><a href="https://github.com/PKU-YuanGroup/ImgEdit">PKU-YuanGroup/ImgEdit</a></td></tr>
+    <tr><td><code>krisbench</code></td><td><a href="https://github.com/mercurystraw/Kris_Bench">mercurystraw/Kris_Bench</a></td></tr>
+    <tr><td><code>risebench</code></td><td><a href="https://github.com/PhoenixZ810/RISEBench">PhoenixZ810/RISEBench</a></td></tr>
+    <tr><td><code>wiseedit</code></td><td><a href="https://github.com/beepkh/WiseEdit">beepkh/WiseEdit</a></td></tr>
+  </tbody>
+</table>
 
 ---
 

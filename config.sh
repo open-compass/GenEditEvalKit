@@ -63,7 +63,9 @@ EVAL_ENV_MAP=(
 
   # Editing
   ['imgedit']=''
+  ['krisbench']=''
   ['rise']=''
+  ['wiseedit']=''
 )
 
 # Number of GPUs Used During Benchmark Evaluation (The default configuration is based on H200 with 140 GB memory. Please adjust according to your actual GPU memory size and the number of GPUs available. For example, if you are using A100 with 80GB GPUs, it is recommended to set t2ireasonbench from 2 to 4 GPUs to ensure Qwen2.5-VL-72B can run successfully.)
@@ -72,19 +74,21 @@ EVAL_ENV_MAP=(
 declare -gA EVAL_GPU_MAP
 EVAL_GPU_MAP=(
   ['dpgbench']=1
+  ['genai']=1
   ['geneval']=1
   ['geneval2']=1
-  ['imgedit']=0
-  ['wise']=0
-  ['genai']=1
+  ['genexam']=0
   ['hpsv2']=1
+  ['krisbench']=0
+  ['longtext']=1
   ['oneig']=1
   ['t2ireasonbench']=2
-  ['genexam']=0
-  ['rise']=0
-  ['longtext']=1
   ['tiff']=0
   ['unigenbench']=0
+  ['wise']=0
+  ['imgedit']=0
+  ['rise']=0
+  ['wiseedit']=0
 )
 
 ## 10. Whether to Run Evaluations of Multiple Model-Benchmark Combinations in Parallel (Recommended to enable if sufficient GPU memory is available to speed up evaluation)
