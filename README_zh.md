@@ -82,6 +82,7 @@
     </tr>
   </thead>
   <tbody>
+    <tr><td><code>gedit/gedit_cn</code></td><td><a href="https://github.com/stepfun-ai/Step1X-Edit">stepfun-ai/Step1X-Edit</a></td></tr>
     <tr><td><code>imgedit</code></td><td><a href="https://github.com/PKU-YuanGroup/ImgEdit">PKU-YuanGroup/ImgEdit</a></td></tr>
     <tr><td><code>krisbench</code></td><td><a href="https://github.com/mercurystraw/Kris_Bench">mercurystraw/Kris_Bench</a></td></tr>
     <tr><td><code>risebench</code></td><td><a href="https://github.com/PhoenixZ810/RISEBench">PhoenixZ810/RISEBench</a></td></tr>
