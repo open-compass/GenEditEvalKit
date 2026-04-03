@@ -51,6 +51,12 @@ def load_dataset(dataset_name):
     elif dataset_name == 'wiseedit':
         from .dataset_cls.edit.wiseedit import WiseEdit
         return WiseEdit()
+    elif dataset_name == 'gedit':
+        from .dataset_cls.edit.gedit import GEdit
+        return GEdit()
+    elif dataset_name == 'gedit_cn':
+        from .dataset_cls.edit.gedit import GEditCN
+        return GEditCN()
     
     else:
         raise ValueError(f"Benchmark {dataset_name} is not supported.")

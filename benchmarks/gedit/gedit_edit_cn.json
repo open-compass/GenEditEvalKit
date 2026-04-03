@@ -1,0 +1,3022 @@
+{
+  "4a7d36259ad94d238a6e7e7e0bd6b643": {
+    "prompt": "将背景改为城市街道",
+    "id": "fullset/background_change/cn/4a7d36259ad94d238a6e7e7e0bd6b643.png",
+    "edit_type": "background_change"
+  },
+  "05040717fb0f2ac80083ef81ee206ace": {
+    "prompt": "将背景更改为森林",
+    "id": "fullset/background_change/cn/05040717fb0f2ac80083ef81ee206ace.png",
+    "edit_type": "background_change"
+  },
+  "a76982639289faf26edf18a86d68ebf8": {
+    "prompt": "将背景更改为绿色大草原",
+    "id": "fullset/background_change/cn/a76982639289faf26edf18a86d68ebf8.png",
+    "edit_type": "background_change"
+  },
+  "57288ae252f43831390e2121a84b1780": {
+    "prompt": "将背景调整为海滩",
+    "id": "fullset/background_change/cn/57288ae252f43831390e2121a84b1780.png",
+    "edit_type": "background_change"
+  },
+  "bf2905a10d5da2ad897ef159eadc1821": {
+    "prompt": "将背景更改为森林",
+    "id": "fullset/background_change/cn/bf2905a10d5da2ad897ef159eadc1821.png",
+    "edit_type": "background_change"
+  },
+  "9b1b4768e51e99840785cc5b0f05ce8f": {
+    "prompt": "将背景调整为花园",
+    "id": "fullset/background_change/cn/9b1b4768e51e99840785cc5b0f05ce8f.png",
+    "edit_type": "background_change"
+  },
+  "2154828b5213504b358697eac664f3c0": {
+    "prompt": "将背景调整为森林",
+    "id": "fullset/background_change/cn/2154828b5213504b358697eac664f3c0.png",
+    "edit_type": "background_change"
+  },
+  "544c9de690f114560ab4e28f6c6bbf44": {
+    "prompt": "将背景调整为水泥地",
+    "id": "fullset/background_change/cn/544c9de690f114560ab4e28f6c6bbf44.png",
+    "edit_type": "background_change"
+  },
+  "c44b1ef6dd9d2d1f0e1168b848af3ca6": {
+    "prompt": "将背景调整为雪地",
+    "id": "fullset/background_change/cn/c44b1ef6dd9d2d1f0e1168b848af3ca6.png",
+    "edit_type": "background_change"
+  },
+  "ce13a98a496fe366099ea1d9894bd1a8": {
+    "prompt": "将背景改为高山",
+    "id": "fullset/background_change/cn/ce13a98a496fe366099ea1d9894bd1a8.png",
+    "edit_type": "background_change"
+  },
+  "ba8c75293f0f60353f6afb4b76e7eda0": {
+    "prompt": "将背景调整为海洋",
+    "id": "fullset/background_change/cn/ba8c75293f0f60353f6afb4b76e7eda0.png",
+    "edit_type": "background_change"
+  },
+  "f17eaba1650c7320694dd8a5493361b8": {
+    "prompt": "将背景调整为玻璃墙面",
+    "id": "fullset/background_change/cn/f17eaba1650c7320694dd8a5493361b8.png",
+    "edit_type": "background_change"
+  },
+  "b53d1d3a0534e61965bfa36b30cf1fb8": {
+    "prompt": "将背景更改为城市街道",
+    "id": "fullset/background_change/cn/b53d1d3a0534e61965bfa36b30cf1fb8.png",
+    "edit_type": "background_change"
+  },
+  "5879c4a5f276467de24f47fc927d482f": {
+    "prompt": "将背景调整为沙漠",
+    "id": "fullset/background_change/cn/5879c4a5f276467de24f47fc927d482f.png",
+    "edit_type": "background_change"
+  },
+  "e88625bb04f622bf73a13e76e47c405b": {
+    "prompt": "将背景调整为城市",
+    "id": "fullset/background_change/cn/e88625bb04f622bf73a13e76e47c405b.png",
+    "edit_type": "background_change"
+  },
+  "c29e28b92d10e4b4beb0a6b9517c215a": {
+    "prompt": "背景换成在日式神社门口",
+    "id": "fullset/background_change/cn/c29e28b92d10e4b4beb0a6b9517c215a.png",
+    "edit_type": "background_change"
+  },
+  "9077c3f99adb28dcdea8c9b877662e5e": {
+    "prompt": "背景换成在室内",
+    "id": "fullset/background_change/cn/9077c3f99adb28dcdea8c9b877662e5e.png",
+    "edit_type": "background_change"
+  },
+  "2c1d322cb7c60b1de8d0a17cc97b7c1b": {
+    "prompt": "请你根据这张照片，帮我生成一张本人的证件照",
+    "id": "fullset/background_change/cn/2c1d322cb7c60b1de8d0a17cc97b7c1b.png",
+    "edit_type": "background_change"
+  },
+  "0f385bcff859231789a9c978cafecc2a": {
+    "prompt": "背景换成星空",
+    "id": "fullset/background_change/cn/0f385bcff859231789a9c978cafecc2a.png",
+    "edit_type": "background_change"
+  },
+  "f7d391ffa970e18fc8393888295899f8": {
+    "prompt": "把背景换成海洋",
+    "id": "fullset/background_change/cn/f7d391ffa970e18fc8393888295899f8.png",
+    "edit_type": "background_change"
+  },
+  "99fd6314476a4af7cd75dd0a377f1ae5": {
+    "prompt": "把这个照片改成在沙漠",
+    "id": "fullset/background_change/cn/99fd6314476a4af7cd75dd0a377f1ae5.png",
+    "edit_type": "background_change"
+  },
+  "641cffb62276b86f154dfe64704b0411": {
+    "prompt": "背景换成内衣店，全景图，保持原图人物不变",
+    "id": "fullset/background_change/cn/641cffb62276b86f154dfe64704b0411.png",
+    "edit_type": "background_change"
+  },
+  "42072aa83c4cbeed62276c45e61f42a2": {
+    "prompt": "把背景改为春天的公园，然后这个人这个不要变化",
+    "id": "fullset/background_change/cn/42072aa83c4cbeed62276c45e61f42a2.png",
+    "edit_type": "background_change"
+  },
+  "806f4a1d864636f48a994032447bb5a8": {
+    "prompt": "帮我把背景去掉",
+    "id": "fullset/background_change/cn/806f4a1d864636f48a994032447bb5a8.png",
+    "edit_type": "background_change"
+  },
+  "165533290b7c205b0dd34d1053716dcb": {
+    "prompt": "帮我把这个天空换成蓝天白云",
+    "id": "fullset/background_change/cn/165533290b7c205b0dd34d1053716dcb.png",
+    "edit_type": "background_change"
+  },
+  "da491710942a88d0dd2059ec7d7e9ee6": {
+    "prompt": "把这个图片的背景换成天安门广场",
+    "id": "fullset/background_change/cn/da491710942a88d0dd2059ec7d7e9ee6.png",
+    "edit_type": "background_change"
+  },
+  "6357040e1522d2a852370b22e2b95300": {
+    "prompt": "图片背景改为珠穆朗玛峰",
+    "id": "fullset/background_change/cn/6357040e1522d2a852370b22e2b95300.png",
+    "edit_type": "background_change"
+  },
+  "05f80c40aa6ffd99a171a49fa43f7472": {
+    "prompt": "把背景p成上海外滩",
+    "id": "fullset/background_change/cn/05f80c40aa6ffd99a171a49fa43f7472.png",
+    "edit_type": "background_change"
+  },
+  "d5ca6ec7c3a7e2091afdbb852beb67a0": {
+    "prompt": "背景变成 卡通园",
+    "id": "fullset/background_change/cn/d5ca6ec7c3a7e2091afdbb852beb67a0.png",
+    "edit_type": "background_change"
+  },
+  "8ba1bc01568c11eb76e62b73a24b337f": {
+    "prompt": "把背景改为大海",
+    "id": "fullset/background_change/cn/8ba1bc01568c11eb76e62b73a24b337f.png",
+    "edit_type": "background_change"
+  },
+  "dae31be23abd02a042bbf9c3a0a2ed80": {
+    "prompt": "将人物背景换成阳光明媚，要求人物样貌不变，人物姿势不变，金色太阳普照大地，树木，草地，",
+    "id": "fullset/background_change/cn/dae31be23abd02a042bbf9c3a0a2ed80.png",
+    "edit_type": "background_change"
+  },
+  "218747d7f3c9ce2eaef0ea3083362626": {
+    "prompt": "背景换成夜景的都市",
+    "id": "fullset/background_change/cn/218747d7f3c9ce2eaef0ea3083362626.png",
+    "edit_type": "background_change"
+  },
+  "fe6029dda8b7663108393a7fbd5a7a48": {
+    "prompt": "将背景改为繁花似锦，布满鲜花。",
+    "id": "fullset/background_change/cn/fe6029dda8b7663108393a7fbd5a7a48.png",
+    "edit_type": "background_change"
+  },
+  "5f04fd7528d090db1347c36c9e1ca89f": {
+    "prompt": "请帮忙把背景墙改成绿色的森林和高山，并有灿烂的阳光和远处的飞鸟。",
+    "id": "fullset/background_change/cn/5f04fd7528d090db1347c36c9e1ca89f.png",
+    "edit_type": "background_change"
+  },
+  "267512f5681adb18375d3efad1f10228": {
+    "prompt": "可以帮我把这张图片的背景扣掉吗？只保留超人人物",
+    "id": "fullset/background_change/cn/267512f5681adb18375d3efad1f10228.png",
+    "edit_type": "background_change"
+  },
+  "1e6d1fa7e02689ee2409aa686132cab1": {
+    "prompt": "换个忧伤的背景",
+    "id": "fullset/background_change/cn/1e6d1fa7e02689ee2409aa686132cab1.png",
+    "edit_type": "background_change"
+  },
+  "1008256303fc5fc6ef56efccf12da5da": {
+    "prompt": "把背景换成足球场",
+    "id": "fullset/background_change/cn/1008256303fc5fc6ef56efccf12da5da.png",
+    "edit_type": "background_change"
+  },
+  "23e79f182ac8892ca79e343e987f147c": {
+    "prompt": "帮我把背景换成宇宙飞船的布局",
+    "id": "fullset/background_change/cn/23e79f182ac8892ca79e343e987f147c.png",
+    "edit_type": "background_change"
+  },
+  "09e1f235d3d395c3aff0fd36ec3dd034": {
+    "prompt": "给背景增加一些雪",
+    "id": "fullset/background_change/cn/09e1f235d3d395c3aff0fd36ec3dd034.png",
+    "edit_type": "background_change"
+  },
+  "214f8945db17cd0bf5c4b043408de0d0": {
+    "prompt": "把这张照片背景换成山水",
+    "id": "fullset/background_change/cn/214f8945db17cd0bf5c4b043408de0d0.png",
+    "edit_type": "background_change"
+  },
+  "0d6038e1736440c2fb8384b4bf495e13": {
+    "prompt": "将伞的颜色改为棕色",
+    "id": "fullset/color_alter/cn/0d6038e1736440c2fb8384b4bf495e13.png",
+    "edit_type": "color_alter"
+  },
+  "981afb942cdf3cbacf7614f47ff21b2d": {
+    "prompt": "将山羊的颜色改为黄色",
+    "id": "fullset/color_alter/cn/981afb942cdf3cbacf7614f47ff21b2d.png",
+    "edit_type": "color_alter"
+  },
+  "61c156a2c97fee9424bbb0f13fa2c5f8": {
+    "prompt": "将消防栓的颜色改为薰衣草色",
+    "id": "fullset/color_alter/cn/61c156a2c97fee9424bbb0f13fa2c5f8.png",
+    "edit_type": "color_alter"
+  },
+  "174b49f45ca4ff5d1d3ea06096b78e57": {
+    "prompt": "将大象的颜色改为粉色",
+    "id": "fullset/color_alter/cn/174b49f45ca4ff5d1d3ea06096b78e57.png",
+    "edit_type": "color_alter"
+  },
+  "f437c7392b76ded921a0abc243f81290": {
+    "prompt": "将沙发的颜色改为黄色",
+    "id": "fullset/color_alter/cn/f437c7392b76ded921a0abc243f81290.png",
+    "edit_type": "color_alter"
+  },
+  "fe29684864bbb7bd408bf2235acdfa4a": {
+    "prompt": "将马的颜色改为紫罗兰色",
+    "id": "fullset/color_alter/cn/fe29684864bbb7bd408bf2235acdfa4a.png",
+    "edit_type": "color_alter"
+  },
+  "a4ca581574347248e1762c4987c931aa": {
+    "prompt": "将公交车的颜色改为酸橙色",
+    "id": "fullset/color_alter/cn/a4ca581574347248e1762c4987c931aa.png",
+    "edit_type": "color_alter"
+  },
+  "00644e09e285f614bbfae5883328b4df": {
+    "prompt": "将镜框的颜色改为橙色",
+    "id": "fullset/color_alter/cn/00644e09e285f614bbfae5883328b4df.png",
+    "edit_type": "color_alter"
+  },
+  "fb71870e760822d8674699ceb7034449": {
+    "prompt": "将飞机的颜色改为粉色",
+    "id": "fullset/color_alter/cn/fb71870e760822d8674699ceb7034449.png",
+    "edit_type": "color_alter"
+  },
+  "4e80301c1139c647487f06abf0596e0d": {
+    "prompt": "将熊的颜色改为黑色",
+    "id": "fullset/color_alter/cn/4e80301c1139c647487f06abf0596e0d.png",
+    "edit_type": "color_alter"
+  },
+  "f32d0e13e862622da612225a17b9db2c": {
+    "prompt": "将夹克的颜色改为紫色",
+    "id": "fullset/color_alter/cn/f32d0e13e862622da612225a17b9db2c.png",
+    "edit_type": "color_alter"
+  },
+  "de24af54e090d3a53ca853945816f0eb": {
+    "prompt": "将绵羊的颜色改为紫色",
+    "id": "fullset/color_alter/cn/de24af54e090d3a53ca853945816f0eb.png",
+    "edit_type": "color_alter"
+  },
+  "c66920936a630590e1328a56b2d6f08c": {
+    "prompt": "将男人的颜色改为粉色",
+    "id": "fullset/color_alter/cn/c66920936a630590e1328a56b2d6f08c.png",
+    "edit_type": "color_alter"
+  },
+  "eaec3869433bbce38928002406a3580e": {
+    "prompt": "将时钟的颜色改为棕色",
+    "id": "fullset/color_alter/cn/eaec3869433bbce38928002406a3580e.png",
+    "edit_type": "color_alter"
+  },
+  "bfdbf8372bc32e04bf6d6d0e692fdbf4": {
+    "prompt": "将鸟的颜色改为棕褐色",
+    "id": "fullset/color_alter/cn/bfdbf8372bc32e04bf6d6d0e692fdbf4.png",
+    "edit_type": "color_alter"
+  },
+  "41fbe7550d337d07d030b308f2099d1f": {
+    "prompt": "将甜甜圈的颜色改为银色",
+    "id": "fullset/color_alter/cn/41fbe7550d337d07d030b308f2099d1f.png",
+    "edit_type": "color_alter"
+  },
+  "f75869d17b9c7a8770ad0658843bed85": {
+    "prompt": "将手提箱的颜色改为银色",
+    "id": "fullset/color_alter/cn/f75869d17b9c7a8770ad0658843bed85.png",
+    "edit_type": "color_alter"
+  },
+  "aa027d2c15403d4027f71ea4da0a93f1": {
+    "prompt": "将狗的颜色改为粉色",
+    "id": "fullset/color_alter/cn/aa027d2c15403d4027f71ea4da0a93f1.png",
+    "edit_type": "color_alter"
+  },
+  "b94ccee6f986cf0fddb523eaae04bdfa": {
+    "prompt": "将衬衫的颜色改为灰色",
+    "id": "fullset/color_alter/cn/b94ccee6f986cf0fddb523eaae04bdfa.png",
+    "edit_type": "color_alter"
+  },
+  "3b496f697bda6811d4e0d1c5d618d6b8": {
+    "prompt": "将蛋糕的颜色改为绿色",
+    "id": "fullset/color_alter/cn/3b496f697bda6811d4e0d1c5d618d6b8.png",
+    "edit_type": "color_alter"
+  },
+  "3213cacb8b48889d0b13a019248528f5": {
+    "prompt": "帮我把领带换成黑色的",
+    "id": "fullset/color_alter/cn/3213cacb8b48889d0b13a019248528f5.png",
+    "edit_type": "color_alter"
+  },
+  "875cd6dbdbcc7a153cf1f62bb101a9e0": {
+    "prompt": "请把这辆车的车身改成跑车样子，颜色为紫色",
+    "id": "fullset/color_alter/cn/875cd6dbdbcc7a153cf1f62bb101a9e0.png",
+    "edit_type": "color_alter"
+  },
+  "60f8efd12b9e6e1db076d0ce71592eed": {
+    "prompt": "这张图换成白底图",
+    "id": "fullset/color_alter/cn/60f8efd12b9e6e1db076d0ce71592eed.png",
+    "edit_type": "color_alter"
+  },
+  "43bcfbd5afb5d12f74b43e33f13559f8": {
+    "prompt": "车身颜色改成蓝色",
+    "id": "fullset/color_alter/cn/43bcfbd5afb5d12f74b43e33f13559f8.png",
+    "edit_type": "color_alter"
+  },
+  "69d1ef2ac7a987ce31e0aa2d9e96beea": {
+    "prompt": "把桌布颜色变成亮红色",
+    "id": "fullset/color_alter/cn/69d1ef2ac7a987ce31e0aa2d9e96beea.png",
+    "edit_type": "color_alter"
+  },
+  "a70494ecea4bb3610fe41e5e5efe1033": {
+    "prompt": "修改这张图片，将墙面的颜色变成深灰色",
+    "id": "fullset/color_alter/cn/a70494ecea4bb3610fe41e5e5efe1033.png",
+    "edit_type": "color_alter"
+  },
+  "bc659e44391c92449841e3cd72dcd17b": {
+    "prompt": "把她的头发变得更短一些，再黑一点，黑色把他的头发变成黑色，变成黑色，",
+    "id": "fullset/color_alter/cn/bc659e44391c92449841e3cd72dcd17b.png",
+    "edit_type": "color_alter"
+  },
+  "37c16adc232e505fc6f0d6747d10e8f1": {
+    "prompt": "给丝袜换个颜色",
+    "id": "fullset/color_alter/cn/37c16adc232e505fc6f0d6747d10e8f1.png",
+    "edit_type": "color_alter"
+  },
+  "d0f17abfafec6172c241aa7ef30278a0": {
+    "prompt": "把床帘的颜色换成深灰色",
+    "id": "fullset/color_alter/cn/d0f17abfafec6172c241aa7ef30278a0.png",
+    "edit_type": "color_alter"
+  },
+  "8c541c8aaed6d5a8eb2d86162d39d01b": {
+    "prompt": "帮我把图片背景改成浅海色，边框要金色的",
+    "id": "fullset/color_alter/cn/8c541c8aaed6d5a8eb2d86162d39d01b.png",
+    "edit_type": "color_alter"
+  },
+  "104b3d9a195e2d012f07aa18a286c487": {
+    "prompt": "帮我把图片的颜色反转",
+    "id": "fullset/color_alter/cn/104b3d9a195e2d012f07aa18a286c487.png",
+    "edit_type": "color_alter"
+  },
+  "65e5510e9ed8036376e16afe77f8860e": {
+    "prompt": "帮我把照片中这个人的头发给改成黄色的黄毛",
+    "id": "fullset/color_alter/cn/65e5510e9ed8036376e16afe77f8860e.png",
+    "edit_type": "color_alter"
+  },
+  "87e9e81f29177023a7b988b5557d5d3d": {
+    "prompt": "把这个包变成红色",
+    "id": "fullset/color_alter/cn/87e9e81f29177023a7b988b5557d5d3d.png",
+    "edit_type": "color_alter"
+  },
+  "90c511de3025169322c026d5f7ed209b": {
+    "prompt": "帮我调成白底的证件照",
+    "id": "fullset/color_alter/cn/90c511de3025169322c026d5f7ed209b.png",
+    "edit_type": "color_alter"
+  },
+  "d87fe55d649a02fa15881364ab671351": {
+    "prompt": "帮我把这个照片精修一下，头发颜色整体白金色，发尾发型好看一点，烟花更灿烂绚丽一点",
+    "id": "fullset/color_alter/cn/d87fe55d649a02fa15881364ab671351.png",
+    "edit_type": "color_alter"
+  },
+  "4023c8e2e8a992a6768b47f1946d0027": {
+    "prompt": "能把墙面颜色换黄色",
+    "id": "fullset/color_alter/cn/4023c8e2e8a992a6768b47f1946d0027.png",
+    "edit_type": "color_alter"
+  },
+  "939aadbf02607ea772e7c214d0cbc0e1": {
+    "prompt": "把衣服变粉色",
+    "id": "fullset/color_alter/cn/939aadbf02607ea772e7c214d0cbc0e1.png",
+    "edit_type": "color_alter"
+  },
+  "e153b93ffb578c1939739628bad3c7a9": {
+    "prompt": "帮我换这个头像，蓝色色调，内容保持",
+    "id": "fullset/color_alter/cn/e153b93ffb578c1939739628bad3c7a9.png",
+    "edit_type": "color_alter"
+  },
+  "eeab5f9b2f3a62deb674c7bc6af021fb": {
+    "prompt": "车身颜色换灰色",
+    "id": "fullset/color_alter/cn/eeab5f9b2f3a62deb674c7bc6af021fb.png",
+    "edit_type": "color_alter"
+  },
+  "1711b0f26ae0d35b6b33b0cd8fd2a6dc": {
+    "prompt": "把床单颜色改为天蓝色",
+    "id": "fullset/color_alter/cn/1711b0f26ae0d35b6b33b0cd8fd2a6dc.png",
+    "edit_type": "color_alter"
+  },
+  "f521449fb89e5ded1f4ff725785d01b8": {
+    "prompt": "将帽子的材质改为泡沫塑料",
+    "id": "fullset/material_alter/cn/f521449fb89e5ded1f4ff725785d01b8.png",
+    "edit_type": "material_alter"
+  },
+  "da8a0c7926b0c53a2c01c3a28e79a2ef": {
+    "prompt": "将长椅的材质改为大理石",
+    "id": "fullset/material_alter/cn/da8a0c7926b0c53a2c01c3a28e79a2ef.png",
+    "edit_type": "material_alter"
+  },
+  "3df4fa90ddbeb16bfac10ede96f31262": {
+    "prompt": "公羊改用细腻陶瓷制作",
+    "id": "fullset/material_alter/cn/3df4fa90ddbeb16bfac10ede96f31262.png",
+    "edit_type": "material_alter"
+  },
+  "c18278ee2b0b3d8bd18c5279f4a8c636": {
+    "prompt": "将帽子的材质改为纸张",
+    "id": "fullset/material_alter/cn/c18278ee2b0b3d8bd18c5279f4a8c636.png",
+    "edit_type": "material_alter"
+  },
+  "cc99cdd8f171dfacc44cddb50b690743": {
+    "prompt": "用陶土重新塑造小猫",
+    "id": "fullset/material_alter/cn/cc99cdd8f171dfacc44cddb50b690743.png",
+    "edit_type": "material_alter"
+  },
+  "611ae6fbc57a2b364325650954b21510": {
+    "prompt": "将电脑外壳更换为竹纤维复合材料",
+    "id": "fullset/material_alter/cn/611ae6fbc57a2b364325650954b21510.png",
+    "edit_type": "material_alter"
+  },
+  "0f6baa8d76c35f11200abb099692ed18": {
+    "prompt": "将熊的材质改为玻璃",
+    "id": "fullset/material_alter/cn/0f6baa8d76c35f11200abb099692ed18.png",
+    "edit_type": "material_alter"
+  },
+  "9d76287b0d48bcff3cdff69b198f569e": {
+    "prompt": "公交车车身改为实木拼接结构",
+    "id": "fullset/material_alter/cn/9d76287b0d48bcff3cdff69b198f569e.png",
+    "edit_type": "material_alter"
+  },
+  "b83c07d09b8a5e602e152dbb6f0271d1": {
+    "prompt": "将飞机的材质改为羽毛的",
+    "id": "fullset/material_alter/cn/b83c07d09b8a5e602e152dbb6f0271d1.png",
+    "edit_type": "material_alter"
+  },
+  "625a9a448c17aecb16dce5b0da3075a6": {
+    "prompt": "将甜甜圈的材质改为铝箔",
+    "id": "fullset/material_alter/cn/625a9a448c17aecb16dce5b0da3075a6.png",
+    "edit_type": "material_alter"
+  },
+  "ca3b53a53971b0ad08476eeb10803df0": {
+    "prompt": "椅子整体改为骨瓷烧制",
+    "id": "fullset/material_alter/cn/ca3b53a53971b0ad08476eeb10803df0.png",
+    "edit_type": "material_alter"
+  },
+  "5098e702ebab84dc41c1ec86a937bfb2": {
+    "prompt": "将斑马的材质改为混凝土",
+    "id": "fullset/material_alter/cn/5098e702ebab84dc41c1ec86a937bfb2.png",
+    "edit_type": "material_alter"
+  },
+  "d2a394c05802831288e0a592d3e28169": {
+    "prompt": "马改用红砖堆砌",
+    "id": "fullset/material_alter/cn/d2a394c05802831288e0a592d3e28169.png",
+    "edit_type": "material_alter"
+  },
+  "59c7d7b4c69afb3117e9b53eb4893c4d": {
+    "prompt": "将玩偶的材质改为棉布",
+    "id": "fullset/material_alter/cn/59c7d7b4c69afb3117e9b53eb4893c4d.png",
+    "edit_type": "material_alter"
+  },
+  "46090cab325a6d4ac10ced9b95dbcad7": {
+    "prompt": "将绵羊的材质改为玉质",
+    "id": "fullset/material_alter/cn/46090cab325a6d4ac10ced9b95dbcad7.png",
+    "edit_type": "material_alter"
+  },
+  "5dbff1a3b7d1fb890b72cef2f711a2ac": {
+    "prompt": "猫咪采用景泰蓝珐琅工艺",
+    "id": "fullset/material_alter/cn/5dbff1a3b7d1fb890b72cef2f711a2ac.png",
+    "edit_type": "material_alter"
+  },
+  "9612c74ec7892a39867e992d0d806314": {
+    "prompt": "将马桶的材质改为铝箔",
+    "id": "fullset/material_alter/cn/9612c74ec7892a39867e992d0d806314.png",
+    "edit_type": "material_alter"
+  },
+  "522ca43195a09cb195944e4154fb3286": {
+    "prompt": "将海鸥的材质改为树脂",
+    "id": "fullset/material_alter/cn/522ca43195a09cb195944e4154fb3286.png",
+    "edit_type": "material_alter"
+  },
+  "c0b82d5df485c7cbec00d9190adf0f55": {
+    "prompt": "床架改用高强度石膏成型",
+    "id": "fullset/material_alter/cn/c0b82d5df485c7cbec00d9190adf0f55.png",
+    "edit_type": "material_alter"
+  },
+  "a1e647285bd94edb240a412737354b02": {
+    "prompt": "将大象的材质改为砖块",
+    "id": "fullset/material_alter/cn/a1e647285bd94edb240a412737354b02.png",
+    "edit_type": "material_alter"
+  },
+  "f93b1dd57b6a8791c872be6221c66dd0": {
+    "prompt": "把图片里人物的剑改成钻石宝剑",
+    "id": "fullset/material_alter/cn/f93b1dd57b6a8791c872be6221c66dd0.png",
+    "edit_type": "material_alter"
+  },
+  "95368925f9384e28535aea893b6add55": {
+    "prompt": "可以把放包包的台改成玻璃柜台",
+    "id": "fullset/material_alter/cn/95368925f9384e28535aea893b6add55.png",
+    "edit_type": "material_alter"
+  },
+  "6dc67bf92a79edb4f966836df4252145": {
+    "prompt": "冰淇淋造型改用翡翠雕刻",
+    "id": "fullset/material_alter/cn/6dc67bf92a79edb4f966836df4252145.png",
+    "edit_type": "material_alter"
+  },
+  "df4b227669a0c09e007e063781385cc5": {
+    "prompt": "把帽子的材质变成木质",
+    "id": "fullset/material_alter/cn/df4b227669a0c09e007e063781385cc5.png",
+    "edit_type": "material_alter"
+  },
+  "db87dca6363b0c1afd3246ab8fcfe5d7": {
+    "prompt": "医师服更换为美利奴羊毛衣",
+    "id": "fullset/material_alter/cn/db87dca6363b0c1afd3246ab8fcfe5d7.png",
+    "edit_type": "material_alter"
+  },
+  "7078f382f1fc25aeb48cbcd6dddd9c78": {
+    "prompt": "塔楼结构改为铸铁框架",
+    "id": "fullset/material_alter/cn/7078f382f1fc25aeb48cbcd6dddd9c78.png",
+    "edit_type": "material_alter"
+  },
+  "6db0677c1fa5b1a266e9c078d5cb175d": {
+    "prompt": "服装面料改用优质亚麻",
+    "id": "fullset/material_alter/cn/6db0677c1fa5b1a266e9c078d5cb175d.png",
+    "edit_type": "material_alter"
+  },
+  "66fbc2d25acbb4b6542ba627c365bd4f": {
+    "prompt": "外套改用头层小牛皮制作",
+    "id": "fullset/material_alter/cn/66fbc2d25acbb4b6542ba627c365bd4f.png",
+    "edit_type": "material_alter"
+  },
+  "1e863624d729f3c358964626ad4612bc": {
+    "prompt": "项链材质升级为999足金",
+    "id": "fullset/material_alter/cn/1e863624d729f3c358964626ad4612bc.png",
+    "edit_type": "material_alter"
+  },
+  "ac38191337c2f53c46b131624c789abc": {
+    "prompt": "桌面更换为意大利进口大理石",
+    "id": "fullset/material_alter/cn/ac38191337c2f53c46b131624c789abc.png",
+    "edit_type": "material_alter"
+  },
+  "73875335f42e4154ece47b4a4fafd83e": {
+    "prompt": "把后面的植物换成藤编的",
+    "id": "fullset/material_alter/cn/73875335f42e4154ece47b4a4fafd83e.png",
+    "edit_type": "material_alter"
+  },
+  "43e8fede0b26141d75c64c1f03bfc96e": {
+    "prompt": "把身上的衣服换成泡沫材质",
+    "id": "fullset/material_alter/cn/43e8fede0b26141d75c64c1f03bfc96e.png",
+    "edit_type": "material_alter"
+  },
+  "d7380515285d80a58ff567863809c8f4": {
+    "prompt": "换成玉的",
+    "id": "fullset/material_alter/cn/d7380515285d80a58ff567863809c8f4.png",
+    "edit_type": "material_alter"
+  },
+  "19e8dce7f4aa1758502870d9ae8a919b": {
+    "prompt": "石台换成橡胶的",
+    "id": "fullset/material_alter/cn/19e8dce7f4aa1758502870d9ae8a919b.png",
+    "edit_type": "material_alter"
+  },
+  "5b3a45f95245e83201a46866e71df0c9": {
+    "prompt": "小狗换成粘土材质",
+    "id": "fullset/material_alter/cn/5b3a45f95245e83201a46866e71df0c9.png",
+    "edit_type": "material_alter"
+  },
+  "dd0e86152b637efa3cc71b41fb8aaddc": {
+    "prompt": "做一只和这一样的乌龟像橡胶材质的",
+    "id": "fullset/material_alter/cn/dd0e86152b637efa3cc71b41fb8aaddc.png",
+    "edit_type": "material_alter"
+  },
+  "db8e18433b727737610cb3d8b71f4690": {
+    "prompt": "餐具改用食品级不锈钢材质",
+    "id": "fullset/material_alter/cn/db8e18433b727737610cb3d8b71f4690.png",
+    "edit_type": "material_alter"
+  },
+  "0cf6ae6de96b2d07c717f8c3bf9517fa": {
+    "prompt": "把手中的水杯换成陶瓷材质",
+    "id": "fullset/material_alter/cn/0cf6ae6de96b2d07c717f8c3bf9517fa.png",
+    "edit_type": "material_alter"
+  },
+  "641f39026c89fffaf60a4f0f50304d7d": {
+    "prompt": "衣服的材质换成丝绸的",
+    "id": "fullset/material_alter/cn/641f39026c89fffaf60a4f0f50304d7d.png",
+    "edit_type": "material_alter"
+  },
+  "803f665220970a442a420afb826b6747": {
+    "prompt": "外套改用羊羔皮缝制",
+    "id": "fullset/material_alter/cn/803f665220970a442a420afb826b6747.png",
+    "edit_type": "material_alter"
+  },
+  "76a4af36b318953c8054fdd706e7294f": {
+    "prompt": "将猫的动作改为跳跃",
+    "id": "fullset/motion_change/cn/76a4af36b318953c8054fdd706e7294f.png",
+    "edit_type": "motion_change"
+  },
+  "caabd082c0ed1757df58db3eaea5ac73": {
+    "prompt": "将双翼飞机的动作改为着陆",
+    "id": "fullset/motion_change/cn/caabd082c0ed1757df58db3eaea5ac73.png",
+    "edit_type": "motion_change"
+  },
+  "41fcd0b5de39189a4fbf4eac28ce259a": {
+    "prompt": "将鸟的动作改为振翅高飞",
+    "id": "fullset/motion_change/cn/41fcd0b5de39189a4fbf4eac28ce259a.png",
+    "edit_type": "motion_change"
+  },
+  "f09044a354815af044038bf50708b58d": {
+    "prompt": "将男人的动作改为奔跑",
+    "id": "fullset/motion_change/cn/f09044a354815af044038bf50708b58d.png",
+    "edit_type": "motion_change"
+  },
+  "be4bb34c6d879f253a4b7c4f32fc333f": {
+    "prompt": "使男人的动作变为欢呼",
+    "id": "fullset/motion_change/cn/be4bb34c6d879f253a4b7c4f32fc333f.png",
+    "edit_type": "motion_change"
+  },
+  "0a4769356f68ed88de0d0eb3aba89eb6": {
+    "prompt": "将男人的动作改为举起双手",
+    "id": "fullset/motion_change/cn/0a4769356f68ed88de0d0eb3aba89eb6.png",
+    "edit_type": "motion_change"
+  },
+  "8175d438e57f213c80425595063d053a": {
+    "prompt": "将马的动作改为疾驰",
+    "id": "fullset/motion_change/cn/8175d438e57f213c80425595063d053a.png",
+    "edit_type": "motion_change"
+  },
+  "621c48b14baadc0c3947bc05857e91f4": {
+    "prompt": "将鸟的动作改为飞行",
+    "id": "fullset/motion_change/cn/621c48b14baadc0c3947bc05857e91f4.png",
+    "edit_type": "motion_change"
+  },
+  "72fc47119a7cd90ecdcbf073c3fb74be": {
+    "prompt": "使女人的动作变为大笑",
+    "id": "fullset/motion_change/cn/72fc47119a7cd90ecdcbf073c3fb74be.png",
+    "edit_type": "motion_change"
+  },
+  "3bf8c501e7e338fe92879153ec038ede": {
+    "prompt": "使飞机的动作变为起飞",
+    "id": "fullset/motion_change/cn/3bf8c501e7e338fe92879153ec038ede.png",
+    "edit_type": "motion_change"
+  },
+  "5e855293ac06b10ae7faeb4a675b18a6": {
+    "prompt": "使孩子的动作变为大笑",
+    "id": "fullset/motion_change/cn/5e855293ac06b10ae7faeb4a675b18a6.png",
+    "edit_type": "motion_change"
+  },
+  "06ec0c598cbbc8c9490395a98b88adac": {
+    "prompt": "将猫的动作改为睡觉",
+    "id": "fullset/motion_change/cn/06ec0c598cbbc8c9490395a98b88adac.png",
+    "edit_type": "motion_change"
+  },
+  "733441fbfc73dee8d4a74d2bde1bd931": {
+    "prompt": "将人的动作改为目视前方",
+    "id": "fullset/motion_change/cn/733441fbfc73dee8d4a74d2bde1bd931.png",
+    "edit_type": "motion_change"
+  },
+  "aefbfe530e2ce5323e5be6ea2575815e": {
+    "prompt": "使男人的动作变为亲吻",
+    "id": "fullset/motion_change/cn/aefbfe530e2ce5323e5be6ea2575815e.png",
+    "edit_type": "motion_change"
+  },
+  "8296e86315751cdaa09c910c95b02c10": {
+    "prompt": "把这个人物给我笑起来，记住稍微一笑就可以了，不得改变原图的图形",
+    "id": "fullset/motion_change/cn/8296e86315751cdaa09c910c95b02c10.png",
+    "edit_type": "motion_change"
+  },
+  "1941828e44744f4cd248560b4b67529c": {
+    "prompt": "添加一个吃樱桃的动作，原图形象不更换",
+    "id": "fullset/motion_change/cn/1941828e44744f4cd248560b4b67529c.png",
+    "edit_type": "motion_change"
+  },
+  "3d112cbeb258289dbbca3738ee92a8aa": {
+    "prompt": "让图片里的小狗动起来",
+    "id": "fullset/motion_change/cn/3d112cbeb258289dbbca3738ee92a8aa.png",
+    "edit_type": "motion_change"
+  },
+  "353cf97ec89d2e51932763ae7538c4cc": {
+    "prompt": "让图片中的人微笑",
+    "id": "fullset/motion_change/cn/353cf97ec89d2e51932763ae7538c4cc.png",
+    "edit_type": "motion_change"
+  },
+  "65368cbdae17f7c44cd4d8d1271f0bdf": {
+    "prompt": "让图片人物竖大拇指",
+    "id": "fullset/motion_change/cn/65368cbdae17f7c44cd4d8d1271f0bdf.png",
+    "edit_type": "motion_change"
+  },
+  "fc228a38f175cad001bc8a409c76e63b": {
+    "prompt": "让图中人物摆手",
+    "id": "fullset/motion_change/cn/fc228a38f175cad001bc8a409c76e63b.png",
+    "edit_type": "motion_change"
+  },
+  "73e34d4e31b308f26f3ade464bbd9a52": {
+    "prompt": "请让图中小女孩吐舌",
+    "id": "fullset/motion_change/cn/73e34d4e31b308f26f3ade464bbd9a52.png",
+    "edit_type": "motion_change"
+  },
+  "a6bd902e89f6b8576a02f2a0139a993b": {
+    "prompt": "请以这张图两位主人翁拥抱",
+    "id": "fullset/motion_change/cn/a6bd902e89f6b8576a02f2a0139a993b.png",
+    "edit_type": "motion_change"
+  },
+  "25a7bc668e846d7218e012af5295eba9": {
+    "prompt": "变成这个美女歪头的图片。",
+    "id": "fullset/motion_change/cn/25a7bc668e846d7218e012af5295eba9.png",
+    "edit_type": "motion_change"
+  },
+  "0d61bb72d05645cec8a4c2c62cdf7fe0": {
+    "prompt": "让小孩子噘嘴",
+    "id": "fullset/motion_change/cn/0d61bb72d05645cec8a4c2c62cdf7fe0.png",
+    "edit_type": "motion_change"
+  },
+  "9b58419e6adadd4a367c699741e08f89": {
+    "prompt": "帮我把它变成哭的表情",
+    "id": "fullset/motion_change/cn/9b58419e6adadd4a367c699741e08f89.png",
+    "edit_type": "motion_change"
+  },
+  "0a406290c07e7b1837c0f3bcddbeb8d2": {
+    "prompt": "请给我生成这张照片他笑起来的样子",
+    "id": "fullset/motion_change/cn/0a406290c07e7b1837c0f3bcddbeb8d2.png",
+    "edit_type": "motion_change"
+  },
+  "cd627a9fe6dd079a1e692be90563c50c": {
+    "prompt": "让图片中的人物做鬼脸",
+    "id": "fullset/motion_change/cn/cd627a9fe6dd079a1e692be90563c50c.png",
+    "edit_type": "motion_change"
+  },
+  "f1a8ac0cd17e1138c22accdc095dfb04": {
+    "prompt": "同样的图片，生成一个图中的女孩哭",
+    "id": "fullset/motion_change/cn/f1a8ac0cd17e1138c22accdc095dfb04.png",
+    "edit_type": "motion_change"
+  },
+  "715a72723f1a797640c35a4c7a4f8f51": {
+    "prompt": "将图片中人物表情变成烦恼的表情",
+    "id": "fullset/motion_change/cn/715a72723f1a797640c35a4c7a4f8f51.png",
+    "edit_type": "motion_change"
+  },
+  "2ca948c72ab289d2c86db037002baa95": {
+    "prompt": "让图片里的人全部大笑起来",
+    "id": "fullset/motion_change/cn/2ca948c72ab289d2c86db037002baa95.png",
+    "edit_type": "motion_change"
+  },
+  "dd6be6e54c7662c78f607bd88a931caf": {
+    "prompt": "让照片中的人跳舞",
+    "id": "fullset/motion_change/cn/dd6be6e54c7662c78f607bd88a931caf.png",
+    "edit_type": "motion_change"
+  },
+  "c5b82e3b142580940d3897a9f43b4139": {
+    "prompt": "将这个图片改成扣鼻子的样子",
+    "id": "fullset/motion_change/cn/c5b82e3b142580940d3897a9f43b4139.png",
+    "edit_type": "motion_change"
+  },
+  "1fbb9fae9fb272593a73203c8113f758": {
+    "prompt": "让他跳起来",
+    "id": "fullset/motion_change/cn/1fbb9fae9fb272593a73203c8113f758.png",
+    "edit_type": "motion_change"
+  },
+  "e648d94e8f66940befa13e34039be176": {
+    "prompt": "让这只猫动起来",
+    "id": "fullset/motion_change/cn/e648d94e8f66940befa13e34039be176.png",
+    "edit_type": "motion_change"
+  },
+  "9ce39582df9aaf3b21b39fb9627f7bb2": {
+    "prompt": "让照片里的女生给我一个飞吻",
+    "id": "fullset/motion_change/cn/9ce39582df9aaf3b21b39fb9627f7bb2.png",
+    "edit_type": "motion_change"
+  },
+  "028b9a3c540ac8eaeef11799524ec127": {
+    "prompt": "表情伤感一点",
+    "id": "fullset/motion_change/cn/028b9a3c540ac8eaeef11799524ec127.png",
+    "edit_type": "motion_change"
+  },
+  "991cdfa18e521e034d65a636900b09af": {
+    "prompt": "让图中的小朋友跳个舞",
+    "id": "fullset/motion_change/cn/991cdfa18e521e034d65a636900b09af.png",
+    "edit_type": "motion_change"
+  },
+  "df666978387df220cd714f7b2f80b673": {
+    "prompt": "让图片开心的笑起来",
+    "id": "fullset/motion_change/cn/df666978387df220cd714f7b2f80b673.png",
+    "edit_type": "motion_change"
+  },
+  "aa322dd5d83bd8e02afd3ad4a87d6a6a": {
+    "prompt": "用这张照片做一个眨眼张嘴的人。",
+    "id": "fullset/motion_change/cn/aa322dd5d83bd8e02afd3ad4a87d6a6a.png",
+    "edit_type": "motion_change"
+  },
+  "e9b3b27074575e7615723b7ff89de9a0": {
+    "prompt": "让图中的猫跑起来",
+    "id": "fullset/motion_change/cn/e9b3b27074575e7615723b7ff89de9a0.png",
+    "edit_type": "motion_change"
+  },
+  "ccffdca80bf93b14a3533eb46829300f": {
+    "prompt": "去掉他的胡子",
+    "id": "fullset/ps_human/cn/ccffdca80bf93b14a3533eb46829300f.png",
+    "edit_type": "ps_human"
+  },
+  "cac69629251b8ef6f51d793b6a3b07fa": {
+    "prompt": "让他的鼻子更挺拔，脸更小一些",
+    "id": "fullset/ps_human/cn/cac69629251b8ef6f51d793b6a3b07fa.png",
+    "edit_type": "ps_human"
+  },
+  "9b0d4782d50d550654d1daf53153524a": {
+    "prompt": "让他瘦15斤",
+    "id": "fullset/ps_human/cn/9b0d4782d50d550654d1daf53153524a.png",
+    "edit_type": "ps_human"
+  },
+  "1805a69d09b8d3637fe585f3c402ea2f": {
+    "prompt": "把他变胖20斤",
+    "id": "fullset/ps_human/cn/1805a69d09b8d3637fe585f3c402ea2f.png",
+    "edit_type": "ps_human"
+  },
+  "0e38f5cee6a69fb6b1817b1685618e91": {
+    "prompt": "去掉他的腹肌，让他身上有更多的脂肪",
+    "id": "fullset/ps_human/cn/0e38f5cee6a69fb6b1817b1685618e91.png",
+    "edit_type": "ps_human"
+  },
+  "80e7583efc497acfddc6d6f34c1207c9": {
+    "prompt": "让他看起来很伤心",
+    "id": "fullset/ps_human/cn/80e7583efc497acfddc6d6f34c1207c9.png",
+    "edit_type": "ps_human"
+  },
+  "6ffe2a7e012e52694e1a07c00e7f44c5": {
+    "prompt": "将她的卷发变成直发",
+    "id": "fullset/ps_human/cn/6ffe2a7e012e52694e1a07c00e7f44c5.png",
+    "edit_type": "ps_human"
+  },
+  "58d48d76e4705b16a6f03337fc6397e8": {
+    "prompt": "让她看起来更加年轻",
+    "id": "fullset/ps_human/cn/58d48d76e4705b16a6f03337fc6397e8.png",
+    "edit_type": "ps_human"
+  },
+  "de1c094bc7a28f273e560bacef9c2a5e": {
+    "prompt": "让她的皮肤颜色更深一点，类似于日光浴后",
+    "id": "fullset/ps_human/cn/de1c094bc7a28f273e560bacef9c2a5e.png",
+    "edit_type": "ps_human"
+  },
+  "b125faa596111bb238ac9e908d67045b": {
+    "prompt": "去掉他脸上的胡子和皱纹",
+    "id": "fullset/ps_human/cn/b125faa596111bb238ac9e908d67045b.png",
+    "edit_type": "ps_human"
+  },
+  "06fa0ee0788e219cae32f542a417ab70": {
+    "prompt": "让他的胡子更长",
+    "id": "fullset/ps_human/cn/06fa0ee0788e219cae32f542a417ab70.png",
+    "edit_type": "ps_human"
+  },
+  "ea1de73c9c216ec0689eb650e51a5829": {
+    "prompt": "让他看起来很开心",
+    "id": "fullset/ps_human/cn/ea1de73c9c216ec0689eb650e51a5829.png",
+    "edit_type": "ps_human"
+  },
+  "3190e10334ec71222a324bf0b2e3a459": {
+    "prompt": "让他看起来非常严肃",
+    "id": "fullset/ps_human/cn/3190e10334ec71222a324bf0b2e3a459.png",
+    "edit_type": "ps_human"
+  },
+  "67fd8d190cb31cc01f52c2ec8ead9896": {
+    "prompt": "他中年的样子",
+    "id": "fullset/ps_human/cn/67fd8d190cb31cc01f52c2ec8ead9896.png",
+    "edit_type": "ps_human"
+  },
+  "1bdf06dc53b7cc3c907b540dca7b4b53": {
+    "prompt": "他长大10岁的样子",
+    "id": "fullset/ps_human/cn/1bdf06dc53b7cc3c907b540dca7b4b53.png",
+    "edit_type": "ps_human"
+  },
+  "0d2a9e9966354dc8039aeee974c767c2": {
+    "prompt": "让他看起来更强壮",
+    "id": "fullset/ps_human/cn/0d2a9e9966354dc8039aeee974c767c2.png",
+    "edit_type": "ps_human"
+  },
+  "e5db9a732c72acae1638371292c14220": {
+    "prompt": "他长大后的样子",
+    "id": "fullset/ps_human/cn/e5db9a732c72acae1638371292c14220.png",
+    "edit_type": "ps_human"
+  },
+  "d7b1f377153a3e35db9020dc1a848c8a": {
+    "prompt": "将她的头发染成棕色",
+    "id": "fullset/ps_human/cn/d7b1f377153a3e35db9020dc1a848c8a.png",
+    "edit_type": "ps_human"
+  },
+  "9a7eea29db11c1f500838bee90653970": {
+    "prompt": "让他长出头发",
+    "id": "fullset/ps_human/cn/9a7eea29db11c1f500838bee90653970.png",
+    "edit_type": "ps_human"
+  },
+  "1f1c9a1e6ce6899d91abcb9a67922758": {
+    "prompt": "把他P帅一点，眼神锐利一些",
+    "id": "fullset/ps_human/cn/1f1c9a1e6ce6899d91abcb9a67922758.png",
+    "edit_type": "ps_human"
+  },
+  "41d961b14b637889947080f1891f85ff": {
+    "prompt": "让他看起来不那么生气",
+    "id": "fullset/ps_human/cn/41d961b14b637889947080f1891f85ff.png",
+    "edit_type": "ps_human"
+  },
+  "fe220565cb0f22a44d1f0a81a132ce9f": {
+    "prompt": "让他看起来在大哭",
+    "id": "fullset/ps_human/cn/fe220565cb0f22a44d1f0a81a132ce9f.png",
+    "edit_type": "ps_human"
+  },
+  "918900e10cac886e4bdf4236efee15b9": {
+    "prompt": "把她P的更好看一些",
+    "id": "fullset/ps_human/cn/918900e10cac886e4bdf4236efee15b9.png",
+    "edit_type": "ps_human"
+  },
+  "5968a24147a8564f74bd09104c4c032e": {
+    "prompt": "让他有更多的肌肉，充满力量感",
+    "id": "fullset/ps_human/cn/5968a24147a8564f74bd09104c4c032e.png",
+    "edit_type": "ps_human"
+  },
+  "4c453fc6e3f8842296406dc7c8ad5ac4": {
+    "prompt": "让他更帅一点",
+    "id": "fullset/ps_human/cn/4c453fc6e3f8842296406dc7c8ad5ac4.png",
+    "edit_type": "ps_human"
+  },
+  "6022c9e5401a53028e3b0690cce7a9db": {
+    "prompt": "让他开怀大笑",
+    "id": "fullset/ps_human/cn/6022c9e5401a53028e3b0690cce7a9db.png",
+    "edit_type": "ps_human"
+  },
+  "4611d3319199a5c4b84ea1608f6eba29": {
+    "prompt": "让他看起来更年轻",
+    "id": "fullset/ps_human/cn/4611d3319199a5c4b84ea1608f6eba29.png",
+    "edit_type": "ps_human"
+  },
+  "f21e2f3585f8cddeab9d472375e92bac": {
+    "prompt": "让他长出长发",
+    "id": "fullset/ps_human/cn/f21e2f3585f8cddeab9d472375e92bac.png",
+    "edit_type": "ps_human"
+  },
+  "2dd5f9c40a055007abcafbbdaf2be46b": {
+    "prompt": "让他的皮肤更加光滑，没有皱纹",
+    "id": "fullset/ps_human/cn/2dd5f9c40a055007abcafbbdaf2be46b.png",
+    "edit_type": "ps_human"
+  },
+  "ba360f7380e2f080485af9bbe38bd4c6": {
+    "prompt": "让他变瘦20斤",
+    "id": "fullset/ps_human/cn/ba360f7380e2f080485af9bbe38bd4c6.png",
+    "edit_type": "ps_human"
+  },
+  "6cabdec52f6113e0a365332f323053b1": {
+    "prompt": "帮我把这张P成帅哥",
+    "id": "fullset/ps_human/cn/6cabdec52f6113e0a365332f323053b1.png",
+    "edit_type": "ps_human"
+  },
+  "9647d92cf8edeec8c3b68ecb6150f7c7": {
+    "prompt": "P好看一点",
+    "id": "fullset/ps_human/cn/9647d92cf8edeec8c3b68ecb6150f7c7.png",
+    "edit_type": "ps_human"
+  },
+  "f0995ee97b33e6ca5effc808be8e4ac2": {
+    "prompt": "帮我把这张照片脸上的过敏处理的更严重一些",
+    "id": "fullset/ps_human/cn/f0995ee97b33e6ca5effc808be8e4ac2.png",
+    "edit_type": "ps_human"
+  },
+  "47e2e49cf8b662a7493ddad42334b6e1": {
+    "prompt": "怎么把脸上这些修复好",
+    "id": "fullset/ps_human/cn/47e2e49cf8b662a7493ddad42334b6e1.png",
+    "edit_type": "ps_human"
+  },
+  "cc7a45219bdfbaf01dc3348735c183d0": {
+    "prompt": "去掉眼影 ，口红",
+    "id": "fullset/ps_human/cn/cc7a45219bdfbaf01dc3348735c183d0.png",
+    "edit_type": "ps_human"
+  },
+  "c96ed4ce8d74381cce77516fa3c3b6b3": {
+    "prompt": "原图p腹肌",
+    "id": "fullset/ps_human/cn/c96ed4ce8d74381cce77516fa3c3b6b3.png",
+    "edit_type": "ps_human"
+  },
+  "ca9fc1fd8ffd6fdc77d694c5786a69db": {
+    "prompt": "把他鼻子变高点",
+    "id": "fullset/ps_human/cn/ca9fc1fd8ffd6fdc77d694c5786a69db.png",
+    "edit_type": "ps_human"
+  },
+  "27a041f8cf96466d3fe99c2854600ed7": {
+    "prompt": "把这个照片眼睛批成眼睛哭红了",
+    "id": "fullset/ps_human/cn/27a041f8cf96466d3fe99c2854600ed7.png",
+    "edit_type": "ps_human"
+  },
+  "84e1ecd02e31ff710caf92575973abb3": {
+    "prompt": "p好看一点",
+    "id": "fullset/ps_human/cn/84e1ecd02e31ff710caf92575973abb3.png",
+    "edit_type": "ps_human"
+  },
+  "c18b9ea3a82a132108bb19942258fae1": {
+    "prompt": "请把我脸上的痘印瑕疵p掉，把鼻子p瘦一点。脸也p瘦一点。",
+    "id": "fullset/ps_human/cn/c18b9ea3a82a132108bb19942258fae1.png",
+    "edit_type": "ps_human"
+  },
+  "04f9da181ba94ebbb7b76206affdc4cc": {
+    "prompt": "帮我换成g罩杯，脸不要变，原比例",
+    "id": "fullset/ps_human/cn/04f9da181ba94ebbb7b76206affdc4cc.png",
+    "edit_type": "ps_human"
+  },
+  "f598b8339d28b4c0836da4341785e605": {
+    "prompt": "修一下这张图的下巴。",
+    "id": "fullset/ps_human/cn/f598b8339d28b4c0836da4341785e605.png",
+    "edit_type": "ps_human"
+  },
+  "2898a98d82023e2e558488202dc231af": {
+    "prompt": "帮我p图，脸上的斑点以及瘦脸美白",
+    "id": "fullset/ps_human/cn/2898a98d82023e2e558488202dc231af.png",
+    "edit_type": "ps_human"
+  },
+  "697678d3816a0fcfc357a108ae47955a": {
+    "prompt": "帮我把鼻子p一下",
+    "id": "fullset/ps_human/cn/697678d3816a0fcfc357a108ae47955a.png",
+    "edit_type": "ps_human"
+  },
+  "32d356cc309cfe3682305e2c3c2adfd9": {
+    "prompt": "在不改变和不美化的同时只帮我修一个适合我的眉型",
+    "id": "fullset/ps_human/cn/32d356cc309cfe3682305e2c3c2adfd9.png",
+    "edit_type": "ps_human"
+  },
+  "089748fdcf4c407ac479c76e0f62f8f4": {
+    "prompt": "帮我p图腿长一点",
+    "id": "fullset/ps_human/cn/089748fdcf4c407ac479c76e0f62f8f4.png",
+    "edit_type": "ps_human"
+  },
+  "6d71b1b0b6f8fb153cf031d29ba59129": {
+    "prompt": "将她的胸部画的很大",
+    "id": "fullset/ps_human/cn/6d71b1b0b6f8fb153cf031d29ba59129.png",
+    "edit_type": "ps_human"
+  },
+  "e3ec80bb14ae5d53e19a1d5efd5921a1": {
+    "prompt": "帮我变瘦10斤",
+    "id": "fullset/ps_human/cn/e3ec80bb14ae5d53e19a1d5efd5921a1.png",
+    "edit_type": "ps_human"
+  },
+  "d64299c7e5b6cda2e20b7fd0c577aba3": {
+    "prompt": "帮我把人脸弄白调一个好一点的滤镜",
+    "id": "fullset/ps_human/cn/d64299c7e5b6cda2e20b7fd0c577aba3.png",
+    "edit_type": "ps_human"
+  },
+  "2e6c9f632d7c9a434011c88cc1e3c8d8": {
+    "prompt": "帮我给这张图片加上腹肌。",
+    "id": "fullset/ps_human/cn/2e6c9f632d7c9a434011c88cc1e3c8d8.png",
+    "edit_type": "ps_human"
+  },
+  "7160b6370ace4b0a89a408876b48c1c4": {
+    "prompt": "图片给我改成有腹肌的",
+    "id": "fullset/ps_human/cn/7160b6370ace4b0a89a408876b48c1c4.png",
+    "edit_type": "ps_human"
+  },
+  "c0887ad7bc9f207f3acf198fc2a2e4aa": {
+    "prompt": "帮我头发批成长发",
+    "id": "fullset/ps_human/cn/c0887ad7bc9f207f3acf198fc2a2e4aa.png",
+    "edit_type": "ps_human"
+  },
+  "535fc24a4f6446999ac202e6e2eab72c": {
+    "prompt": "把上图做一张年轻时尚的照片",
+    "id": "fullset/ps_human/cn/535fc24a4f6446999ac202e6e2eab72c.png",
+    "edit_type": "ps_human"
+  },
+  "b6669ad585437d790d56c9d51812ce73": {
+    "prompt": "帮我把脸的大小p的一样，还有眼睛的大小。",
+    "id": "fullset/ps_human/cn/b6669ad585437d790d56c9d51812ce73.png",
+    "edit_type": "ps_human"
+  },
+  "5681bb73bf53906dfe4e7376be42d981": {
+    "prompt": "把我眼睛批大点",
+    "id": "fullset/ps_human/cn/5681bb73bf53906dfe4e7376be42d981.png",
+    "edit_type": "ps_human"
+  },
+  "aa5b5375f7ead439732b0979fab353b6": {
+    "prompt": "帮我生成右边女孩瘦了的样子",
+    "id": "fullset/ps_human/cn/aa5b5375f7ead439732b0979fab353b6.png",
+    "edit_type": "ps_human"
+  },
+  "038013b7852ce014b254effb307ec5de": {
+    "prompt": "这是我的照片，请修改变帅一点",
+    "id": "fullset/ps_human/cn/038013b7852ce014b254effb307ec5de.png",
+    "edit_type": "ps_human"
+  },
+  "3b0f6ca611bfa2f2416bf7ade7f60811": {
+    "prompt": "女性化",
+    "id": "fullset/ps_human/cn/3b0f6ca611bfa2f2416bf7ade7f60811.png",
+    "edit_type": "ps_human"
+  },
+  "38121c6cc4479c8a4fbd0d888bb79f1d": {
+    "prompt": "男化",
+    "id": "fullset/ps_human/cn/38121c6cc4479c8a4fbd0d888bb79f1d.png",
+    "edit_type": "ps_human"
+  },
+  "56287939cfa47505f0cc400430ae4131": {
+    "prompt": "帮我把这张照片修好看一点",
+    "id": "fullset/ps_human/cn/56287939cfa47505f0cc400430ae4131.png",
+    "edit_type": "ps_human"
+  },
+  "c9101db419bbcd1b258ed367dc09b986": {
+    "prompt": "处理一下这张照片，修图",
+    "id": "fullset/ps_human/cn/c9101db419bbcd1b258ed367dc09b986.png",
+    "edit_type": "ps_human"
+  },
+  "4b7e3f9099377e3823c1c3e0d924883a": {
+    "prompt": "把我变帅",
+    "id": "fullset/ps_human/cn/4b7e3f9099377e3823c1c3e0d924883a.png",
+    "edit_type": "ps_human"
+  },
+  "3547f6c2021822fb3f480595a44679bd": {
+    "prompt": "弄成最好看的样子",
+    "id": "fullset/ps_human/cn/3547f6c2021822fb3f480595a44679bd.png",
+    "edit_type": "ps_human"
+  },
+  "e16b35649536eed0fecef4c7704b228b": {
+    "prompt": "让我的照片年轻20岁。",
+    "id": "fullset/ps_human/cn/e16b35649536eed0fecef4c7704b228b.png",
+    "edit_type": "ps_human"
+  },
+  "f81d8419a96bac5878844b85e21a938c": {
+    "prompt": "把脸p好看点",
+    "id": "fullset/ps_human/cn/f81d8419a96bac5878844b85e21a938c.png",
+    "edit_type": "ps_human"
+  },
+  "8195e9e69612be9bae6cad135bb94840": {
+    "prompt": "改成圆脸",
+    "id": "fullset/ps_human/cn/8195e9e69612be9bae6cad135bb94840.png",
+    "edit_type": "ps_human"
+  },
+  "d405f724329102f5171bdcc915177e35": {
+    "prompt": "请将这幅图p成韩系帅哥",
+    "id": "fullset/ps_human/cn/d405f724329102f5171bdcc915177e35.png",
+    "edit_type": "ps_human"
+  },
+  "2dd8b5fb8e22905ed49d87660eb82ee0": {
+    "prompt": "修好这个照片，帮人物的腰p细点，屁股变翘点",
+    "id": "fullset/ps_human/cn/2dd8b5fb8e22905ed49d87660eb82ee0.png",
+    "edit_type": "ps_human"
+  },
+  "ce9fa032e29c8f6418f4cab41e068fcb": {
+    "prompt": "把我弄得帅气一些",
+    "id": "fullset/ps_human/cn/ce9fa032e29c8f6418f4cab41e068fcb.png",
+    "edit_type": "ps_human"
+  },
+  "a50f15973f0f4fcf88c8badcab58e86a": {
+    "prompt": "成年后的样子",
+    "id": "fullset/ps_human/cn/a50f15973f0f4fcf88c8badcab58e86a.png",
+    "edit_type": "ps_human"
+  },
+  "15f01f7d55ad4f8695218594277e451f": {
+    "prompt": "将画面转换为日系漫画风格",
+    "id": "fullset/style_change/cn/15f01f7d55ad4f8695218594277e451f.png",
+    "edit_type": "style_change"
+  },
+  "4c14aafd852de6b46042af27c98c6a27": {
+    "prompt": "采用宫崎骏动画电影的美术风格",
+    "id": "fullset/style_change/cn/4c14aafd852de6b46042af27c98c6a27.png",
+    "edit_type": "style_change"
+  },
+  "fd82e6b33505ba16b6c64cfff4ea3895": {
+    "prompt": "切换成美式卡通动画效果",
+    "id": "fullset/style_change/cn/fd82e6b33505ba16b6c64cfff4ea3895.png",
+    "edit_type": "style_change"
+  },
+  "c51e5e8de213d991bcab4513da06c885": {
+    "prompt": "渲染成皮克斯动画工作室的3D质感",
+    "id": "fullset/style_change/cn/c51e5e8de213d991bcab4513da06c885.png",
+    "edit_type": "style_change"
+  },
+  "6b63968c28b15a0bb25b6f93056811c8": {
+    "prompt": "转化为日本动漫视觉风格",
+    "id": "fullset/style_change/cn/6b63968c28b15a0bb25b6f93056811c8.png",
+    "edit_type": "style_change"
+  },
+  "9c72e227cbe037de86345d2d79652e5d": {
+    "prompt": "将图像风格更改为对比风格",
+    "id": "fullset/style_change/cn/9c72e227cbe037de86345d2d79652e5d.png",
+    "edit_type": "style_change"
+  },
+  "74d28960183c3490877d0da05b4ced6b": {
+    "prompt": "将图像风格替换为3D风格",
+    "id": "fullset/style_change/cn/74d28960183c3490877d0da05b4ced6b.png",
+    "edit_type": "style_change"
+  },
+  "2c9c0664af586124f7fa0108419dc9b3": {
+    "prompt": "将图像风格更改为气泡风格",
+    "id": "fullset/style_change/cn/2c9c0664af586124f7fa0108419dc9b3.png",
+    "edit_type": "style_change"
+  },
+  "5fb4494003bb1a55335de8b9ec954f29": {
+    "prompt": "添加复古胶片颗粒与褪色效果",
+    "id": "fullset/style_change/cn/5fb4494003bb1a55335de8b9ec954f29.png",
+    "edit_type": "style_change"
+  },
+  "d124236c63ab27f157dd7ffdf6d9cc4b": {
+    "prompt": "模拟黏土定格动画的质感",
+    "id": "fullset/style_change/cn/d124236c63ab27f157dd7ffdf6d9cc4b.png",
+    "edit_type": "style_change"
+  },
+  "1484ee9ef9a7f142aff7856a0edb276b": {
+    "prompt": "呈现数字绘画的笔触特征",
+    "id": "fullset/style_change/cn/1484ee9ef9a7f142aff7856a0edb276b.png",
+    "edit_type": "style_change"
+  },
+  "04a128c7a483127cf7ad491c56de17d5": {
+    "prompt": "将图像风格替换为奇幻艺术",
+    "id": "fullset/style_change/cn/04a128c7a483127cf7ad491c56de17d5.png",
+    "edit_type": "style_change"
+  },
+  "d6ac5062a555a85235c762972d5277fe": {
+    "prompt": "将图像风格更改为蒙德里安风格",
+    "id": "fullset/style_change/cn/d6ac5062a555a85235c762972d5277fe.png",
+    "edit_type": "style_change"
+  },
+  "4e62777f17329aff2906ff86a217ccb6": {
+    "prompt": "将图像风格调整为水彩风格",
+    "id": "fullset/style_change/cn/4e62777f17329aff2906ff86a217ccb6.png",
+    "edit_type": "style_change"
+  },
+  "d99c96ce517e4588da92570b178e8906": {
+    "prompt": "将图像风格更改为线描艺术",
+    "id": "fullset/style_change/cn/d99c96ce517e4588da92570b178e8906.png",
+    "edit_type": "style_change"
+  },
+  "a69d50a3ae88a3405928ebd3f05d60eb": {
+    "prompt": "将图像风格更改为复古风格",
+    "id": "fullset/style_change/cn/a69d50a3ae88a3405928ebd3f05d60eb.png",
+    "edit_type": "style_change"
+  },
+  "45d80a2eb5f3804b79cc274526e60c02": {
+    "prompt": "将图像风格替换为霓虹朋克风",
+    "id": "fullset/style_change/cn/45d80a2eb5f3804b79cc274526e60c02.png",
+    "edit_type": "style_change"
+  },
+  "f1a9872a150e9dd0850744bd0effe17d": {
+    "prompt": "将图像风格替换为像素艺术",
+    "id": "fullset/style_change/cn/f1a9872a150e9dd0850744bd0effe17d.png",
+    "edit_type": "style_change"
+  },
+  "53d3ea8751230795aaa6ce6bf85669dc": {
+    "prompt": "将图像风格调整为哥特风格",
+    "id": "fullset/style_change/cn/53d3ea8751230795aaa6ce6bf85669dc.png",
+    "edit_type": "style_change"
+  },
+  "d3f8877981d10b5a003e6223531c71eb": {
+    "prompt": "使用抽象派色块与线条表现",
+    "id": "fullset/style_change/cn/d3f8877981d10b5a003e6223531c71eb.png",
+    "edit_type": "style_change"
+  },
+  "9a6b59107a07bbe528614eff11b697b9": {
+    "prompt": "变成一个卡通图片",
+    "id": "fullset/style_change/cn/9a6b59107a07bbe528614eff11b697b9.png",
+    "edit_type": "style_change"
+  },
+  "45a4db4e153c28c6a04bc2c642c0c12c": {
+    "prompt": "请帮我把这张照片变成立体派风格",
+    "id": "fullset/style_change/cn/45a4db4e153c28c6a04bc2c642c0c12c.png",
+    "edit_type": "style_change"
+  },
+  "c00a2045d8125220281c879fd556c528": {
+    "prompt": "变成涂鸦风格",
+    "id": "fullset/style_change/cn/c00a2045d8125220281c879fd556c528.png",
+    "edit_type": "style_change"
+  },
+  "739b6810796e2c0179073e600004b764": {
+    "prompt": "将图片切换印象派风格的超清图片",
+    "id": "fullset/style_change/cn/739b6810796e2c0179073e600004b764.png",
+    "edit_type": "style_change"
+  },
+  "af2db8f036e553f782d1ed6573c68fb7": {
+    "prompt": "把这张图片变成点彩画派图片",
+    "id": "fullset/style_change/cn/af2db8f036e553f782d1ed6573c68fb7.png",
+    "edit_type": "style_change"
+  },
+  "727fd5249ae60ae0279432babea49584": {
+    "prompt": "换成波普艺术风格",
+    "id": "fullset/style_change/cn/727fd5249ae60ae0279432babea49584.png",
+    "edit_type": "style_change"
+  },
+  "27e4b539c6355586fe2935d6a90bba61": {
+    "prompt": "把画面的风格调整为油画风格，笔触大一点。",
+    "id": "fullset/style_change/cn/27e4b539c6355586fe2935d6a90bba61.png",
+    "edit_type": "style_change"
+  },
+  "22b24d3d01e3b64ec59ae5f8e3c170fa": {
+    "prompt": "帮我把这个图片变成蒸汽朋克风格",
+    "id": "fullset/style_change/cn/22b24d3d01e3b64ec59ae5f8e3c170fa.png",
+    "edit_type": "style_change"
+  },
+  "9cf1146672c2b9e1d4ce37b9dbb3fbda": {
+    "prompt": "改成印象派风格油画",
+    "id": "fullset/style_change/cn/9cf1146672c2b9e1d4ce37b9dbb3fbda.png",
+    "edit_type": "style_change"
+  },
+  "a5f07e015eeb284665b72240e853baa5": {
+    "prompt": "变为油画风格",
+    "id": "fullset/style_change/cn/a5f07e015eeb284665b72240e853baa5.png",
+    "edit_type": "style_change"
+  },
+  "23f17387da2ea2e6817c2204417195ff": {
+    "prompt": "把这张图改为皮克斯风格把背景改为春天的公园，颜色丰富，然后这个人不要变化",
+    "id": "fullset/style_change/cn/23f17387da2ea2e6817c2204417195ff.png",
+    "edit_type": "style_change"
+  },
+  "bd033dd036c1f2e6424ceb3fd9f90dbd": {
+    "prompt": "换成水彩画风格",
+    "id": "fullset/style_change/cn/bd033dd036c1f2e6424ceb3fd9f90dbd.png",
+    "edit_type": "style_change"
+  },
+  "f709057fa095f9cb9426f4c3cc783822": {
+    "prompt": "请把这张照片改成原神风格",
+    "id": "fullset/style_change/cn/f709057fa095f9cb9426f4c3cc783822.png",
+    "edit_type": "style_change"
+  },
+  "41a20c339a3c73c6cc5200d03d7ff4a1": {
+    "prompt": "生成皮克斯风格动画，背景为春天的图片，需要喜庆一点",
+    "id": "fullset/style_change/cn/41a20c339a3c73c6cc5200d03d7ff4a1.png",
+    "edit_type": "style_change"
+  },
+  "9b7e39332a893401bdd50a09b75ecd3e": {
+    "prompt": "改为数字插画风格",
+    "id": "fullset/style_change/cn/9b7e39332a893401bdd50a09b75ecd3e.png",
+    "edit_type": "style_change"
+  },
+  "f4dfe5ffe8cb955f41ac3858dd6ac5d7": {
+    "prompt": "生成哥特风格图片",
+    "id": "fullset/style_change/cn/f4dfe5ffe8cb955f41ac3858dd6ac5d7.png",
+    "edit_type": "style_change"
+  },
+  "5788cde5a601a266804107209de8ee4c": {
+    "prompt": "把图片换成极简主义风格￼",
+    "id": "fullset/style_change/cn/5788cde5a601a266804107209de8ee4c.png",
+    "edit_type": "style_change"
+  },
+  "7327c91f9d675ec5e69712972f49a06c": {
+    "prompt": "以莫奈风格进行重绘",
+    "id": "fullset/style_change/cn/7327c91f9d675ec5e69712972f49a06c.png",
+    "edit_type": "style_change"
+  },
+  "a50fdf85f87b7a11acc92335eaba1b6c": {
+    "prompt": "生成单色风格动画",
+    "id": "fullset/style_change/cn/a50fdf85f87b7a11acc92335eaba1b6c.png",
+    "edit_type": "style_change"
+  },
+  "1f08678913cf5274ac110ee34ef2b8d8": {
+    "prompt": "生成部落风格图",
+    "id": "fullset/style_change/cn/1f08678913cf5274ac110ee34ef2b8d8.png",
+    "edit_type": "style_change"
+  },
+  "07fc2fa9b1bbee0e9e37421fe3a6576b": {
+    "prompt": "帮我把图片变成美漫画风",
+    "id": "fullset/style_change/cn/07fc2fa9b1bbee0e9e37421fe3a6576b.png",
+    "edit_type": "style_change"
+  },
+  "35825b1573a735192ee20541255a0e87": {
+    "prompt": "做动漫风格",
+    "id": "fullset/style_change/cn/35825b1573a735192ee20541255a0e87.png",
+    "edit_type": "style_change"
+  },
+  "2b2bdf9401c83ea114677520a589e383": {
+    "prompt": "生成拼贴画风格图",
+    "id": "fullset/style_change/cn/2b2bdf9401c83ea114677520a589e383.png",
+    "edit_type": "style_change"
+  },
+  "508064bc4a75a2e2d065ee06ff93eb44": {
+    "prompt": "请将这个图片改为漫画风格",
+    "id": "fullset/style_change/cn/508064bc4a75a2e2d065ee06ff93eb44.png",
+    "edit_type": "style_change"
+  },
+  "acb15686bbb0df11a35eb9b6a8c9062a": {
+    "prompt": "把这张照片修成具有富士风格的味道",
+    "id": "fullset/style_change/cn/acb15686bbb0df11a35eb9b6a8c9062a.png",
+    "edit_type": "style_change"
+  },
+  "8d7df9ad8365c7bb1196275184327d2d": {
+    "prompt": "帮我做成暗黑风格",
+    "id": "fullset/style_change/cn/8d7df9ad8365c7bb1196275184327d2d.png",
+    "edit_type": "style_change"
+  },
+  "cd36d9862ef442202ea6d3ffc5b8e8dd": {
+    "prompt": "帮我把图上的建筑转为二次元可爱百花盛开的风格",
+    "id": "fullset/style_change/cn/cd36d9862ef442202ea6d3ffc5b8e8dd.png",
+    "edit_type": "style_change"
+  },
+  "599dbcd5dd042cec90da287aa11414ce": {
+    "prompt": "把这个图片改成动漫风",
+    "id": "fullset/style_change/cn/599dbcd5dd042cec90da287aa11414ce.png",
+    "edit_type": "style_change"
+  },
+  "53eeb1cef5005f5e54b87b8e30c3a85b": {
+    "prompt": "根据该女生图片生成一张像素风头像",
+    "id": "fullset/style_change/cn/53eeb1cef5005f5e54b87b8e30c3a85b.png",
+    "edit_type": "style_change"
+  },
+  "84111b91ee328a9c2fc1cf7342b84480": {
+    "prompt": "生成水墨画风格图像",
+    "id": "fullset/style_change/cn/84111b91ee328a9c2fc1cf7342b84480.png",
+    "edit_type": "style_change"
+  },
+  "acda14bb5323b325128b624ecc6652c0": {
+    "prompt": "帮我用吉卜力风格改一下这个图",
+    "id": "fullset/style_change/cn/acda14bb5323b325128b624ecc6652c0.png",
+    "edit_type": "style_change"
+  },
+  "2928aac848e0c414823b1b4c2c144ad5": {
+    "prompt": "变成水墨画风格",
+    "id": "fullset/style_change/cn/2928aac848e0c414823b1b4c2c144ad5.png",
+    "edit_type": "style_change"
+  },
+  "ddf9a3b77759783bb6d2b96453f8454b": {
+    "prompt": "换成吉卜力风格",
+    "id": "fullset/style_change/cn/ddf9a3b77759783bb6d2b96453f8454b.png",
+    "edit_type": "style_change"
+  },
+  "3a95a56fdbaed9acedd16d650dcc41ac": {
+    "prompt": "生成皮克斯风格动画",
+    "id": "fullset/style_change/cn/3a95a56fdbaed9acedd16d650dcc41ac.png",
+    "edit_type": "style_change"
+  },
+  "99ccd2da145b7d7ca7670e407cb3bef7": {
+    "prompt": "把第一张图片中的年轻，男女转化成类似，第二张Q版风格的插画",
+    "id": "fullset/style_change/cn/99ccd2da145b7d7ca7670e407cb3bef7.png",
+    "edit_type": "style_change"
+  },
+  "af2400e4008497474a3ded8fbbb3acc0": {
+    "prompt": "变成吉卜力风格",
+    "id": "fullset/style_change/cn/af2400e4008497474a3ded8fbbb3acc0.png",
+    "edit_type": "style_change"
+  },
+  "1ae5cde224b986b5e4e9d5bdcf44321e": {
+    "prompt": "做成油画风格",
+    "id": "fullset/style_change/cn/1ae5cde224b986b5e4e9d5bdcf44321e.png",
+    "edit_type": "style_change"
+  },
+  "f50278651439a107a2ff7e1b6f76ff08": {
+    "prompt": "把这张图处理成阳光明亮的风格，用作头像",
+    "id": "fullset/style_change/cn/f50278651439a107a2ff7e1b6f76ff08.png",
+    "edit_type": "style_change"
+  },
+  "1021ff6859a5be7b3955a1fc8d1a9431": {
+    "prompt": "生成赛博朋克风格照片",
+    "id": "fullset/style_change/cn/1021ff6859a5be7b3955a1fc8d1a9431.png",
+    "edit_type": "style_change"
+  },
+  "ae112c98cae0bfd203af4da8ee3ad54f": {
+    "prompt": "把它画成q版的",
+    "id": "fullset/style_change/cn/ae112c98cae0bfd203af4da8ee3ad54f.png",
+    "edit_type": "style_change"
+  },
+  "462493728c812ed7b9a46d35bd923d34": {
+    "prompt": "在她手里加一本书",
+    "id": "fullset/subject-add/cn/462493728c812ed7b9a46d35bd923d34.png",
+    "edit_type": "subject-add"
+  },
+  "25631c283bd12713900c693009b1c4ca": {
+    "prompt": "添加一个泳池旁的躺椅",
+    "id": "fullset/subject-add/cn/25631c283bd12713900c693009b1c4ca.png",
+    "edit_type": "subject-add"
+  },
+  "3d00688dfbae3a417d9fdb0599c31612": {
+    "prompt": "在碗旁边添加一把勺子",
+    "id": "fullset/subject-add/cn/3d00688dfbae3a417d9fdb0599c31612.png",
+    "edit_type": "subject-add"
+  },
+  "cbb6a1442c20bc7d006fc52f57a7e069": {
+    "prompt": "加入一张摆有盘子的桌子",
+    "id": "fullset/subject-add/cn/cbb6a1442c20bc7d006fc52f57a7e069.png",
+    "edit_type": "subject-add"
+  },
+  "8a116404e2af4eb50871e06263c518b0": {
+    "prompt": "在角落添加一个书架",
+    "id": "fullset/subject-add/cn/8a116404e2af4eb50871e06263c518b0.png",
+    "edit_type": "subject-add"
+  },
+  "7fa258492c40546a1412b2e24f283e5f": {
+    "prompt": "添加一个飞向球员的棒球",
+    "id": "fullset/subject-add/cn/7fa258492c40546a1412b2e24f283e5f.png",
+    "edit_type": "subject-add"
+  },
+  "ab8c8482e5621349ffcaf7b73a3898d6": {
+    "prompt": "在手指上添加一个漂亮的戒指",
+    "id": "fullset/subject-add/cn/ab8c8482e5621349ffcaf7b73a3898d6.png",
+    "edit_type": "subject-add"
+  },
+  "b9c37aa4bbba0d3603d3d3d6b2472f44": {
+    "prompt": "在蛋糕顶部加入一根蜡烛",
+    "id": "fullset/subject-add/cn/b9c37aa4bbba0d3603d3d3d6b2472f44.png",
+    "edit_type": "subject-add"
+  },
+  "92bb99012b775fec11f9c61eb22340e5": {
+    "prompt": "在他身后添加一棵棕榈树",
+    "id": "fullset/subject-add/cn/92bb99012b775fec11f9c61eb22340e5.png",
+    "edit_type": "subject-add"
+  },
+  "41fa4cf4dabc709bc1a04b273b801471": {
+    "prompt": "在天空中加入一个热气球",
+    "id": "fullset/subject-add/cn/41fa4cf4dabc709bc1a04b273b801471.png",
+    "edit_type": "subject-add"
+  },
+  "82f0d5a60f6a14fcbf7a0828d93b2c42": {
+    "prompt": "在篮子里添加一只坐着的猫",
+    "id": "fullset/subject-add/cn/82f0d5a60f6a14fcbf7a0828d93b2c42.png",
+    "edit_type": "subject-add"
+  },
+  "38e83bc17f011f6fe380618f5edc9af4": {
+    "prompt": "添加一只围绕猫飞舞的蝴蝶",
+    "id": "fullset/subject-add/cn/38e83bc17f011f6fe380618f5edc9af4.png",
+    "edit_type": "subject-add"
+  },
+  "24365500c3f8cef08832d25e00ae03cb": {
+    "prompt": "在披萨上加一个红色樱桃",
+    "id": "fullset/subject-add/cn/24365500c3f8cef08832d25e00ae03cb.png",
+    "edit_type": "subject-add"
+  },
+  "6d36627582330fe77f4726604d362dc8": {
+    "prompt": "加入一只狗在旁边奔跑",
+    "id": "fullset/subject-add/cn/6d36627582330fe77f4726604d362dc8.png",
+    "edit_type": "subject-add"
+  },
+  "5792877c20ccb8c8dfa7a2e3ea570c86": {
+    "prompt": "在蛋糕顶部加入一根蜡烛",
+    "id": "fullset/subject-add/cn/5792877c20ccb8c8dfa7a2e3ea570c86.png",
+    "edit_type": "subject-add"
+  },
+  "d23b4b1af3a519ef6c3d5deb2ae171fd": {
+    "prompt": "在它的鬃毛上添加一只落下的蝴蝶",
+    "id": "fullset/subject-add/cn/d23b4b1af3a519ef6c3d5deb2ae171fd.png",
+    "edit_type": "subject-add"
+  },
+  "4c2bf9769840edd7015a3cbea40f10cc": {
+    "prompt": "添加一个飞向她的网球",
+    "id": "fullset/subject-add/cn/4c2bf9769840edd7015a3cbea40f10cc.png",
+    "edit_type": "subject-add"
+  },
+  "071bd732edfb657a3baf47a13477c0ff": {
+    "prompt": "在狗旁边添加一个网球",
+    "id": "fullset/subject-add/cn/071bd732edfb657a3baf47a13477c0ff.png",
+    "edit_type": "subject-add"
+  },
+  "c884913a9bec1ac33d16e85b252c39c5": {
+    "prompt": "在火车附近添加一匹奔跑的马",
+    "id": "fullset/subject-add/cn/c884913a9bec1ac33d16e85b252c39c5.png",
+    "edit_type": "subject-add"
+  },
+  "e9ac3ec18e91f8bf73b340de1c2e459e": {
+    "prompt": "在公交车旁添加一个站立的人",
+    "id": "fullset/subject-add/cn/e9ac3ec18e91f8bf73b340de1c2e459e.png",
+    "edit_type": "subject-add"
+  },
+  "91ab4a87f04b6e652fe4e0bfba31ddc3": {
+    "prompt": "在左侧新增一个鸣人的形象",
+    "id": "fullset/subject-add/cn/91ab4a87f04b6e652fe4e0bfba31ddc3.png",
+    "edit_type": "subject-add"
+  },
+  "3cac5f0141378133b6c02c69bb7349fc": {
+    "prompt": "在天空当中新增一个机器人小鸟",
+    "id": "fullset/subject-add/cn/3cac5f0141378133b6c02c69bb7349fc.png",
+    "edit_type": "subject-add"
+  },
+  "853784745a3c52dcfd24cf3a8dba1f56": {
+    "prompt": "帮我点燃一下蜡烛，增添一点烛火",
+    "id": "fullset/subject-add/cn/853784745a3c52dcfd24cf3a8dba1f56.png",
+    "edit_type": "subject-add"
+  },
+  "707d83474b3e137e378c02b23ee414ae": {
+    "prompt": "帮我加一个墨镜，要帅气风格的",
+    "id": "fullset/subject-add/cn/707d83474b3e137e378c02b23ee414ae.png",
+    "edit_type": "subject-add"
+  },
+  "ba40f1be938b26d2ddec5cb966453720": {
+    "prompt": "帮我P个女友嘛，一个人坐着挺无聊的，想有个女友坐旁边，位置已经留出来了",
+    "id": "fullset/subject-add/cn/ba40f1be938b26d2ddec5cb966453720.png",
+    "edit_type": "subject-add"
+  },
+  "f35092d58408ce805d5778fd13ad950c": {
+    "prompt": "帮我p一个男朋友，出一张双人照",
+    "id": "fullset/subject-add/cn/f35092d58408ce805d5778fd13ad950c.png",
+    "edit_type": "subject-add"
+  },
+  "ab6798a5e2a8e04de9bdb02c9425d2a9": {
+    "prompt": "补充一下胸前的发量，长头发，看起来温柔一些的",
+    "id": "fullset/subject-add/cn/ab6798a5e2a8e04de9bdb02c9425d2a9.png",
+    "edit_type": "subject-add"
+  },
+  "3ec57ad1669a3841f18e151a487bc767": {
+    "prompt": "戴一个眼镜，知识分子风格，高知风",
+    "id": "fullset/subject-add/cn/3ec57ad1669a3841f18e151a487bc767.png",
+    "edit_type": "subject-add"
+  },
+  "9435ef3cbe961ecde654fdde42598cb1": {
+    "prompt": "手上放一个红酒杯",
+    "id": "fullset/subject-add/cn/9435ef3cbe961ecde654fdde42598cb1.png",
+    "edit_type": "subject-add"
+  },
+  "10d6161cc1bebeeb0d7c5cac99a3cafd": {
+    "prompt": "手指上加一个大钻戒，抽象，夸张，搞笑表情包",
+    "id": "fullset/subject-add/cn/10d6161cc1bebeeb0d7c5cac99a3cafd.png",
+    "edit_type": "subject-add"
+  },
+  "794bc25fba24e9c7546c7ffed818fba1": {
+    "prompt": "可以在这张图片上加上企鹅的眼睛吗",
+    "id": "fullset/subject-add/cn/794bc25fba24e9c7546c7ffed818fba1.png",
+    "edit_type": "subject-add"
+  },
+  "d211b4a29bbfc174b2ef48c6574c5dff": {
+    "prompt": "帮我生图，主题是在这张图中电器旁边加一个亮着灯的帐篷，要保留这些原有的电器",
+    "id": "fullset/subject-add/cn/d211b4a29bbfc174b2ef48c6574c5dff.png",
+    "edit_type": "subject-add"
+  },
+  "6a498187c524c7adb7a739413c24f185": {
+    "prompt": "帮我在这幅画右下角加上三个带叶子的柿子",
+    "id": "fullset/subject-add/cn/6a498187c524c7adb7a739413c24f185.png",
+    "edit_type": "subject-add"
+  },
+  "ec55ed4412ff3a74e6e4b42b21371fb1": {
+    "prompt": "帮我把这个图片加上衣服然后再让他的眼神变的有一丝不屑把脚改成翘着二郎腿",
+    "id": "fullset/subject-add/cn/ec55ed4412ff3a74e6e4b42b21371fb1.png",
+    "edit_type": "subject-add"
+  },
+  "dd8355aceecda1bed1594a616b40cd11": {
+    "prompt": "添加丝袜",
+    "id": "fullset/subject-add/cn/dd8355aceecda1bed1594a616b40cd11.png",
+    "edit_type": "subject-add"
+  },
+  "1f58ceef62aecf90fcca4f253c5a478b": {
+    "prompt": "给图片里的人物添加枪械，变成劫匪抢劫的恶搞效果，背景换成银行",
+    "id": "fullset/subject-add/cn/1f58ceef62aecf90fcca4f253c5a478b.png",
+    "edit_type": "subject-add"
+  },
+  "720454d83c65f03eefe4cb6da5d706df": {
+    "prompt": "给这张图添加一只小狗依靠在女生腿旁边",
+    "id": "fullset/subject-add/cn/720454d83c65f03eefe4cb6da5d706df.png",
+    "edit_type": "subject-add"
+  },
+  "ae62baf786ccbe623b41109c0bda4add": {
+    "prompt": "加个美女上去陪他男朋友",
+    "id": "fullset/subject-add/cn/ae62baf786ccbe623b41109c0bda4add.png",
+    "edit_type": "subject-add"
+  },
+  "30ecaf9734421b7085c536d7f9837ec7": {
+    "prompt": "在图中人物旁边添加一个中国年轻女性，笑容灿烂，清纯类型，形态自然，图中人物不做改动",
+    "id": "fullset/subject-add/cn/30ecaf9734421b7085c536d7f9837ec7.png",
+    "edit_type": "subject-add"
+  },
+  "be980c50b5cdfb9ede40c6d71769d2c9": {
+    "prompt": "给图片中的人加上一件羊毛大衣",
+    "id": "fullset/subject-add/cn/be980c50b5cdfb9ede40c6d71769d2c9.png",
+    "edit_type": "subject-add"
+  },
+  "abf17f7fd44b495e38da17423b1bbd49": {
+    "prompt": "在白色衣服男性的左边添加一位背对镜头的女性",
+    "id": "fullset/subject-add/cn/abf17f7fd44b495e38da17423b1bbd49.png",
+    "edit_type": "subject-add"
+  },
+  "2155f844beb949faa389c83bd4173a6c": {
+    "prompt": "在背景处添加一张凳子",
+    "id": "fullset/subject-add/cn/2155f844beb949faa389c83bd4173a6c.png",
+    "edit_type": "subject-add"
+  },
+  "761a6bf01b28d3785d5ab04afa45e7a9": {
+    "prompt": "在沙发右边添加一盆绿植。",
+    "id": "fullset/subject-add/cn/761a6bf01b28d3785d5ab04afa45e7a9.png",
+    "edit_type": "subject-add"
+  },
+  "540034b428e3c61e8d5a59e3fbba46aa": {
+    "prompt": "在图中右边添加一位头发花白的女性老人",
+    "id": "fullset/subject-add/cn/540034b428e3c61e8d5a59e3fbba46aa.png",
+    "edit_type": "subject-add"
+  },
+  "0523f1c34d1e3312d85b938a7c329885": {
+    "prompt": "在飞机下方添加一条气球装饰带。",
+    "id": "fullset/subject-add/cn/0523f1c34d1e3312d85b938a7c329885.png",
+    "edit_type": "subject-add"
+  },
+  "69a8b2a59f6d83aab9101d895bc0e10f": {
+    "prompt": "在桌上加一个水瓶",
+    "id": "fullset/subject-add/cn/69a8b2a59f6d83aab9101d895bc0e10f.png",
+    "edit_type": "subject-add"
+  },
+  "0fd3b576ec3f9873767eb7348c78ead2": {
+    "prompt": "添加一位微笑的女生",
+    "id": "fullset/subject-add/cn/0fd3b576ec3f9873767eb7348c78ead2.png",
+    "edit_type": "subject-add"
+  },
+  "5fe0c103a59eabd95012374edf3d298e": {
+    "prompt": "给女生穿上黑色短裤",
+    "id": "fullset/subject-add/cn/5fe0c103a59eabd95012374edf3d298e.png",
+    "edit_type": "subject-add"
+  },
+  "bcb9d7a80eaf8a5f630cc78b6bce0b6c": {
+    "prompt": "在图像前景位置添加两只面对面坐着的小狗。",
+    "id": "fullset/subject-add/cn/bcb9d7a80eaf8a5f630cc78b6bce0b6c.png",
+    "edit_type": "subject-add"
+  },
+  "0b54f659bd2b2ecd02c1070331cd0c92": {
+    "prompt": "在新娘左侧添加一位新郎，两人相互对视",
+    "id": "fullset/subject-add/cn/0b54f659bd2b2ecd02c1070331cd0c92.png",
+    "edit_type": "subject-add"
+  },
+  "db01713497b149ee87ed7ef66313f122": {
+    "prompt": "添加金色水晶玻璃球。",
+    "id": "fullset/subject-add/cn/db01713497b149ee87ed7ef66313f122.png",
+    "edit_type": "subject-add"
+  },
+  "ee87afcee5619d39abcbc36cd87391d4": {
+    "prompt": "在笔记本电脑前添加一个戴着耳机操作电脑的男孩。",
+    "id": "fullset/subject-add/cn/ee87afcee5619d39abcbc36cd87391d4.png",
+    "edit_type": "subject-add"
+  },
+  "4000f5cdc69f67b283228009f51133fa": {
+    "prompt": "添加蓝色羽饰头盔",
+    "id": "fullset/subject-add/cn/4000f5cdc69f67b283228009f51133fa.png",
+    "edit_type": "subject-add"
+  },
+  "0ed1540807e373893280ce44287a9838": {
+    "prompt": "将头发从马尾辫改为自然披散至肩部",
+    "id": "fullset/subject-add/cn/0ed1540807e373893280ce44287a9838.png",
+    "edit_type": "subject-add"
+  },
+  "30f6aa209359ab7d115d232b1313a047": {
+    "prompt": "在厨师脸部添加口罩",
+    "id": "fullset/subject-add/cn/30f6aa209359ab7d115d232b1313a047.png",
+    "edit_type": "subject-add"
+  },
+  "cf2612adda4cc638132a60a2857a6cc5": {
+    "prompt": "在前景左侧添加一个一次性杯子。",
+    "id": "fullset/subject-add/cn/cf2612adda4cc638132a60a2857a6cc5.png",
+    "edit_type": "subject-add"
+  },
+  "09329f999a34f60db2047904ffe6cf0b": {
+    "prompt": "在人物上半身添加黑色短袖T恤",
+    "id": "fullset/subject-add/cn/09329f999a34f60db2047904ffe6cf0b.png",
+    "edit_type": "subject-add"
+  },
+  "61e0b78dbfbf640f62447931c8c45a9a": {
+    "prompt": "在画架上添加一幅画。",
+    "id": "fullset/subject-add/cn/61e0b78dbfbf640f62447931c8c45a9a.png",
+    "edit_type": "subject-add"
+  },
+  "0f0d1e81bb1308e2bbc57ea3c32d5f31": {
+    "prompt": "在女孩手中添加吉他，并调整手部姿势和手臂位置以适应吉他",
+    "id": "fullset/subject-add/cn/0f0d1e81bb1308e2bbc57ea3c32d5f31.png",
+    "edit_type": "subject-add"
+  },
+  "815fc87e5633ec77855c468746d08773": {
+    "prompt": "在图中添加一个亮着的绿色台灯",
+    "id": "fullset/subject-add/cn/815fc87e5633ec77855c468746d08773.png",
+    "edit_type": "subject-add"
+  },
+  "c2330eaa58378dd8d76989053fe27cdc": {
+    "prompt": "移除长椅上的软呢帽",
+    "id": "fullset/subject-remove/cn/c2330eaa58378dd8d76989053fe27cdc.png",
+    "edit_type": "subject-remove"
+  },
+  "fc610a23a5c9ac5c4a3c2cc0386bc8d2": {
+    "prompt": "移除货运列车",
+    "id": "fullset/subject-remove/cn/fc610a23a5c9ac5c4a3c2cc0386bc8d2.png",
+    "edit_type": "subject-remove"
+  },
+  "2d762cc12344718236b171a19417adf5": {
+    "prompt": "移除测量高度的标志",
+    "id": "fullset/subject-remove/cn/2d762cc12344718236b171a19417adf5.png",
+    "edit_type": "subject-remove"
+  },
+  "ea887a20c2483ba77f0f0fdfabf83f34": {
+    "prompt": "擦除停车标志",
+    "id": "fullset/subject-remove/cn/ea887a20c2483ba77f0f0fdfabf83f34.png",
+    "edit_type": "subject-remove"
+  },
+  "79e800c9187225a020bef26413014de3": {
+    "prompt": "移除正在理发的狗",
+    "id": "fullset/subject-remove/cn/79e800c9187225a020bef26413014de3.png",
+    "edit_type": "subject-remove"
+  },
+  "1b05dbce0dc0e981e4eb38b27c2c0167": {
+    "prompt": "移除毛绒玩具",
+    "id": "fullset/subject-remove/cn/1b05dbce0dc0e981e4eb38b27c2c0167.png",
+    "edit_type": "subject-remove"
+  },
+  "ca3ce49b08db0d75388197210fed5157": {
+    "prompt": "移除黑色帽子",
+    "id": "fullset/subject-remove/cn/ca3ce49b08db0d75388197210fed5157.png",
+    "edit_type": "subject-remove"
+  },
+  "e0e6c00cd4573be9dd571854cf362d24": {
+    "prompt": "移除穿全白衣服、站在滑雪板上的人",
+    "id": "fullset/subject-remove/cn/e0e6c00cd4573be9dd571854cf362d24.png",
+    "edit_type": "subject-remove"
+  },
+  "3d1bf910852585afdb6fe2a9c9b24d6b": {
+    "prompt": "移除摩托车",
+    "id": "fullset/subject-remove/cn/3d1bf910852585afdb6fe2a9c9b24d6b.png",
+    "edit_type": "subject-remove"
+  },
+  "6d3f5e90a64806a7b3170d71a6dd0fbe": {
+    "prompt": "移除花生",
+    "id": "fullset/subject-remove/cn/6d3f5e90a64806a7b3170d71a6dd0fbe.png",
+    "edit_type": "subject-remove"
+  },
+  "90f506d94854bce0e7cfe3d7f015c4b2": {
+    "prompt": "移除飞盘",
+    "id": "fullset/subject-remove/cn/90f506d94854bce0e7cfe3d7f015c4b2.png",
+    "edit_type": "subject-remove"
+  },
+  "fb492dc225f9ba92079731774b91ac8e": {
+    "prompt": "删除肉饼",
+    "id": "fullset/subject-remove/cn/fb492dc225f9ba92079731774b91ac8e.png",
+    "edit_type": "subject-remove"
+  },
+  "834b9cd34b6c6c201ad42bb00eba10eb": {
+    "prompt": "移除披萨",
+    "id": "fullset/subject-remove/cn/834b9cd34b6c6c201ad42bb00eba10eb.png",
+    "edit_type": "subject-remove"
+  },
+  "856b6b373fe9f39644456d5810cb9042": {
+    "prompt": "移除滑板",
+    "id": "fullset/subject-remove/cn/856b6b373fe9f39644456d5810cb9042.png",
+    "edit_type": "subject-remove"
+  },
+  "9e563953afc8bcce1d0ad908e47f8006": {
+    "prompt": "移除站在白衣女子旁边的女人",
+    "id": "fullset/subject-remove/cn/9e563953afc8bcce1d0ad908e47f8006.png",
+    "edit_type": "subject-remove"
+  },
+  "7bacd70f8819d2444bcf5e0676b14a67": {
+    "prompt": "擦除斑马",
+    "id": "fullset/subject-remove/cn/7bacd70f8819d2444bcf5e0676b14a67.png",
+    "edit_type": "subject-remove"
+  },
+  "e0f2fafb11805800995f38cb327d905b": {
+    "prompt": "移除雨伞",
+    "id": "fullset/subject-remove/cn/e0f2fafb11805800995f38cb327d905b.png",
+    "edit_type": "subject-remove"
+  },
+  "e5407a415cc85180f2decb76a9529b6e": {
+    "prompt": "移除女人",
+    "id": "fullset/subject-remove/cn/e5407a415cc85180f2decb76a9529b6e.png",
+    "edit_type": "subject-remove"
+  },
+  "dd328e27b6f2b6871f6be99c414717a9": {
+    "prompt": "删除西兰花",
+    "id": "fullset/subject-remove/cn/dd328e27b6f2b6871f6be99c414717a9.png",
+    "edit_type": "subject-remove"
+  },
+  "5d9a5910b296328accc6701096c16a5b": {
+    "prompt": "擦除砧板上的刀",
+    "id": "fullset/subject-remove/cn/5d9a5910b296328accc6701096c16a5b.png",
+    "edit_type": "subject-remove"
+  },
+  "ae3bf75e9abe53ab8e24052ef129d1ef": {
+    "prompt": "把佐助收上的剑换成一根彩虹独角兽锤子",
+    "id": "fullset/subject-replace/cn/ae3bf75e9abe53ab8e24052ef129d1ef.png",
+    "edit_type": "subject-replace"
+  },
+  "bc8d567ee91ca1521adaa8d4a486851f": {
+    "prompt": "替换图上的人脸，换成金发美女",
+    "id": "fullset/subject-replace/cn/bc8d567ee91ca1521adaa8d4a486851f.png",
+    "edit_type": "subject-replace"
+  },
+  "2afdc3f8ccc9191b4b5854a9c4042092": {
+    "prompt": "把路人p掉，背景是仙人掌",
+    "id": "fullset/subject-remove/cn/2afdc3f8ccc9191b4b5854a9c4042092.png",
+    "edit_type": "subject-remove"
+  },
+  "202eccaba244927e87a17200a87e4406": {
+    "prompt": "去掉魔法棒和星星",
+    "id": "fullset/subject-remove/cn/202eccaba244927e87a17200a87e4406.png",
+    "edit_type": "subject-remove"
+  },
+  "6e59f1430e90396b7e08cb869274c426": {
+    "prompt": "帮我将白丝袜去掉",
+    "id": "fullset/subject-remove/cn/6e59f1430e90396b7e08cb869274c426.png",
+    "edit_type": "subject-remove"
+  },
+  "a9036279f412391d29bfd86fccd1606c": {
+    "prompt": "去掉这个图片上的人",
+    "id": "fullset/subject-remove/cn/a9036279f412391d29bfd86fccd1606c.png",
+    "edit_type": "subject-remove"
+  },
+  "071cbc925ee5f3fcc234d72bf5fbe182": {
+    "prompt": "請把車子外面的那個女人移除掉，其它東西的要保留，再重新輸出給我圖片",
+    "id": "fullset/subject-remove/cn/071cbc925ee5f3fcc234d72bf5fbe182.png",
+    "edit_type": "subject-remove"
+  },
+  "39b5aeaeecceb845d41bc7beaf9319a3": {
+    "prompt": "把图片中间的人去除掉",
+    "id": "fullset/subject-remove/cn/39b5aeaeecceb845d41bc7beaf9319a3.png",
+    "edit_type": "subject-remove"
+  },
+  "dc1fb90b41f4c01c16cc351575bc9461": {
+    "prompt": "去掉图中人物的胡子，其他保持不变",
+    "id": "fullset/subject-remove/cn/dc1fb90b41f4c01c16cc351575bc9461.png",
+    "edit_type": "subject-remove"
+  },
+  "8e02b0e258dcb5c6af860af239ea35be": {
+    "prompt": "去掉照片中的杂物",
+    "id": "fullset/subject-remove/cn/8e02b0e258dcb5c6af860af239ea35be.png",
+    "edit_type": "subject-remove"
+  },
+  "be1f3d0f398433eaf3f9cf9a931402a3": {
+    "prompt": "把人都P掉",
+    "id": "fullset/subject-remove/cn/be1f3d0f398433eaf3f9cf9a931402a3.png",
+    "edit_type": "subject-remove"
+  },
+  "1e62ce17d24426272c11bd47906afba7": {
+    "prompt": "把这张图片下方红色部分去掉",
+    "id": "fullset/subject-remove/cn/1e62ce17d24426272c11bd47906afba7.png",
+    "edit_type": "subject-remove"
+  },
+  "cd5e2a6dd0f762849943fede284c4516": {
+    "prompt": "帮我优化这张图片，去掉远处的电线，保留写实风格",
+    "id": "fullset/subject-remove/cn/cd5e2a6dd0f762849943fede284c4516.png",
+    "edit_type": "subject-remove"
+  },
+  "b5729b790593f7065bf7ae2f7674c1e2": {
+    "prompt": "去掉刘海",
+    "id": "fullset/subject-remove/cn/b5729b790593f7065bf7ae2f7674c1e2.png",
+    "edit_type": "subject-remove"
+  },
+  "1110b6bc43aa5a3037467f5833ece3c5": {
+    "prompt": "帮我图片蛇的图案p掉",
+    "id": "fullset/subject-remove/cn/1110b6bc43aa5a3037467f5833ece3c5.png",
+    "edit_type": "subject-remove"
+  },
+  "56b9020b542342972a3a796ee802ca95": {
+    "prompt": "把图片中手上拿的手机p掉",
+    "id": "fullset/subject-remove/cn/56b9020b542342972a3a796ee802ca95.png",
+    "edit_type": "subject-remove"
+  },
+  "ddb40f4b94e2f60fc92815cfd89546c7": {
+    "prompt": "帮我把黑色的栏杆去掉",
+    "id": "fullset/subject-remove/cn/ddb40f4b94e2f60fc92815cfd89546c7.png",
+    "edit_type": "subject-remove"
+  },
+  "f9418062962373f7646b359d32c2526a": {
+    "prompt": "删除穿白袍男性",
+    "id": "fullset/subject-remove/cn/f9418062962373f7646b359d32c2526a.png",
+    "edit_type": "subject-remove"
+  },
+  "23663821d9be6aba1d8100daffdb15cb": {
+    "prompt": "从船舱顶部移除人物。",
+    "id": "fullset/subject-remove/cn/23663821d9be6aba1d8100daffdb15cb.png",
+    "edit_type": "subject-remove"
+  },
+  "64c8ea3004fb830615591121c1cebe6a": {
+    "prompt": "去掉眼镜",
+    "id": "fullset/subject-remove/cn/64c8ea3004fb830615591121c1cebe6a.png",
+    "edit_type": "subject-remove"
+  },
+  "08a671d4c5067a5659ea84cded659fd8": {
+    "prompt": "帮我删去电脑",
+    "id": "fullset/subject-remove/cn/08a671d4c5067a5659ea84cded659fd8.png",
+    "edit_type": "subject-remove"
+  },
+  "8752867086a665d8889f8134703d92b0": {
+    "prompt": "移除舞台上的音乐架和乐谱",
+    "id": "fullset/subject-remove/cn/8752867086a665d8889f8134703d92b0.png",
+    "edit_type": "subject-remove"
+  },
+  "99cc761cfc9689c2ffff606e41832371": {
+    "prompt": "移除背景里面的栏杆",
+    "id": "fullset/subject-remove/cn/99cc761cfc9689c2ffff606e41832371.png",
+    "edit_type": "subject-remove"
+  },
+  "600884cc7c2be67d2ecf5517fea512c2": {
+    "prompt": "移除前景左侧的花束",
+    "id": "fullset/subject-remove/cn/600884cc7c2be67d2ecf5517fea512c2.png",
+    "edit_type": "subject-remove"
+  },
+  "cf3daa2e86bcd3cc867204e5edb938bf": {
+    "prompt": "删除前景女性手中的笔",
+    "id": "fullset/subject-remove/cn/cf3daa2e86bcd3cc867204e5edb938bf.png",
+    "edit_type": "subject-remove"
+  },
+  "c59adebb1dc6ecf43d658c1a4b7674ee": {
+    "prompt": "删除两人之间的自行车。",
+    "id": "fullset/subject-remove/cn/c59adebb1dc6ecf43d658c1a4b7674ee.png",
+    "edit_type": "subject-remove"
+  },
+  "fe511143bd74c0262075af599364dbcc": {
+    "prompt": "删除窗户内的女孩。",
+    "id": "fullset/subject-remove/cn/fe511143bd74c0262075af599364dbcc.png",
+    "edit_type": "subject-remove"
+  },
+  "2ebb31e51f0de8bba7005352df7150b8": {
+    "prompt": "删除远处红色衣服绿色背包的人",
+    "id": "fullset/subject-remove/cn/2ebb31e51f0de8bba7005352df7150b8.png",
+    "edit_type": "subject-remove"
+  },
+  "ce693a75c84f7c0f2975c6cc50f2af9e": {
+    "prompt": "移除图像左侧的圣诞树",
+    "id": "fullset/subject-remove/cn/ce693a75c84f7c0f2975c6cc50f2af9e.png",
+    "edit_type": "subject-remove"
+  },
+  "f5d8129b33eaf3adcaad19ba2d471529": {
+    "prompt": "移除显示器旁的便利贴",
+    "id": "fullset/subject-remove/cn/f5d8129b33eaf3adcaad19ba2d471529.png",
+    "edit_type": "subject-remove"
+  },
+  "17f4fec8b5c096e4ee3e8f168f93d05d": {
+    "prompt": "帮我删除红色头巾",
+    "id": "fullset/subject-remove/cn/17f4fec8b5c096e4ee3e8f168f93d05d.png",
+    "edit_type": "subject-remove"
+  },
+  "cdafebec5ad18102bb9f2f9eccac053f": {
+    "prompt": "移除红色哑铃",
+    "id": "fullset/subject-remove/cn/cdafebec5ad18102bb9f2f9eccac053f.png",
+    "edit_type": "subject-remove"
+  },
+  "774befadbd2459f532eb3e9bc2dca051": {
+    "prompt": "帮我去掉图像左侧的两瓶酒",
+    "id": "fullset/subject-remove/cn/774befadbd2459f532eb3e9bc2dca051.png",
+    "edit_type": "subject-remove"
+  },
+  "8d0bc807846ac304d0b02ac5588c646d": {
+    "prompt": "删除白色护栏",
+    "id": "fullset/subject-remove/cn/8d0bc807846ac304d0b02ac5588c646d.png",
+    "edit_type": "subject-remove"
+  },
+  "8853ec3095105930363c6c8c988f55e6": {
+    "prompt": "删除戴眼镜的老年男性",
+    "id": "fullset/subject-remove/cn/8853ec3095105930363c6c8c988f55e6.png",
+    "edit_type": "subject-remove"
+  },
+  "16e59a89f37b5603a41fc60e2912a325": {
+    "prompt": "删除图中站立的戴眼镜的人",
+    "id": "fullset/subject-remove/cn/16e59a89f37b5603a41fc60e2912a325.png",
+    "edit_type": "subject-remove"
+  },
+  "453c8005733dd2b902343f7577818c7b": {
+    "prompt": "去除女生手上的手镯和手链",
+    "id": "fullset/subject-remove/cn/453c8005733dd2b902343f7577818c7b.png",
+    "edit_type": "subject-remove"
+  },
+  "e1f901ce70f0db3eff231690b35a5e6f": {
+    "prompt": "将狗替换为机器人",
+    "id": "fullset/subject-replace/cn/e1f901ce70f0db3eff231690b35a5e6f.png",
+    "edit_type": "subject-replace"
+  },
+  "b3143e1ac75799da45f66d12b56cf911": {
+    "prompt": "将电视换成书架",
+    "id": "fullset/subject-replace/cn/b3143e1ac75799da45f66d12b56cf911.png",
+    "edit_type": "subject-replace"
+  },
+  "119d3796737244a5dafa7513b373f64d": {
+    "prompt": "将猫换成松鼠",
+    "id": "fullset/subject-replace/cn/119d3796737244a5dafa7513b373f64d.png",
+    "edit_type": "subject-replace"
+  },
+  "9c6128cce6d1f80b7185c7427d3e30b8": {
+    "prompt": "将披萨换成牛角面包",
+    "id": "fullset/subject-replace/cn/9c6128cce6d1f80b7185c7427d3e30b8.png",
+    "edit_type": "subject-replace"
+  },
+  "906a0ffafbbf5f0dc51f01a4d2b7b7e3": {
+    "prompt": "将笔记本电脑上的猫替换为机器人",
+    "id": "fullset/subject-replace/cn/906a0ffafbbf5f0dc51f01a4d2b7b7e3.png",
+    "edit_type": "subject-replace"
+  },
+  "f1eb6e2131f2e664890e7e7a6c27efd5": {
+    "prompt": "将猫替换为狗",
+    "id": "fullset/subject-replace/cn/f1eb6e2131f2e664890e7e7a6c27efd5.png",
+    "edit_type": "subject-replace"
+  },
+  "b8b9b70b9e2bce018e5e0d2bad7293bc": {
+    "prompt": "将马桶换成浴缸",
+    "id": "fullset/subject-replace/cn/b8b9b70b9e2bce018e5e0d2bad7293bc.png",
+    "edit_type": "subject-replace"
+  },
+  "dcb09f6f95a11496ee03ea7c875ef481": {
+    "prompt": "将熊替换为狐狸",
+    "id": "fullset/subject-replace/cn/dcb09f6f95a11496ee03ea7c875ef481.png",
+    "edit_type": "subject-replace"
+  },
+  "02bc73fdbbb74f6ed7fd480b6b61abe8": {
+    "prompt": "将公交车换成卡车",
+    "id": "fullset/subject-replace/cn/02bc73fdbbb74f6ed7fd480b6b61abe8.png",
+    "edit_type": "subject-replace"
+  },
+  "6c5513204cc1970d65864e87f5c9444b": {
+    "prompt": "将狗换成兔子",
+    "id": "fullset/subject-replace/cn/6c5513204cc1970d65864e87f5c9444b.png",
+    "edit_type": "subject-replace"
+  },
+  "efffd701b3207dee94a8d7009bbc9c75": {
+    "prompt": "将校车换成卡车",
+    "id": "fullset/subject-replace/cn/efffd701b3207dee94a8d7009bbc9c75.png",
+    "edit_type": "subject-replace"
+  },
+  "99303b3de6bf596a47ecf83b25b08db5": {
+    "prompt": "将花瓶换成雕塑",
+    "id": "fullset/subject-replace/cn/99303b3de6bf596a47ecf83b25b08db5.png",
+    "edit_type": "subject-replace"
+  },
+  "1eaed2671a534749a7c6a02a3d3e5f82": {
+    "prompt": "将猫换成鱼",
+    "id": "fullset/subject-replace/cn/1eaed2671a534749a7c6a02a3d3e5f82.png",
+    "edit_type": "subject-replace"
+  },
+  "a88fd018f656ea701330c3fc14c1e8d0": {
+    "prompt": "将公交车换成救护车",
+    "id": "fullset/subject-replace/cn/a88fd018f656ea701330c3fc14c1e8d0.png",
+    "edit_type": "subject-replace"
+  },
+  "23b240c9ef94ecae6ad0b992b3d08034": {
+    "prompt": "将斑马换成长颈鹿",
+    "id": "fullset/subject-replace/cn/23b240c9ef94ecae6ad0b992b3d08034.png",
+    "edit_type": "subject-replace"
+  },
+  "2d3bd0d5db244d8fc89c9348fcb07d19": {
+    "prompt": "将蛋糕换成馅饼",
+    "id": "fullset/subject-replace/cn/2d3bd0d5db244d8fc89c9348fcb07d19.png",
+    "edit_type": "subject-replace"
+  },
+  "d5f8ef8ebda32869bfc8b7fefc88f364": {
+    "prompt": "将床换成沙发",
+    "id": "fullset/subject-replace/cn/d5f8ef8ebda32869bfc8b7fefc88f364.png",
+    "edit_type": "subject-replace"
+  },
+  "7a6e67b7d9c028d3d1bbef91483c26a6": {
+    "prompt": "将大象替换为长颈鹿",
+    "id": "fullset/subject-replace/cn/7a6e67b7d9c028d3d1bbef91483c26a6.png",
+    "edit_type": "subject-replace"
+  },
+  "469267bfc120943d28e93b6ecefe14af": {
+    "prompt": "将老鹰替换为鹦鹉",
+    "id": "fullset/subject-replace/cn/469267bfc120943d28e93b6ecefe14af.png",
+    "edit_type": "subject-replace"
+  },
+  "7d15844945eb5e5dc00c219740f028d3": {
+    "prompt": "将婴儿替换为小狗",
+    "id": "fullset/subject-replace/cn/7d15844945eb5e5dc00c219740f028d3.png",
+    "edit_type": "subject-replace"
+  },
+  "9d913d98a00d6b3a4088bdceb2232b89": {
+    "prompt": "把猫咪脖子上的项圈变成铃铛",
+    "id": "fullset/subject-replace/cn/9d913d98a00d6b3a4088bdceb2232b89.png",
+    "edit_type": "subject-replace"
+  },
+  "038b15558b1082c59f0a92e4853554aa": {
+    "prompt": "把手环变成玉镯",
+    "id": "fullset/subject-replace/cn/038b15558b1082c59f0a92e4853554aa.png",
+    "edit_type": "subject-replace"
+  },
+  "b3f022593999c27290201be31f9e6f1b": {
+    "prompt": "帮我把食物换成海鲜饭",
+    "id": "fullset/subject-replace/cn/b3f022593999c27290201be31f9e6f1b.png",
+    "edit_type": "subject-replace"
+  },
+  "08ea4b4086ac3690f6aa0ab47d0da30f": {
+    "prompt": "帮我换一个耳饰，不那么突兀的",
+    "id": "fullset/subject-replace/cn/08ea4b4086ac3690f6aa0ab47d0da30f.png",
+    "edit_type": "subject-replace"
+  },
+  "ab7edde74c02708a661f6861144cbe95": {
+    "prompt": "米饭变成汉堡包，画一个吃汉堡的头像",
+    "id": "fullset/subject-replace/cn/ab7edde74c02708a661f6861144cbe95.png",
+    "edit_type": "subject-replace"
+  },
+  "e5c8aea1b4db7ee5e173bcc122a4ba8f": {
+    "prompt": "这是一张证件照，请将衣服替换成白色衬衫",
+    "id": "fullset/subject-replace/cn/e5c8aea1b4db7ee5e173bcc122a4ba8f.png",
+    "edit_type": "subject-replace"
+  },
+  "2bf9fc7119ba64e9bb1579221e788885": {
+    "prompt": "给她换个衣服",
+    "id": "fullset/subject-replace/cn/2bf9fc7119ba64e9bb1579221e788885.png",
+    "edit_type": "subject-replace"
+  },
+  "50bf17e2335463ccb3511f5164ed1af0": {
+    "prompt": "把锅里边的食物换成麻辣烫",
+    "id": "fullset/subject-replace/cn/50bf17e2335463ccb3511f5164ed1af0.png",
+    "edit_type": "subject-replace"
+  },
+  "b049c18444079151e9be5a640f9fe552": {
+    "prompt": "把我的发型换成狼尾鲻鱼头",
+    "id": "fullset/subject-replace/cn/b049c18444079151e9be5a640f9fe552.png",
+    "edit_type": "subject-replace"
+  },
+  "0051b688bcfc65a4fc1063488eb9da0c": {
+    "prompt": "衣袖换成拉面和葱花",
+    "id": "fullset/subject-replace/cn/0051b688bcfc65a4fc1063488eb9da0c.png",
+    "edit_type": "subject-replace"
+  },
+  "3de02fadd75720177fa70f42f743a48f": {
+    "prompt": "把男的发型换成微分碎盖",
+    "id": "fullset/subject-replace/cn/3de02fadd75720177fa70f42f743a48f.png",
+    "edit_type": "subject-replace"
+  },
+  "b993cccb7c8b197175226e397a0f09a8": {
+    "prompt": "给图片中的人物换中山装",
+    "id": "fullset/subject-replace/cn/b993cccb7c8b197175226e397a0f09a8.png",
+    "edit_type": "subject-replace"
+  },
+  "1a0f5ee01be70d234093e91bae2282d7": {
+    "prompt": "给我换个长头发，长发及肩的那种，长发及腰的那种。",
+    "id": "fullset/subject-replace/cn/1a0f5ee01be70d234093e91bae2282d7.png",
+    "edit_type": "subject-replace"
+  },
+  "70fa37d482c2e708435366323262de90": {
+    "prompt": "把这边这个图的树枝变成女巫魔法棒",
+    "id": "fullset/subject-replace/cn/70fa37d482c2e708435366323262de90.png",
+    "edit_type": "subject-replace"
+  },
+  "93e3bdd834cb2924864675b3dc5de9e5": {
+    "prompt": "照片上的人物给我抠图换警察衣服",
+    "id": "fullset/subject-replace/cn/93e3bdd834cb2924864675b3dc5de9e5.png",
+    "edit_type": "subject-replace"
+  },
+  "0a92bb3a2f79ce8f79a6818701b95efa": {
+    "prompt": "换成男生",
+    "id": "fullset/subject-replace/cn/0a92bb3a2f79ce8f79a6818701b95efa.png",
+    "edit_type": "subject-replace"
+  },
+  "e70f54aa5e32ff6a11a512a4b6ebc734": {
+    "prompt": "把里面的人给换成蜘蛛侠",
+    "id": "fullset/subject-replace/cn/e70f54aa5e32ff6a11a512a4b6ebc734.png",
+    "edit_type": "subject-replace"
+  },
+  "a231523c745863eb34887202481d482b": {
+    "prompt": "照片保留人物，把猫换成恐龙",
+    "id": "fullset/subject-replace/cn/a231523c745863eb34887202481d482b.png",
+    "edit_type": "subject-replace"
+  },
+  "6d45407dd52ca631efd3095a6f84c8b2": {
+    "prompt": "将狐狸前方的吉他替换为可口可乐罐",
+    "id": "fullset/subject-replace/cn/6d45407dd52ca631efd3095a6f84c8b2.png",
+    "edit_type": "subject-replace"
+  },
+  "9658ab0654630bdb7d190f3f85280793": {
+    "prompt": "将孩子手中的水晶替换为发光的方形盒子",
+    "id": "fullset/subject-replace/cn/9658ab0654630bdb7d190f3f85280793.png",
+    "edit_type": "subject-replace"
+  },
+  "645a7c81e22d496f62e8bbbd58ca309e": {
+    "prompt": "将图像中心的女性替换为一架黑色直升机。",
+    "id": "fullset/subject-replace/cn/645a7c81e22d496f62e8bbbd58ca309e.png",
+    "edit_type": "subject-replace"
+  },
+  "41648ca74f9e782af1359397de7a6125": {
+    "prompt": "将猫头上的皇冠改为魔术帽",
+    "id": "fullset/subject-replace/cn/41648ca74f9e782af1359397de7a6125.png",
+    "edit_type": "subject-replace"
+  },
+  "20766bfbcee8914213e479c5845a057f": {
+    "prompt": "将狼换成站立的熊，让熊用两只前爪握住光剑",
+    "id": "fullset/subject-replace/cn/20766bfbcee8914213e479c5845a057f.png",
+    "edit_type": "subject-replace"
+  },
+  "19e7dd610e2151dd4576490c7ece040f": {
+    "prompt": "将女士手中的花束改为一瓶威士忌",
+    "id": "fullset/subject-replace/cn/19e7dd610e2151dd4576490c7ece040f.png",
+    "edit_type": "subject-replace"
+  },
+  "8e5ddf5d223b0e938f58da44752dbca7": {
+    "prompt": "将滤水篮中的水果替换为西红柿",
+    "id": "fullset/subject-replace/cn/8e5ddf5d223b0e938f58da44752dbca7.png",
+    "edit_type": "subject-replace"
+  },
+  "76fb2038377daf0ee1fe8efc57f7d6b3": {
+    "prompt": "将人物右手的武士刀改为斧头。",
+    "id": "fullset/subject-replace/cn/76fb2038377daf0ee1fe8efc57f7d6b3.png",
+    "edit_type": "subject-replace"
+  },
+  "47ee57134632cbbfd038acd9ae870779": {
+    "prompt": "帮我将两个孩子替换为一辆消防车。",
+    "id": "fullset/subject-replace/cn/47ee57134632cbbfd038acd9ae870779.png",
+    "edit_type": "subject-replace"
+  },
+  "38424c921a89c3192404da23d54ce90d": {
+    "prompt": "将棕色小熊玩具替换为一包“Cricket”薯片",
+    "id": "fullset/subject-replace/cn/38424c921a89c3192404da23d54ce90d.png",
+    "edit_type": "subject-replace"
+  },
+  "0064d30c8f40ddd94fa9bc564677498e": {
+    "prompt": "把镜子中穿白衬衫的人替换成一个衣柜",
+    "id": "fullset/subject-replace/cn/0064d30c8f40ddd94fa9bc564677498e.png",
+    "edit_type": "subject-replace"
+  },
+  "a33f7ac94c028e30e9254363bb651331": {
+    "prompt": "将婴儿手中的气球替换为奶油冰淇淋",
+    "id": "fullset/subject-replace/cn/a33f7ac94c028e30e9254363bb651331.png",
+    "edit_type": "subject-replace"
+  },
+  "92feefc5a6c868f8e36f262a7a89f866": {
+    "prompt": "将婴儿推车替换为大型地球仪",
+    "id": "fullset/subject-replace/cn/92feefc5a6c868f8e36f262a7a89f866.png",
+    "edit_type": "subject-replace"
+  },
+  "f22a0046d07bf09f9e90b3eecb06e151": {
+    "prompt": "将男子手中画卷上的绘画替换为藏宝图",
+    "id": "fullset/subject-replace/cn/f22a0046d07bf09f9e90b3eecb06e151.png",
+    "edit_type": "subject-replace"
+  },
+  "8d074f9906d22f1f4d48400fe47f74f0": {
+    "prompt": "将穿橘色条纹衫的小男孩手中的铅笔改为一个鸡蛋",
+    "id": "fullset/subject-replace/cn/8d074f9906d22f1f4d48400fe47f74f0.png",
+    "edit_type": "subject-replace"
+  },
+  "cef0d8358ad359678f9632380c3b5ac6": {
+    "prompt": "将两片红柚替换为VR眼镜",
+    "id": "fullset/subject-replace/cn/cef0d8358ad359678f9632380c3b5ac6.png",
+    "edit_type": "subject-replace"
+  },
+  "3e15c35b58cee82be47ee8d927704dde": {
+    "prompt": "将前景人物手中的画笔替换为长颈鹿面具",
+    "id": "fullset/subject-replace/cn/3e15c35b58cee82be47ee8d927704dde.png",
+    "edit_type": "subject-replace"
+  },
+  "13829304257def7287613210cc82d6eb": {
+    "prompt": "将桌上绿色杯子及其浅色碟子替换为笔筒",
+    "id": "fullset/subject-replace/cn/13829304257def7287613210cc82d6eb.png",
+    "edit_type": "subject-replace"
+  },
+  "619ba60ef621caf9f1412bfa7a3eb5c1": {
+    "prompt": "将图像左侧女生的衣服替换成黑白条纹的的裙子",
+    "id": "fullset/subject-replace/cn/619ba60ef621caf9f1412bfa7a3eb5c1.png",
+    "edit_type": "subject-replace"
+  },
+  "fb4ebcdc742e1eb13c99f8f56e3a0cdb": {
+    "prompt": "将女孩面前的笔记本电脑替换为一本书",
+    "id": "fullset/subject-replace/cn/fb4ebcdc742e1eb13c99f8f56e3a0cdb.png",
+    "edit_type": "subject-replace"
+  },
+  "a8cd7b467259425ed1a369550b28340e": {
+    "prompt": "将文本 'Google' 替换为 'Goose'",
+    "id": "fullset/text_change/cn/a8cd7b467259425ed1a369550b28340e.png",
+    "edit_type": "text_change"
+  },
+  "9083ce3121a3d62c3fe3527e874760e5": {
+    "prompt": "将文本 'me' 替换为 'he'",
+    "id": "fullset/text_change/cn/9083ce3121a3d62c3fe3527e874760e5.png",
+    "edit_type": "text_change"
+  },
+  "680553ae15691f30c9f717b5eac38ee9": {
+    "prompt": "将文本 'LONDON' 替换为 'ENGLAND'",
+    "id": "fullset/text_change/cn/680553ae15691f30c9f717b5eac38ee9.png",
+    "edit_type": "text_change"
+  },
+  "de0dff21bb67b813d97dbe1709282a1f": {
+    "prompt": "将文本 'THE' 替换为 'BUT'",
+    "id": "fullset/text_change/cn/de0dff21bb67b813d97dbe1709282a1f.png",
+    "edit_type": "text_change"
+  },
+  "a64d376914f2bed3b2383d9af0965dcb": {
+    "prompt": "将文本 'DARK' 替换为 'DUCK'",
+    "id": "fullset/text_change/cn/a64d376914f2bed3b2383d9af0965dcb.png",
+    "edit_type": "text_change"
+  },
+  "9c5b7cba20568ccd142d8911e7a763c1": {
+    "prompt": "将文本 'ORION' 替换为 'OREO'",
+    "id": "fullset/text_change/cn/9c5b7cba20568ccd142d8911e7a763c1.png",
+    "edit_type": "text_change"
+  },
+  "9c626643de176f0b934842efe12893c1": {
+    "prompt": "将文本 'Science' 替换为 'Nature'",
+    "id": "fullset/text_change/cn/9c626643de176f0b934842efe12893c1.png",
+    "edit_type": "text_change"
+  },
+  "58679ee9aa7080c0d51c33e71375689c": {
+    "prompt": "将文本 'APEX' 替换为 'CSGO'",
+    "id": "fullset/text_change/cn/58679ee9aa7080c0d51c33e71375689c.png",
+    "edit_type": "text_change"
+  },
+  "3bba48b36d85fb45365ee57c188b71ea": {
+    "prompt": "将文本 'CS' 替换为 'VALO'，并且将文本'GO'替换为'RANT'",
+    "id": "fullset/text_change/cn/3bba48b36d85fb45365ee57c188b71ea.png",
+    "edit_type": "text_change"
+  },
+  "6c106095dcb4224b3b3d74b4f89b8389": {
+    "prompt": "将文本 'VALORANT' 替换为 'APEX'",
+    "id": "fullset/text_change/cn/6c106095dcb4224b3b3d74b4f89b8389.png",
+    "edit_type": "text_change"
+  },
+  "e7e3e2de78380531a17b1edd36807135": {
+    "prompt": "将文本 'IELTS' 替换为 'TOFEL'",
+    "id": "fullset/text_change/cn/e7e3e2de78380531a17b1edd36807135.png",
+    "edit_type": "text_change"
+  },
+  "ffb7319fe2b8f2d222fb4ef38575d0f7": {
+    "prompt": "将文本 'TOFEL' 替换为 'IELTS'",
+    "id": "fullset/text_change/cn/ffb7319fe2b8f2d222fb4ef38575d0f7.png",
+    "edit_type": "text_change"
+  },
+  "0c8ea3779a6497c2b743c962a8231d1f": {
+    "prompt": "将文本 'duolingo' 替换为 'greenowl'",
+    "id": "fullset/text_change/cn/0c8ea3779a6497c2b743c962a8231d1f.png",
+    "edit_type": "text_change"
+  },
+  "4612dcee8805e9624abd52e616449ba5": {
+    "prompt": "将文本 'FREE'去掉",
+    "id": "fullset/text_change/cn/4612dcee8805e9624abd52e616449ba5.png",
+    "edit_type": "text_change"
+  },
+  "5e085566f105978483848cab2f3a7001": {
+    "prompt": "将文本 'TRAIN' 替换为 'PLANE'",
+    "id": "fullset/text_change/cn/5e085566f105978483848cab2f3a7001.png",
+    "edit_type": "text_change"
+  },
+  "89714e3ea9345ea5483ac6d5856915fe": {
+    "prompt": "将文本 'Salmon' 替换为 'Sandwich'",
+    "id": "fullset/text_change/cn/89714e3ea9345ea5483ac6d5856915fe.png",
+    "edit_type": "text_change"
+  },
+  "b43f20f42dbb3e169fabf75289627f98": {
+    "prompt": "将图片中的文本去掉",
+    "id": "fullset/text_change/cn/b43f20f42dbb3e169fabf75289627f98.png",
+    "edit_type": "text_change"
+  },
+  "78ee992d292a3153df4d8d351f6256da": {
+    "prompt": "将图片中的文本去掉",
+    "id": "fullset/text_change/cn/78ee992d292a3153df4d8d351f6256da.png",
+    "edit_type": "text_change"
+  },
+  "e3ca3edfa90133957ec703f6d54b293a": {
+    "prompt": "将文本 'KONG' 替换为 'JING'",
+    "id": "fullset/text_change/cn/e3ca3edfa90133957ec703f6d54b293a.png",
+    "edit_type": "text_change"
+  },
+  "c3e2d59003688478213a86fcee494bad": {
+    "prompt": "将文本 'lululemon' 替换为 'lelolelol'",
+    "id": "fullset/text_change/cn/c3e2d59003688478213a86fcee494bad.png",
+    "edit_type": "text_change"
+  },
+  "729973fc58cfbf36b439f77a9f23a175": {
+    "prompt": "在文本 '2025' 下方加上 'SPRING'",
+    "id": "fullset/text_change/cn/729973fc58cfbf36b439f77a9f23a175.png",
+    "edit_type": "text_change"
+  },
+  "0cf1208c4cfe6b460aaa6c4e01af30a3": {
+    "prompt": "将文本 'NIPS' 替换为 'CVPR'",
+    "id": "fullset/text_change/cn/0cf1208c4cfe6b460aaa6c4e01af30a3.png",
+    "edit_type": "text_change"
+  },
+  "73c88cc5d9741cfbc0764304bbba00ed": {
+    "prompt": "将文本 'WOOD' 替换为 'LAND'",
+    "id": "fullset/text_change/cn/73c88cc5d9741cfbc0764304bbba00ed.png",
+    "edit_type": "text_change"
+  },
+  "0f7f956de6cdaff845d738075fa2fa16": {
+    "prompt": "将文本 'SUMMER' 替换为 'WINTER'",
+    "id": "fullset/text_change/cn/0f7f956de6cdaff845d738075fa2fa16.png",
+    "edit_type": "text_change"
+  },
+  "853bc02c90873ac8838e53ee11fa5ec3": {
+    "prompt": "将文本 'PIZZA' 替换为 'PLAZA'",
+    "id": "fullset/text_change/cn/853bc02c90873ac8838e53ee11fa5ec3.png",
+    "edit_type": "text_change"
+  },
+  "5b8fa6ad16fa1c442f0cf33437c8b310": {
+    "prompt": "将文本 'DARK' 替换为 'MILK'",
+    "id": "fullset/text_change/cn/5b8fa6ad16fa1c442f0cf33437c8b310.png",
+    "edit_type": "text_change"
+  },
+  "9897da315582be46de990e313d8e4a9b": {
+    "prompt": "将文本 'HELL'S' 替换为 'HEAVEN'",
+    "id": "fullset/text_change/cn/9897da315582be46de990e313d8e4a9b.png",
+    "edit_type": "text_change"
+  },
+  "334a1052afdb33ad9aebdc24406c46be": {
+    "prompt": "将文本 'BOWL' 替换为 'FULL'",
+    "id": "fullset/text_change/cn/334a1052afdb33ad9aebdc24406c46be.png",
+    "edit_type": "text_change"
+  },
+  "7bdeb9f23a8c11688f33f968ee27be4d": {
+    "prompt": "将文本 'PROJECT' 替换为 'PROMPT'",
+    "id": "fullset/text_change/cn/7bdeb9f23a8c11688f33f968ee27be4d.png",
+    "edit_type": "text_change"
+  },
+  "f9f802a2b603002b098e3e7590f45661": {
+    "prompt": "将文本 'NATURE' 替换为 'SCIENCE'",
+    "id": "fullset/text_change/cn/f9f802a2b603002b098e3e7590f45661.png",
+    "edit_type": "text_change"
+  },
+  "b4b77c91de77e4bd0abe2ca27853ce1f": {
+    "prompt": "将文本 'TOES' 替换为 'NIKE'",
+    "id": "fullset/text_change/cn/b4b77c91de77e4bd0abe2ca27853ce1f.png",
+    "edit_type": "text_change"
+  },
+  "0139f41b56bc537daabf684856d2ddb5": {
+    "prompt": "将文本 'SHEFFIELD 替换为 'EDINBURGH'",
+    "id": "fullset/text_change/cn/0139f41b56bc537daabf684856d2ddb5.png",
+    "edit_type": "text_change"
+  },
+  "65657376e859f54717af9ee796759dc7": {
+    "prompt": "将文本 'DORIT' 替换为 'DRINK'",
+    "id": "fullset/text_change/cn/65657376e859f54717af9ee796759dc7.png",
+    "edit_type": "text_change"
+  },
+  "8ecdf91615e1599dd4a088d757fedd29": {
+    "prompt": "将文本 'CLASSIC MOJITO' 替换为 'BABY MILKSHAKE'",
+    "id": "fullset/text_change/cn/8ecdf91615e1599dd4a088d757fedd29.png",
+    "edit_type": "text_change"
+  },
+  "3e6dd180e9c8081cceae9fc8abbf9052": {
+    "prompt": "将文本 'SEVEN' 替换为 'EIGHT'",
+    "id": "fullset/text_change/cn/3e6dd180e9c8081cceae9fc8abbf9052.png",
+    "edit_type": "text_change"
+  },
+  "c86d92a8647bd78f5b8e25ff05e45d03": {
+    "prompt": "在 'NANCY DOWD' 右侧加上'Written by'",
+    "id": "fullset/text_change/cn/c86d92a8647bd78f5b8e25ff05e45d03.png",
+    "edit_type": "text_change"
+  },
+  "d0c69c93397abe869ba14880d3933216": {
+    "prompt": "将文本 'JACQUES' 替换为 'QUEENS'",
+    "id": "fullset/text_change/cn/d0c69c93397abe869ba14880d3933216.png",
+    "edit_type": "text_change"
+  },
+  "140cbdcd2cc6adccb374b62d40f41b9f": {
+    "prompt": "将文本 'McCONAUGHEY' 替换为 'McDonald'",
+    "id": "fullset/text_change/cn/140cbdcd2cc6adccb374b62d40f41b9f.png",
+    "edit_type": "text_change"
+  },
+  "6e8087c04fbf254fb063f1500135ea36": {
+    "prompt": "将文本 'chicken' 替换为 'beef'",
+    "id": "fullset/text_change/cn/6e8087c04fbf254fb063f1500135ea36.png",
+    "edit_type": "text_change"
+  },
+  "58d1612b7520a747c616519e94c8f48c": {
+    "prompt": "更改文本 '23' 为 '45'",
+    "id": "fullset/text_change/cn/58d1612b7520a747c616519e94c8f48c.png",
+    "edit_type": "text_change"
+  },
+  "f58bb1fd98acc1888a7272d0d0f4f2a7": {
+    "prompt": "将文本 'SPA' 替换为 'Relaxation Oasis'",
+    "id": "fullset/text_change/cn/f58bb1fd98acc1888a7272d0d0f4f2a7.png",
+    "edit_type": "text_change"
+  },
+  "a9ae1402abe1d2624b7fce054edd7313": {
+    "prompt": "将文本 'Bank' 更改为 'Banks'",
+    "id": "fullset/text_change/cn/a9ae1402abe1d2624b7fce054edd7313.png",
+    "edit_type": "text_change"
+  },
+  "ba7dd356656852097eeb86c78c1faae3": {
+    "prompt": "将文本 'Ziel' 替换为 'Porte'",
+    "id": "fullset/text_change/cn/ba7dd356656852097eeb86c78c1faae3.png",
+    "edit_type": "text_change"
+  },
+  "f00dfa62ea1474aeb985b5447dc8fa0c": {
+    "prompt": "将文本 'FAIRGROUNDS' 更改为 'PARKWAY'",
+    "id": "fullset/text_change/cn/f00dfa62ea1474aeb985b5447dc8fa0c.png",
+    "edit_type": "text_change"
+  },
+  "131ed8c70ef386a4edf4faefe155a8c7": {
+    "prompt": "将文本 'SNACK' 替换为 'TREAT'",
+    "id": "fullset/text_change/cn/131ed8c70ef386a4edf4faefe155a8c7.png",
+    "edit_type": "text_change"
+  },
+  "ac80b138c5c796517a6fdc789a7d7c2b": {
+    "prompt": "将文本 'petit' 更改为 'grand'",
+    "id": "fullset/text_change/cn/ac80b138c5c796517a6fdc789a7d7c2b.png",
+    "edit_type": "text_change"
+  },
+  "92181ff38321335cfb22e96fefd03188": {
+    "prompt": "将文本 '32' 替换为 '33'",
+    "id": "fullset/text_change/cn/92181ff38321335cfb22e96fefd03188.png",
+    "edit_type": "text_change"
+  },
+  "5efb5e25b477ca8d0f98f7774cb28ce0": {
+    "prompt": "将文本 'COST' 更改为 'FREE'",
+    "id": "fullset/text_change/cn/5efb5e25b477ca8d0f98f7774cb28ce0.png",
+    "edit_type": "text_change"
+  },
+  "5052e9399738b1d713833bf3b1b55950": {
+    "prompt": "将文本 'hotwind' 替换为 'cool breeze'",
+    "id": "fullset/text_change/cn/5052e9399738b1d713833bf3b1b55950.png",
+    "edit_type": "text_change"
+  },
+  "e25b84ada0cfe0c12eaf82e0b7dbecf3": {
+    "prompt": "将文本 'ONTARIO' 更改为 'ONTARO'",
+    "id": "fullset/text_change/cn/e25b84ada0cfe0c12eaf82e0b7dbecf3.png",
+    "edit_type": "text_change"
+  },
+  "7b61056fbc47ace12e3ae5568e0c67ed": {
+    "prompt": "将文本 'FERMENT' 替换为 'delicious treats'",
+    "id": "fullset/text_change/cn/7b61056fbc47ace12e3ae5568e0c67ed.png",
+    "edit_type": "text_change"
+  },
+  "11e198f3745e800957d19098cf29c99b": {
+    "prompt": "将文本 '500' 更改为 '250'",
+    "id": "fullset/text_change/cn/11e198f3745e800957d19098cf29c99b.png",
+    "edit_type": "text_change"
+  },
+  "73fa218afee74ffe8cc7d1695cef644e": {
+    "prompt": "将文本 'SCHOOL' 更改为 'COLLEGE'",
+    "id": "fullset/text_change/cn/73fa218afee74ffe8cc7d1695cef644e.png",
+    "edit_type": "text_change"
+  },
+  "966bd852686133547ab7283bec3293ab": {
+    "prompt": "将文本 'STOP' 替换为 'Caution'",
+    "id": "fullset/text_change/cn/966bd852686133547ab7283bec3293ab.png",
+    "edit_type": "text_change"
+  },
+  "079b25c601b74a2da8980461e0640324": {
+    "prompt": "将文本 'BAR' 替换为 'Beach'",
+    "id": "fullset/text_change/cn/079b25c601b74a2da8980461e0640324.png",
+    "edit_type": "text_change"
+  },
+  "510f45e1134cf029ef152acee6aaf6dd": {
+    "prompt": "将文本 'ESTATE TACHEN' 更改为 'Timeless Fashion'",
+    "id": "fullset/text_change/cn/510f45e1134cf029ef152acee6aaf6dd.png",
+    "edit_type": "text_change"
+  },
+  "de1a98de20909a104b97fc444fff100d": {
+    "prompt": "将文本 'SNP' 更改为 'Call me'",
+    "id": "fullset/text_change/cn/de1a98de20909a104b97fc444fff100d.png",
+    "edit_type": "text_change"
+  },
+  "bf5580adf9837959761bae65e343ff1f": {
+    "prompt": "将文本 '10000' 替换为 '18000'",
+    "id": "fullset/text_change/cn/bf5580adf9837959761bae65e343ff1f.png",
+    "edit_type": "text_change"
+  },
+  "99500eadb2f363c2e26fcb501972c29f": {
+    "prompt": "将文本 '95' 替换为 '123'",
+    "id": "fullset/text_change/cn/99500eadb2f363c2e26fcb501972c29f.png",
+    "edit_type": "text_change"
+  },
+  "365da3516f60dde11e8a362ceffceb38": {
+    "prompt": "小跃，你能把里面的“曹”字换成“叶”字吗？",
+    "id": "fullset/text_change/cn/365da3516f60dde11e8a362ceffceb38.png",
+    "edit_type": "text_change"
+  },
+  "680b385ed8595ff5e4bfdd9fc7c5bf1a": {
+    "prompt": "在这张图中加入俱乐部这三个字",
+    "id": "fullset/text_change/cn/680b385ed8595ff5e4bfdd9fc7c5bf1a.png",
+    "edit_type": "text_change"
+  },
+  "be45c39b3bcc9d082051c13b5300dde1": {
+    "prompt": "帮我在图中插上时光与你共守情长这几个字",
+    "id": "fullset/text_change/cn/be45c39b3bcc9d082051c13b5300dde1.png",
+    "edit_type": "text_change"
+  },
+  "d93126d2fa1e4d4a9ce9cc0cddee9826": {
+    "prompt": "去掉文字",
+    "id": "fullset/text_change/cn/d93126d2fa1e4d4a9ce9cc0cddee9826.png",
+    "edit_type": "text_change"
+  },
+  "947855a8a1e0954deaa4dc826e9519db": {
+    "prompt": "帮我把图片里面的纹身字样换成此生不负你",
+    "id": "fullset/text_change/cn/947855a8a1e0954deaa4dc826e9519db.png",
+    "edit_type": "text_change"
+  },
+  "27dba5cccc5a6d4ca877b83eb2ca374e": {
+    "prompt": "根据这幅图，把其中隐藏的 new york字样改成ALEX",
+    "id": "fullset/text_change/cn/27dba5cccc5a6d4ca877b83eb2ca374e.png",
+    "edit_type": "text_change"
+  },
+  "e206257f9c32db3dd3ad888865e3cefc": {
+    "prompt": "帮我把后面的字去掉",
+    "id": "fullset/text_change/cn/e206257f9c32db3dd3ad888865e3cefc.png",
+    "edit_type": "text_change"
+  },
+  "3a9853285c981f9ec42fae7c9ba938f8": {
+    "prompt": "能否将图中字改为梦离归时",
+    "id": "fullset/text_change/cn/3a9853285c981f9ec42fae7c9ba938f8.png",
+    "edit_type": "text_change"
+  },
+  "bdd77c99d54bdb14bcd48ee0ee3faafa": {
+    "prompt": "帮我把诸暨两个字改为永康两个字",
+    "id": "fullset/text_change/cn/bdd77c99d54bdb14bcd48ee0ee3faafa.png",
+    "edit_type": "text_change"
+  },
+  "f684d93bdc97991873726762bec1d841": {
+    "prompt": "可以把这张图片白色字体去掉吗",
+    "id": "fullset/text_change/cn/f684d93bdc97991873726762bec1d841.png",
+    "edit_type": "text_change"
+  },
+  "7b2f2dd979ca5149d4a6145bdfa64494": {
+    "prompt": "我想把这件衣服上的字母改成 DIOR",
+    "id": "fullset/text_change/cn/7b2f2dd979ca5149d4a6145bdfa64494.png",
+    "edit_type": "text_change"
+  },
+  "1bb0fbeaac87f6eff80e09d8fd409de1": {
+    "prompt": "把圈内的招财进宝，替换成 财源广进字",
+    "id": "fullset/text_change/cn/1bb0fbeaac87f6eff80e09d8fd409de1.png",
+    "edit_type": "text_change"
+  },
+  "5b8717b2209b784940f388864d5520f3": {
+    "prompt": "我需要你帮我把这张图片里的 2024改成 2025把最下面那个爱心里的陈字改成华字",
+    "id": "fullset/text_change/cn/5b8717b2209b784940f388864d5520f3.png",
+    "edit_type": "text_change"
+  },
+  "7eb55372802dfee7167a63e02728ca0e": {
+    "prompt": "就在这张图上改，不要生成新的图片。左侧帮我加上“彷徨之刃”四个字",
+    "id": "fullset/text_change/cn/7eb55372802dfee7167a63e02728ca0e.png",
+    "edit_type": "text_change"
+  },
+  "f148f938d38014e46b85664ffc617457": {
+    "prompt": "帮我把图片里的字去掉",
+    "id": "fullset/text_change/cn/f148f938d38014e46b85664ffc617457.png",
+    "edit_type": "text_change"
+  },
+  "0ca8f7be9422a84221920fccc6df2c4c": {
+    "prompt": "在这幅图上加上“松前云鹤”四个字，用毛笔的毛体书写",
+    "id": "fullset/text_change/cn/0ca8f7be9422a84221920fccc6df2c4c.png",
+    "edit_type": "text_change"
+  },
+  "3a016977fd14367ffc324d12e965e961": {
+    "prompt": "描述一下这张照片，字替换成“人生靠自己，三分天注定七分靠打拼”分上下排",
+    "id": "fullset/text_change/cn/3a016977fd14367ffc324d12e965e961.png",
+    "edit_type": "text_change"
+  },
+  "62173ca26266af1845db7de6227a2e92": {
+    "prompt": "把下面的字跟数字去掉",
+    "id": "fullset/text_change/cn/62173ca26266af1845db7de6227a2e92.png",
+    "edit_type": "text_change"
+  },
+  "8382cb3ebe2cfce4315f9ec944ee12c2": {
+    "prompt": "在这个图片下面写上混沌练宝决几个字",
+    "id": "fullset/text_change/cn/8382cb3ebe2cfce4315f9ec944ee12c2.png",
+    "edit_type": "text_change"
+  },
+  "a095ed1661fa125363bf59a47d8e52e4": {
+    "prompt": "这张图片帮我加上苍穹决三个字",
+    "id": "fullset/text_change/cn/a095ed1661fa125363bf59a47d8e52e4.png",
+    "edit_type": "text_change"
+  },
+  "07c987a0a42790a9f5fed28a2bc6409e": {
+    "prompt": "帮我把“现正热播中”改成“2025春节上映”",
+    "id": "fullset/text_change/cn/07c987a0a42790a9f5fed28a2bc6409e.png",
+    "edit_type": "text_change"
+  },
+  "75ba6223b2ab4de7f35cc0653d1df7da": {
+    "prompt": "帮我把“冷”后面的字改成“不丁”",
+    "id": "fullset/text_change/cn/75ba6223b2ab4de7f35cc0653d1df7da.png",
+    "edit_type": "text_change"
+  },
+  "f4f263ee11d7db0e483e1c10973e7b22": {
+    "prompt": "帮我把“致青春”改成“致少年”",
+    "id": "fullset/text_change/cn/f4f263ee11d7db0e483e1c10973e7b22.png",
+    "edit_type": "text_change"
+  },
+  "08fcf0e92aeea7e37931a6036a27174b": {
+    "prompt": "把“这么任性”改成“这么任意”",
+    "id": "fullset/text_change/cn/08fcf0e92aeea7e37931a6036a27174b.png",
+    "edit_type": "text_change"
+  },
+  "8ed283fe0c51659c06fd1de14420b544": {
+    "prompt": "在“探秘”前面加上“超级大”",
+    "id": "fullset/text_change/cn/8ed283fe0c51659c06fd1de14420b544.png",
+    "edit_type": "text_change"
+  },
+  "db250fc8f05da99e1e9e57eb3ecd3920": {
+    "prompt": "把“大话西游”改成“神话懂游”",
+    "id": "fullset/text_change/cn/db250fc8f05da99e1e9e57eb3ecd3920.png",
+    "edit_type": "text_change"
+  },
+  "a2a41ebb84be1126248d9cf65d8ed078": {
+    "prompt": "帮我把“行动”改成“出击”",
+    "id": "fullset/text_change/cn/a2a41ebb84be1126248d9cf65d8ed078.png",
+    "edit_type": "text_change"
+  },
+  "11f41f16aebac2a07f24432b8cbeefd7": {
+    "prompt": "把“古堡惊魂”删除",
+    "id": "fullset/text_change/cn/11f41f16aebac2a07f24432b8cbeefd7.png",
+    "edit_type": "text_change"
+  },
+  "4165fe6296cc4e75c9055794e5a13a10": {
+    "prompt": "去掉“攀岩”",
+    "id": "fullset/text_change/cn/4165fe6296cc4e75c9055794e5a13a10.png",
+    "edit_type": "text_change"
+  },
+  "b485856ffb2107eaf50b4b437dacbea3": {
+    "prompt": "把“探寻”改成“找到”",
+    "id": "fullset/text_change/cn/b485856ffb2107eaf50b4b437dacbea3.png",
+    "edit_type": "text_change"
+  },
+  "90c04ff64d248a824f0cd65936a99bf0": {
+    "prompt": "在横线上写增加“抬高80公分”",
+    "id": "fullset/text_change/cn/90c04ff64d248a824f0cd65936a99bf0.png",
+    "edit_type": "text_change"
+  },
+  "ac11359a70c3950fce81d6c4a9665875": {
+    "prompt": "去掉“秘制麻麻鱼”",
+    "id": "fullset/text_change/cn/ac11359a70c3950fce81d6c4a9665875.png",
+    "edit_type": "text_change"
+  },
+  "8155a4b0727c1a4176f5f70cc0810562": {
+    "prompt": "将文本 '戚风蛋糕' 替换为 “鸡蛋蛋糕”",
+    "id": "fullset/text_change/cn/8155a4b0727c1a4176f5f70cc0810562.png",
+    "edit_type": "text_change"
+  },
+  "d9ea1c0d881af0ade68721357d453c64": {
+    "prompt": "黑板上写上“SMILE”",
+    "id": "fullset/text_change/cn/d9ea1c0d881af0ade68721357d453c64.png",
+    "edit_type": "text_change"
+  },
+  "ba63cec563b66911faa74a1c3ba4850a": {
+    "prompt": "在中间加“Top 1”，1 要特别大",
+    "id": "fullset/text_change/cn/ba63cec563b66911faa74a1c3ba4850a.png",
+    "edit_type": "text_change"
+  },
+  "7d283f97ec3592b175588efbd534061a": {
+    "prompt": "把“2022” 改成 “2024”",
+    "id": "fullset/text_change/cn/7d283f97ec3592b175588efbd534061a.png",
+    "edit_type": "text_change"
+  },
+  "7c7d40daf262d8e0df903af3e0917c03": {
+    "prompt": "去掉“copy chief from random house”",
+    "id": "fullset/text_change/cn/7c7d40daf262d8e0df903af3e0917c03.png",
+    "edit_type": "text_change"
+  },
+  "058a3b3c422dcefddb8deb2c61ded83d": {
+    "prompt": "去除文本并添加“我爱你”",
+    "id": "fullset/text_change/cn/058a3b3c422dcefddb8deb2c61ded83d.png",
+    "edit_type": "text_change"
+  },
+  "7ccd6d8d72339d7c94560300dce346f4": {
+    "prompt": "图片中间添加“GAMES”",
+    "id": "fullset/text_change/cn/7ccd6d8d72339d7c94560300dce346f4.png",
+    "edit_type": "text_change"
+  },
+  "58cf4f4a16cd16ffef55c170804be136": {
+    "prompt": "图片左下角写上“我们欢迎你”",
+    "id": "fullset/text_change/cn/58cf4f4a16cd16ffef55c170804be136.png",
+    "edit_type": "text_change"
+  },
+  "3549b73c635e7f5d67d728bd582daffd": {
+    "prompt": "将天气改为暴风雪",
+    "id": "fullset/tone_transfer/cn/3549b73c635e7f5d67d728bd582daffd.png",
+    "edit_type": "tone_transfer"
+  },
+  "8168e81061f790fb34c9f4c81ed34d90": {
+    "prompt": "帮我加个HDR滤镜，变明亮些",
+    "id": "fullset/tone_transfer/cn/8168e81061f790fb34c9f4c81ed34d90.png",
+    "edit_type": "tone_transfer"
+  },
+  "1db07f0d277222e32913bff2681faebb": {
+    "prompt": "让图片更明亮些",
+    "id": "fullset/tone_transfer/cn/1db07f0d277222e32913bff2681faebb.png",
+    "edit_type": "tone_transfer"
+  },
+  "d83dad4db56f5c6c1270708a74311725": {
+    "prompt": "将天气改为下雪",
+    "id": "fullset/tone_transfer/cn/d83dad4db56f5c6c1270708a74311725.png",
+    "edit_type": "tone_transfer"
+  },
+  "ad3ad5f80040286822ec035c8fcf6c0f": {
+    "prompt": "将时间改为夜晚",
+    "id": "fullset/tone_transfer/cn/ad3ad5f80040286822ec035c8fcf6c0f.png",
+    "edit_type": "tone_transfer"
+  },
+  "2c7d8b151daa5920c523e40d1dda0d5e": {
+    "prompt": "将天气改为大雨",
+    "id": "fullset/tone_transfer/cn/2c7d8b151daa5920c523e40d1dda0d5e.png",
+    "edit_type": "tone_transfer"
+  },
+  "e6b1eb3b883e718a85581c0d36727f24": {
+    "prompt": "让图片更明亮些",
+    "id": "fullset/tone_transfer/cn/e6b1eb3b883e718a85581c0d36727f24.png",
+    "edit_type": "tone_transfer"
+  },
+  "b95f07c147ce5d8afd6556b1acd5a902": {
+    "prompt": "将时间改为夜晚",
+    "id": "fullset/tone_transfer/cn/b95f07c147ce5d8afd6556b1acd5a902.png",
+    "edit_type": "tone_transfer"
+  },
+  "2e77d56a387ce48d9467a73c128635c4": {
+    "prompt": "使天气下雪",
+    "id": "fullset/tone_transfer/cn/2e77d56a387ce48d9467a73c128635c4.png",
+    "edit_type": "tone_transfer"
+  },
+  "47e6851356aed262881f4af848b27b8b": {
+    "prompt": "加一个背景虚化的滤镜",
+    "id": "fullset/tone_transfer/cn/47e6851356aed262881f4af848b27b8b.png",
+    "edit_type": "tone_transfer"
+  },
+  "ef5b74bc64af4113749e170f4624a1e4": {
+    "prompt": "将季节改为冬季",
+    "id": "fullset/tone_transfer/cn/ef5b74bc64af4113749e170f4624a1e4.png",
+    "edit_type": "tone_transfer"
+  },
+  "b728006d225ca8acf59cb8bd958d79c4": {
+    "prompt": "让图片更明亮些",
+    "id": "fullset/tone_transfer/cn/b728006d225ca8acf59cb8bd958d79c4.png",
+    "edit_type": "tone_transfer"
+  },
+  "6878b2aaea42391eb6d9d5a004dfba5a": {
+    "prompt": "帮我加个适合这张图片的滤镜",
+    "id": "fullset/tone_transfer/cn/6878b2aaea42391eb6d9d5a004dfba5a.png",
+    "edit_type": "tone_transfer"
+  },
+  "42ece5249116fbad305140e068b118b3": {
+    "prompt": "将天气改为多雾",
+    "id": "fullset/tone_transfer/cn/42ece5249116fbad305140e068b118b3.png",
+    "edit_type": "tone_transfer"
+  },
+  "82713e857fa4a3972bd3bd560ad45d70": {
+    "prompt": "将天气改为下雪",
+    "id": "fullset/tone_transfer/cn/82713e857fa4a3972bd3bd560ad45d70.png",
+    "edit_type": "tone_transfer"
+  },
+  "eded7f39803839235a11c20fe72c67f5": {
+    "prompt": "将这个老图片高清修复上色",
+    "id": "fullset/tone_transfer/cn/eded7f39803839235a11c20fe72c67f5.png",
+    "edit_type": "tone_transfer"
+  },
+  "051ce492fd93f74add67a5fea2ec1f20": {
+    "prompt": "将时间改为史前时代",
+    "id": "fullset/tone_transfer/cn/051ce492fd93f74add67a5fea2ec1f20.png",
+    "edit_type": "tone_transfer"
+  },
+  "acd9a6d08c0a18ee251de9831251edf5": {
+    "prompt": "将天气改为下雪",
+    "id": "fullset/tone_transfer/cn/acd9a6d08c0a18ee251de9831251edf5.png",
+    "edit_type": "tone_transfer"
+  },
+  "7bfbebfb0521da039f7ec26aec330ec9": {
+    "prompt": "将天气改为多雾",
+    "id": "fullset/tone_transfer/cn/7bfbebfb0521da039f7ec26aec330ec9.png",
+    "edit_type": "tone_transfer"
+  },
+  "d231513192c28e8f14d79a41fd648e9a": {
+    "prompt": "帮我调个滤镜，让画面更明亮些",
+    "id": "fullset/tone_transfer/cn/d231513192c28e8f14d79a41fd648e9a.png",
+    "edit_type": "tone_transfer"
+  },
+  "8907d6eacd7b91ee4cf8a157802a53a5": {
+    "prompt": "将这张照片上色，不要改变人的脸型结构",
+    "id": "fullset/tone_transfer/cn/8907d6eacd7b91ee4cf8a157802a53a5.png",
+    "edit_type": "tone_transfer"
+  },
+  "7bea5378467e211452fb8289e7da71be": {
+    "prompt": "帮我加个适合这张图片的滤镜",
+    "id": "fullset/tone_transfer/cn/7bea5378467e211452fb8289e7da71be.png",
+    "edit_type": "tone_transfer"
+  },
+  "277a863acdd110cc9550f16da754a93d": {
+    "prompt": "把这张照片修复一下 变得有色彩 让人物更加生动 有色彩",
+    "id": "fullset/tone_transfer/cn/277a863acdd110cc9550f16da754a93d.png",
+    "edit_type": "tone_transfer"
+  },
+  "1846b247da04c0fe6c63d8166e100a6a": {
+    "prompt": "将这个老图片高清修复上色",
+    "id": "fullset/tone_transfer/cn/1846b247da04c0fe6c63d8166e100a6a.png",
+    "edit_type": "tone_transfer"
+  },
+  "e7652e4858f7d1f3b86a0de28c6cb8c1": {
+    "prompt": "修复上色",
+    "id": "fullset/tone_transfer/cn/e7652e4858f7d1f3b86a0de28c6cb8c1.png",
+    "edit_type": "tone_transfer"
+  },
+  "f57ec87ccf7bc1788dfd5be1da4dbe7a": {
+    "prompt": "感觉我的照片有点暗黄，帮我的照片调下色",
+    "id": "fullset/tone_transfer/cn/f57ec87ccf7bc1788dfd5be1da4dbe7a.png",
+    "edit_type": "tone_transfer"
+  },
+  "9d26293b9cc3ffd9df59117abbd9783d": {
+    "prompt": "修复图片且上色",
+    "id": "fullset/tone_transfer/cn/9d26293b9cc3ffd9df59117abbd9783d.png",
+    "edit_type": "tone_transfer"
+  },
+  "4b0700347e2ea2aef8f27a2cc2b9c370": {
+    "prompt": "修成超级画质",
+    "id": "fullset/tone_transfer/cn/4b0700347e2ea2aef8f27a2cc2b9c370.png",
+    "edit_type": "tone_transfer"
+  },
+  "dbc15e88af0839a1b60801291c31b3c8": {
+    "prompt": "给照片上色，使照片更加清晰",
+    "id": "fullset/tone_transfer/cn/dbc15e88af0839a1b60801291c31b3c8.png",
+    "edit_type": "tone_transfer"
+  },
+  "5c01bd878c03ec2e5c6060f7a133b2f9": {
+    "prompt": "帮我调色，让画面看起来更明亮",
+    "id": "fullset/tone_transfer/cn/5c01bd878c03ec2e5c6060f7a133b2f9.png",
+    "edit_type": "tone_transfer"
+  },
+  "c09e9a0c550da145d9afe12c543b0048": {
+    "prompt": "帮我把这张照片变清晰",
+    "id": "fullset/tone_transfer/cn/c09e9a0c550da145d9afe12c543b0048.png",
+    "edit_type": "tone_transfer"
+  },
+  "94ab9306a1ea70be534d9ef36f3a19b0": {
+    "prompt": "图片黑天变成白天",
+    "id": "fullset/tone_transfer/cn/94ab9306a1ea70be534d9ef36f3a19b0.png",
+    "edit_type": "tone_transfer"
+  },
+  "02f9043a04c5691315d5d690193c955e": {
+    "prompt": "帮我加个HDR滤镜，变明亮些",
+    "id": "fullset/tone_transfer/cn/02f9043a04c5691315d5d690193c955e.png",
+    "edit_type": "tone_transfer"
+  },
+  "68afffd7d086ad91fb4d45d372418fea": {
+    "prompt": "把这张图片变清晰",
+    "id": "fullset/tone_transfer/cn/68afffd7d086ad91fb4d45d372418fea.png",
+    "edit_type": "tone_transfer"
+  },
+  "4167a37565e731478db17e138cbb6b8a": {
+    "prompt": "请把图中孩子的脸处理的更清晰",
+    "id": "fullset/tone_transfer/cn/4167a37565e731478db17e138cbb6b8a.png",
+    "edit_type": "tone_transfer"
+  },
+  "3053a9287013dac68056dd7aefdced02": {
+    "prompt": "帮我调个滤镜",
+    "id": "fullset/tone_transfer/cn/3053a9287013dac68056dd7aefdced02.png",
+    "edit_type": "tone_transfer"
+  },
+  "220cbf1b8bf55b56873b0aec63a1e6bc": {
+    "prompt": "让照片更清晰，并且美颜",
+    "id": "fullset/tone_transfer/cn/220cbf1b8bf55b56873b0aec63a1e6bc.png",
+    "edit_type": "tone_transfer"
+  },
+  "cea51a1910ce86cd42a393ba7417daf3": {
+    "prompt": "帮我修一下画质",
+    "id": "fullset/tone_transfer/cn/cea51a1910ce86cd42a393ba7417daf3.png",
+    "edit_type": "tone_transfer"
+  },
+  "f4ecf30b68ba88536a28f899b87e5af1": {
+    "prompt": "能帮我修复这张照片嘛？",
+    "id": "fullset/tone_transfer/cn/f4ecf30b68ba88536a28f899b87e5af1.png",
+    "edit_type": "tone_transfer"
+  },
+  "2a52ea99c0051bff29020048a0daca28": {
+    "prompt": "帮我调一下色",
+    "id": "fullset/tone_transfer/cn/2a52ea99c0051bff29020048a0daca28.png",
+    "edit_type": "tone_transfer"
+  }
+}
