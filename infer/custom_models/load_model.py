@@ -33,6 +33,12 @@ MODEL_SETTINGS = {
             "class": "BagelT2I",
             "model_kwargs": {"generate_with_think": True},
         },
+        "internvl-u": {
+            "model_path": os.path.join(file_dir, "checkpoints/InternVL-U"),
+            "module": ".model_utils.internvl_u_t2i",
+            "class": "InternVLUT2I",
+            "model_kwargs": {},
+        },
         "lumina-dimoo": {
             "model_path": os.path.join(file_dir, "checkpoints/Lumina-DiMOO"),
             "module": ".model_utils.lumina_dimoo_t2i",
@@ -72,6 +78,12 @@ MODEL_SETTINGS = {
             "module": ".model_utils.bagel_edit",
             "class": "BagelEdit",
             "model_kwargs": {"generate_with_think": True},
+        },
+        "internvl-u": {
+            "model_path": os.path.join(file_dir, "checkpoints/InternVL-U"),
+            "module": ".model_utils.internvl_u_edit",
+            "class": "InternVLUEdit",
+            "model_kwargs": {},
         },
         "lumina-dimoo": {
             "model_path": os.path.join(file_dir, "checkpoints/Lumina-DiMOO"),

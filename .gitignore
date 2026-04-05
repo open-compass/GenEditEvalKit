@@ -6,3 +6,4 @@ log/
 output/
 outputs/
 __pycache__/
+test_output/

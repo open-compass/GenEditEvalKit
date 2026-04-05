@@ -2,7 +2,12 @@
 
 > The first unified, efficient, and extensible evaluation toolkit for evaluating image generation and editing models across multiple benchmarks.
 
-[⚡ Quick Start](#-quick-start) | [中文文档](./README_zh.md) | [English](./README.md) 
+[⚡ Quick Start](#-quick-start) | [中文文档](./README_zh.md) | [English](./README.md) | [![InternVL-U](https://img.shields.io/badge/GitHub-InternVL--U-black?logo=github)](https://github.com/OpenGVLab/InternVL-U) | [![arXiv](https://img.shields.io/badge/ArXiv-2603.09877-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.09877)
+
+Update Log:
+- **2026-04-05**: Added model `InternVL-U` and benchmark `GEdit`.
+- **2026-03-06**: InternVL-U technical report released. Check it out on [[arXiv]](https://arxiv.org/abs/2603.09877).
+- **2026-03-05**: GenEditEvalKit released.
  
  ---
  
@@ -58,6 +63,154 @@ To address this issue, we developed **GenEditEvalKit**—a general-purpose evalu
 - Editing benchmarks commonly include input images and thus can be large in size. To control repository size, only a smaller benchmark, **imgedit**, is retained as a reference implementation. Users may deploy other editing benchmarks based on this example.
 - We will continue to add new benchmarks, and community contributions (PRs) are welcome 🎉
 
+### Currently Supported Models
+<table>
+  <thead>
+    <tr>
+      <th align="left">Model</th>
+      <th align="left">Task Type</th>
+      <th align="left">Original Repository</th>
+      <th align="left">Checkpoint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>Bagel</code></td>
+      <td>t2i, edit</td>
+      <td>
+        <a href="https://github.com/bytedance-seed/BAGEL">
+          <img src="https://img.shields.io/badge/GitHub-BAGEL-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT">
+          <img src="https://img.shields.io/badge/🤗%20Model-BAGEL--7B--MoT-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>InternVL-U</code></td>
+      <td>t2i, edit</td>
+      <td>
+        <a href="https://github.com/OpenGVLab/InternVL-U">
+          <img src="https://img.shields.io/badge/GitHub-InternVL--U-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/InternVL-U/InternVL-U">
+          <img src="https://img.shields.io/badge/🤗%20Model-InternVL--U-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>Lumina-DiMOO</code></td>
+      <td>t2i, edit</td>
+      <td>
+        <a href="https://github.com/Alpha-VLLM/Lumina-DiMOO">
+          <img src="https://img.shields.io/badge/GitHub-Lumina--DiMOO-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/Alpha-VLLM/Lumina-DiMOO">
+          <img src="https://img.shields.io/badge/🤗%20Model-Lumina--DiMOO-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>OpenAI API</code></td>
+      <td>t2i, edit</td>
+      <td>
+        Compatible with any service following the OpenAI API standard.
+      </td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><code>Ovis-U1</code></td>
+      <td>t2i, edit</td>
+      <td>
+        <a href="https://github.com/AIDC-AI/Ovis-U1">
+          <img src="https://img.shields.io/badge/GitHub-Ovis--U1-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/AIDC-AI/Ovis-U1-3B">
+          <img src="https://img.shields.io/badge/🤗%20Model-Ovis--U1--3B-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>Qwen-Image</code></td>
+      <td>t2i</td>
+      <td>
+        <a href="https://github.com/QwenLM/Qwen-Image">
+          <img src="https://img.shields.io/badge/GitHub-Qwen--Image-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/Qwen/Qwen-Image">
+          <img src="https://img.shields.io/badge/🤗%20Model-Qwen--Image-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>Qwen-Image-Edit</code></td>
+      <td>edit</td>
+      <td>
+        <a href="https://github.com/QwenLM/Qwen-Image">
+          <img src="https://img.shields.io/badge/GitHub-Qwen--Image-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/Qwen/Qwen-Image-Edit">
+          <img src="https://img.shields.io/badge/🤗%20Model-Qwen--Image--Edit-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>Qwen-Image-Edit-2509</code></td>
+      <td>edit</td>
+      <td>
+        <a href="https://github.com/QwenLM/Qwen-Image">
+          <img src="https://img.shields.io/badge/GitHub-Qwen--Image-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/Qwen/Qwen-Image-Edit-2509">
+          <img src="https://img.shields.io/badge/🤗%20Model-Qwen--Image--Edit--2509-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>Qwen-Image-Edit-2511</code></td>
+      <td>edit</td>
+      <td>
+        <a href="https://github.com/QwenLM/Qwen-Image">
+          <img src="https://img.shields.io/badge/GitHub-Qwen--Image-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/Qwen/Qwen-Image-Edit-2511">
+          <img src="https://img.shields.io/badge/🤗%20Model-Qwen--Image--Edit--2511-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>Qwen-Image-2512</code></td>
+      <td>t2i</td>
+      <td>
+        <a href="https://github.com/QwenLM/Qwen-Image">
+          <img src="https://img.shields.io/badge/GitHub-Qwen--Image-black?logo=github">
+        </a>
+      </td>
+      <td>
+        <a href="https://huggingface.co/Qwen/Qwen-Image-2512">
+          <img src="https://img.shields.io/badge/🤗%20Model-Qwen--Image--2512-yellow">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### Currently Supported Benchmarks
 <table>
   <thead>
@@ -67,18 +220,102 @@ To address this issue, we developed **GenEditEvalKit**—a general-purpose evalu
     </tr>
   </thead>
   <tbody>
-    <tr><td><code>dpgbench</code></td><td><a href="https://github.com/TencentQQGYLab/ELLA">TencentQQGYLab/ELLA</a></td></tr>
-    <tr><td><code>genai</code></td><td><a href="https://huggingface.co/datasets/BaiqiL/GenAI-Bench">BaiqiL/GenAI-Bench</a></td></tr>
-    <tr><td><code>geneval</code></td><td><a href="https://github.com/djghosh13/geneval">djghosh13/geneval</a></td></tr>
-    <tr><td><code>geneval2</code></td><td><a href="https://github.com/facebookresearch/GenEval2">facebookresearch/GenEval2</a></td></tr>
-    <tr><td><code>genexam</code></td><td><a href="https://github.com/OpenGVLab/GenExam">OpenGVLab/GenExam</a></td></tr>
-    <tr><td><code>hpsv2</code></td><td><a href="https://github.com/tgxs002/HPSv2">tgxs002/HPSv2</a></td></tr>
-    <tr><td><code>longtext</code></td><td><a href="https://github.com/X-Omni-Team/X-Omni">X-Omni-Team/X-Omni</a></td></tr>
-    <tr><td><code>oneig</code></td><td><a href="https://github.com/OneIG-Bench/OneIG-Benchmark">OneIG-Bench/OneIG-Benchmark</a></td></tr>
-    <tr><td><code>t2ireasonbench</code></td><td><a href="https://github.com/KaiyueSun98/T2I-ReasonBench">KaiyueSun98/T2I-ReasonBench</a></td></tr>
-    <tr><td><code>tiff</code></td><td><a href="https://github.com/A113N-W3I/TIIF-Bench">A113N-W3I/TIIF-Bench</a></td></tr>
-    <tr><td><code>unigenbench</code></td><td><a href="https://github.com/CodeGoat24/UniGenBench">CodeGoat24/UniGenBench</a></td></tr>
-    <tr><td><code>wise</code></td><td><a href="https://github.com/PKU-YuanGroup/WISE">PKU-YuanGroup/WISE</a></td></tr>
+    <tr>
+      <td><code>dpgbench</code></td>
+      <td>
+        <a href="https://github.com/TencentQQGYLab/ELLA">
+          <img src="https://img.shields.io/badge/GitHub-ELLA-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>genai</code></td>
+      <td>
+        <a href="https://huggingface.co/datasets/BaiqiL/GenAI-Bench">
+          <img src="https://img.shields.io/badge/🤗%20Dataset-GenAI--Bench-yellow">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>geneval</code></td>
+      <td>
+        <a href="https://github.com/djghosh13/geneval">
+          <img src="https://img.shields.io/badge/GitHub-geneval-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>geneval2</code></td>
+      <td>
+        <a href="https://github.com/facebookresearch/GenEval2">
+          <img src="https://img.shields.io/badge/GitHub-GenEval2-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>genexam</code></td>
+      <td>
+        <a href="https://github.com/OpenGVLab/GenExam">
+          <img src="https://img.shields.io/badge/GitHub-GenExam-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>hpsv2</code></td>
+      <td>
+        <a href="https://github.com/tgxs002/HPSv2">
+          <img src="https://img.shields.io/badge/GitHub-HPSv2-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>longtext</code></td>
+      <td>
+        <a href="https://github.com/X-Omni-Team/X-Omni">
+          <img src="https://img.shields.io/badge/GitHub-X--Omni-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>oneig</code></td>
+      <td>
+        <a href="https://github.com/OneIG-Bench/OneIG-Benchmark">
+          <img src="https://img.shields.io/badge/GitHub-OneIG--Benchmark-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>t2ireasonbench</code></td>
+      <td>
+        <a href="https://github.com/KaiyueSun98/T2I-ReasonBench">
+          <img src="https://img.shields.io/badge/GitHub-T2I--ReasonBench-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>tiff</code></td>
+      <td>
+        <a href="https://github.com/A113N-W3I/TIIF-Bench">
+          <img src="https://img.shields.io/badge/GitHub-TIIF--Bench-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>unigenbench</code></td>
+      <td>
+        <a href="https://github.com/CodeGoat24/UniGenBench">
+          <img src="https://img.shields.io/badge/GitHub-UniGenBench-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>wise</code></td>
+      <td>
+        <a href="https://github.com/PKU-YuanGroup/WISE">
+          <img src="https://img.shields.io/badge/GitHub-WISE-black?logo=github">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -90,11 +327,46 @@ To address this issue, we developed **GenEditEvalKit**—a general-purpose evalu
     </tr>
   </thead>
   <tbody>
-    <tr><td><code>gedit/gedit_cn</code></td><td><a href="https://github.com/stepfun-ai/Step1X-Edit">stepfun-ai/Step1X-Edit</a></td></tr>
-    <tr><td><code>imgedit</code></td><td><a href="https://github.com/PKU-YuanGroup/ImgEdit">PKU-YuanGroup/ImgEdit</a></td></tr>
-    <tr><td><code>krisbench</code></td><td><a href="https://github.com/mercurystraw/Kris_Bench">mercurystraw/Kris_Bench</a></td></tr>
-    <tr><td><code>risebench</code></td><td><a href="https://github.com/PhoenixZ810/RISEBench">PhoenixZ810/RISEBench</a></td></tr>
-    <tr><td><code>wiseedit</code></td><td><a href="https://github.com/beepkh/WiseEdit">beepkh/WiseEdit</a></td></tr>
+    <tr>
+      <td><code>gedit/gedit_cn</code></td>
+      <td>
+        <a href="https://github.com/stepfun-ai/Step1X-Edit">
+          <img src="https://img.shields.io/badge/GitHub-Step1X--Edit-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>imgedit</code></td>
+      <td>
+        <a href="https://github.com/PKU-YuanGroup/ImgEdit">
+          <img src="https://img.shields.io/badge/GitHub-ImgEdit-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>krisbench</code></td>
+      <td>
+        <a href="https://github.com/mercurystraw/Kris_Bench">
+          <img src="https://img.shields.io/badge/GitHub-Kris__Bench-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>risebench</code></td>
+      <td>
+        <a href="https://github.com/PhoenixZ810/RISEBench">
+          <img src="https://img.shields.io/badge/GitHub-RISEBench-black?logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><code>wiseedit</code></td>
+      <td>
+        <a href="https://github.com/beepkh/WiseEdit">
+          <img src="https://img.shields.io/badge/GitHub-WiseEdit-black?logo=github">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -320,6 +592,9 @@ Common configuration fields include:
 | `module` | Module path of the model interface (Python import path). |
 | `class` | Model class name (as defined in the corresponding `.py` file under `model_utils`). |
 | `model_kwargs` | Additional initialization parameters (`dict`). If user-provided custom parameters with the same keys are supplied in `config.sh` or via the command line, they override these defaults. |
+
+#### Step 4. Configure Inference Environment
+Please specify the model’s corresponding conda environment name in `INFER_ENV_MAP` within `config.sh`. The root path of conda environments is defined by `CONDA_BASE` in `config.sh`.
 
 After completing the above steps, you can include the model name in `MODEL_NAMES` in `config.sh` or pass it via `--model_names` in the command line to participate in evaluation.
 

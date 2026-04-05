@@ -21,7 +21,7 @@ BASE_URL="your_api_base_url_here" # Replace with your actual API base URL, such 
 CONDA_BASE="YOUR_CONDA_PATH_HERE" # Replace with your actual conda installation path, e.g., "/home/username/miniconda3"
 CUDA_BASE="YOUR_CUDA_PATH_HERE" # Replace with your actual CUDA installation path, e.g., "/usr/local/cuda"
 TORCH_HOME="YOUR_TORCH_CACHE_PATH_HERE" # Replace with your desired torch cache path, e.g., "/home/username/.cache/torch"
-HOME="YOUR_HOME_PATH_HERE" # Path for ~, recommended to set to the root directory of GMEvalKit_dev to control some cache paths
+HOME="YOUR_HOME_PATH_HERE" # Path for ~, recommended to set to the root directory of GenEditEvalKit to control some cache paths
 HF_HOME="YOUR_HF_CACHE_PATH_HERE" # Replace with your desired Hugging Face cache path, e.g., "/home/username/.cache/huggingface"
 HF_ENDPOINT="https://huggingface.co" # You can change to mirror endpoint such as https://hf-mirror.com if needed
 TRANSFORMERS_CACHE="$HF_HOME/hub"
@@ -36,6 +36,7 @@ INFER_ENV_MAP=(
   ['gpt-image-1.5']=''
   ['gemini-3-pro-image-preview']=''
   ['bagel']=''
+  ['internvl-u']=''
   ['lumina-dimoo']=''
   ['ovis-u1']=''
   ['qwen-image']=''
@@ -49,6 +50,7 @@ declare -gA EVAL_ENV_MAP
 EVAL_ENV_MAP=(
   # T2I
   ['dpgbench']=''
+  ['gedit']=''
   ['genai']=''
   ['geneval']=''
   ['geneval2']=''
@@ -74,6 +76,7 @@ EVAL_ENV_MAP=(
 declare -gA EVAL_GPU_MAP
 EVAL_GPU_MAP=(
   ['dpgbench']=1
+  ['gedit']=0
   ['genai']=1
   ['geneval']=1
   ['geneval2']=1
