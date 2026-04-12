@@ -1,23 +1,21 @@
-# 🎨 GenEditEvalKit
+# GenEditEvalKit
 
 > The first unified, efficient, and extensible evaluation toolkit for evaluating image generation and editing models across multiple benchmarks.
 
-[⚡ Quick Start](#-quick-start) | [中文文档](./README_zh.md) | [English](./README.md) | [![InternVL-U](https://img.shields.io/badge/GitHub-InternVL--U-black?logo=github)](https://github.com/OpenGVLab/InternVL-U) | [![arXiv](https://img.shields.io/badge/ArXiv-2603.09877-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.09877)
+[![arXiv](https://img.shields.io/badge/ArXiv-2603.09877-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.09877) [![InternVL-U](https://img.shields.io/badge/GitHub-InternVL--U-black?logo=github)](https://github.com/OpenGVLab/InternVL-U)
 
-Update Log:
+[⚡ Quick Start](#-quick-start) | [中文文档](./README_zh.md) | [English](./README.md)
+
+## 🎉 News
 - **2026-04-05**: Added model `InternVL-U` and benchmark `GEdit`.
 - **2026-03-06**: InternVL-U technical report released. Check it out on [[arXiv]](https://arxiv.org/abs/2603.09877).
 - **2026-03-05**: GenEditEvalKit released.
  
- ---
- 
- ## 📖 Overview
+## 📖 Overview
 
 In the evaluation of image generation and editing models, **efficiently evaluating multiple models across multiple benchmarks simultaneously** remains a persistent challenge. Conventional workflows often require writing separate scripts for each *(model, benchmark)* pair, resulting in fragmented pipelines and high maintenance overhead.
 
 To address this issue, we developed **GenEditEvalKit**—a general-purpose evaluation toolkit for image generation and editing models on multiple benchmarks. It provides a unified evaluation entry point and configuration interface, supports parallel evaluation across multiple models and benchmarks, and exposes simple yet extensible APIs to facilitate the integration of new models and benchmarks. It can also be used to evaluate unified multimodal models (UMMs).
-
----
 
 ## 📑 Contents
 
@@ -36,8 +34,6 @@ To address this issue, we developed **GenEditEvalKit**—a general-purpose evalu
 - [🔒 Scenarios Where GPU Nodes Cannot Access the Internet](#-scenarios-where-gpu-nodes-cannot-access-the-internet)
 - [⭐ Stars](#-stars)
 - [👥 Contributors](#-contributors)
-
----
 
 ## ✨ Key Features
 
@@ -370,8 +366,6 @@ To address this issue, we developed **GenEditEvalKit**—a general-purpose evalu
   </tbody>
 </table>
 
----
-
 ## ⚡ Quick Start
 
 A minimal runnable example to evaluate `GPT-Image-1.5`'s performance on `Imgedit` via an **OpenAI-compatible API**
@@ -389,8 +383,6 @@ Before running, ensure you have completed the following configurations in `confi
 bash eval.sh --model_names "gpt-image-1.5" --ds_names "imgedit" --use_api true --num_workers 4 --infer true --eval true
 ```
 
----
-
 ## 🚀 Usage Guide
 
 ### Environment Setup
@@ -404,15 +396,11 @@ pip install -r requirements/benchmark/t2i/geneval.txt
 
 Note: Although the above requirements.txt files have been aligned as closely as possible with the dependency files from the original model or benchmark repositories, the original files themselves may not be perfect. If you encounter installation or runtime errors, please adjust dependencies or versions flexibly according to your specific situation.
 
----
-
 ### Launch Command
 
 > ⚠️ **Before running the main evaluation script `eval.sh`, it is recommended to configure parameters in `config.sh`.**
 
 In addition, some parameters can be temporarily overridden via command-line arguments; see the details below.
-
----
 
 #### 1. Parameter Configuration Reference
 
@@ -446,8 +434,6 @@ The table below lists the key parameters in `config.sh`, whether they can be ove
 > - “Command-line override” means that when the corresponding argument is provided (e.g., `--ds_names genexam` / `--model_names internvl-u` ), the **command-line value takes precedence** over `config.sh`.  
 > - Other parameters must be modified in `config.sh`.
 
----
-
 #### 2. Configuration Priority
 
 The overall priority order is:
@@ -475,8 +461,6 @@ Example:
 
 Then the benchmarks evaluated in this run will be `wiseedit` and `gedit`.
 
----
-
 #### 3. How to Run
 
 **📌 Option 1: Use the configuration in `config.sh` directly**
@@ -495,8 +479,6 @@ In this mode:
 - The specific environments and GPU requirements used for inference/evaluation are determined by `INFER_ENV_MAP`, `EVAL_ENV_MAP`, `EVAL_GPU_MAP`, etc.
 
 This is suitable for routine evaluations with stable configurations, reducing the need to repeatedly specify command-line parameters.
-
----
 
 **📌 Option 2: Temporarily override part of the configuration via command-line arguments**
 
@@ -517,8 +499,6 @@ This command means:
 - Evaluate the benchmarks `wiseedit` and `gedit`.  
 - Run both inference (`infer=true`) and evaluation (`eval=true`) regardless of the defaults in `config.sh`.
 
----
-
 ## Development Guide
 
 This section describes how to integrate a new model and a new benchmark into GenEditEvalKit.
@@ -534,8 +514,6 @@ infer/custom_models/checkpoints/
 ```
 
 This makes model invocation convenient. Alternatively, you may store weights elsewhere, but you must specify the correct path when registering the model loading logic.
-
----
 
 #### Step 2. Implement the Model Invocation Interface
 
@@ -572,8 +550,6 @@ The `generate` interface depends on the task type:
       ...
   ```
 
----
-
 #### Step 3. Register the Model Loading Logic
 
 After defining the model class, register it under the `MODEL_SETTINGS` variable in:
@@ -597,8 +573,6 @@ Common configuration fields include:
 Please specify the model’s corresponding conda environment name in `INFER_ENV_MAP` within `config.sh`. The root path of conda environments is defined by `CONDA_BASE` in `config.sh`.
 
 After completing the above steps, you can include the model name in `MODEL_NAMES` in `config.sh` or pass it via `--model_names` in the command line to participate in evaluation.
-
----
 
 ## Integrating a New Benchmark
 
@@ -648,8 +622,6 @@ GenEditEvalKit/infer/custom_datasets/load_dataset.py
 
 so that the main pipeline can automatically load the dataset by benchmark name.
 
----
-
 #### Step 2. Implement the Evaluation Script
 
 Following the official evaluation protocol/command provided by the benchmark, implement an evaluation script and place it under:
@@ -675,8 +647,6 @@ In `config.sh`:
 > - During **evaluation**, the working directory will be switched to the benchmark repository directory.  
 >   When writing evaluation scripts, pay careful attention to how paths are resolved.
 
----
-
 ## Project Structure
 
 The main directory structure and its functionality are as follows:
@@ -700,8 +670,6 @@ The main directory structure and its functionality are as follows:
     └── use_cuda.sh               # switch CUDA versions
 ```
 
----
-
 ## 🔒 Scenarios Where GPU Nodes Cannot Access the Internet
 
 Some benchmarks download models from HuggingFace before deploying them locally for GPU inference. If **GPU nodes cannot directly access the public internet**, required weights must be downloaded in an internet-accessible environment and then transferred to the evaluation environment.
@@ -716,8 +684,6 @@ In this project, you can manually download models into `${HF_HOME}/hub` (where `
   - Follow the official download procedure provided by the model authors; download in an internet-accessible environment and place the weights under `eval_models` or the appropriate subdirectory of `$HOME/.cache`, then synchronize to the evaluation environment.
 
 After downloading all required artifacts, set `HOME`, `HF_HOME`, and `TRANSFORMERS_CACHE` in `config.sh`, and enable offline mode by setting `HF_HUB_OFFLINE=1` and `TRANSFORMERS_OFFLINE=1` to complete evaluation in offline settings.
-
----
 
 ## 🖊️ Citation
 If you use GenEditEvalKit in your research or wish to refer to published OpenSource evaluation results, please use the following BibTeX entry and the BibTex entry corresponding to the specific model / benchmark you used.
@@ -781,10 +747,17 @@ In addition, we will continue to expand model and benchmark support and improve 
       <br />
       <sub>💡 Contributor</sub>
     </td>
+    <td align="center" width="180">
+      <a href="https://github.com/gzchen4ai">
+        <img src="https://github.com/gzchen4ai.png?size=120" width="96" height="96" alt="gzchen4ai" />
+        <br />
+        <sub><b>Guanzhou Chen</b></sub>
+      </a>
+      <br />
+      <sub>💡 Contributor</sub>
+    </td>
   </tr>
 </table>
-
----
 
 <div align="center">
 
